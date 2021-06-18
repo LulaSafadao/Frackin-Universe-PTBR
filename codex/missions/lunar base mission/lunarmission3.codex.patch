@@ -1,0 +1,7 @@
+[{"path":"/description","value":"Diretrizes amig\u00e1veis da Corpora\u00e7\u00e3o Letheia para todos os seus empregados.","op":"replace"},{"path":"/title","value":"Diretrizes da Corpora\u00e7\u00e3o Letheia","op":"replace"},{"path":"/contentPages/0","value":"Pedimos gentilmente aos empregados:\n\n1. Use o equipamento de seguran\u00e7a adequado em todos os momentos\n\n2. Comporte-se adequadamente e de forma profissional\n\n3. Relate ocorr\u00eancias desconhecidas para o QG Letheia antes de se aproximar da gest\u00e3o no local\n\n4. Tenha um bom dia","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

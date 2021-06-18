@@ -1,0 +1,7 @@
+[{"path":"/title","value":"A Hist\u00f3ria da Viagem Espacial","op":"replace"},{"path":"/description","value":"Um livro sobre a viagem espacial por um historiador humano contempor\u00e2neo.","op":"replace"},{"path":"/contentPages/0","value":"A hist\u00f3ria humana remonta t\u00e3o longe que muitos registros foram perdidos. Contos antigos falam de nossos antepassados que de alguma forma se aventuram no espa\u00e7o sem o aux\u00edlio da dobra espacial, mas n\u00e3o h\u00e1 nenhuma evid\u00eancia real para isso. Uma vez que a descoberta da dobra espacial foi feita, no entanto, a humanidade foi rapidamente capaz de avan\u00e7ar tecnologicamente e culturalmente, resultando nos \u00faltimos milhares de anos de paz e prosperidade, que \u00e9 tudo que sabemos.","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

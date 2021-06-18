@@ -1,0 +1,7 @@
+[{"path":"/title","value":"Pap\u00e9is","op":"replace"},{"path":"/contentPages/0","value":"Regras da Ca\u00e7ada s\u00e3o:\n\nLutar com outros Floran\nMatar a grande Presa\nGanhar um tr\u00f3feu brilhante","op":"replace"},{"path":"/description","value":"Regras de uma Ca\u00e7ada Floran.","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

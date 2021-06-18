@@ -1,0 +1,7 @@
+[{"path":"/description","value":"Um livro de conselhos para Greenfingers frangotes, escrito por um Greenfingers mais velho.","op":"replace"},{"path":"/title","value":"\u00c1rvore Geneal\u00f3gica dos Floran","op":"replace"},{"path":"/contentPages/1","value":"Por exemplo, mesmo muito jovem Floran com excelentes habilidades de ca\u00e7a ser\u00e1 considerado altamente por seus iguais.\n\nMuitos Greenfingers n\u00e3o tem muita for\u00e7a, ent\u00e3o eles usam sua ast\u00facia para parecerem fortes. Sendo mais espertos que outros e prestando muita aten\u00e7\u00e3o \u00e0 hierarquia mudando em sua tribo ir\u00e1 permitir-lhe chegar \u00e0 frente daqueles que s\u00e3o influentes entre os seus","op":"replace"},{"path":"/contentPages/0","value":"Para ser um Greenfinger bem sucedido, voc\u00ea deve primeiro entender as complexidades da estrutura familiar da nossa ra\u00e7a. Como voc\u00ea j\u00e1 deve saber, existem figuras n\u00e3o 'pai' na cultura Floran e, como tal, um Greenfinger deve agir como figura de autoridade da tribo.\n\nFloran sempre respeitam um Greenfinger que protege sua tribo, independentemente da sua idade ou experi\u00eancia , por respeito entre nossa esp\u00e9cie \u00e9 concedido aqueles que mostram for\u00e7a.","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

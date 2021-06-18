@@ -1,0 +1,7 @@
+[{"path":"/title","value":"Um Bom Dia de Folga","op":"replace"},{"path":"/contentPages/1","value":"O gotejamento constante da \u00e1gua do teto, a passagem de fluxos de \u00e1gua sob os p\u00e9s, o zumbido espor\u00e1dico de asas gigantes, em algum lugar atr\u00e1s de mim...","op":"replace"},{"path":"/contentPages/0","value":"por Hiraki Corale, Hylotl Aventureiro\n\nEu me encontrei em um pouco de um impasse; atr\u00e1s de mim, uma horda de Glitchs com forcados e tochas. \u00c0 minha frente, a abertura para um esgoto. Tomei coragem, e mergulhei de cabe\u00e7a nos t\u00faneis escuros.\n\nNossa, essa foi por um triz! Agora estou aqui em baixo, explorando os corredores labir\u00ednticos, n\u00e3o encontrando nem uma alma. \u00c9, de fato, bastante pac\u00edfico.","op":"replace"},{"path":"/description","value":"Um trecho do di\u00e1rio de Hiraki Corale, Hylotl Aventureiro.","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

@@ -1,0 +1,7 @@
+[{"path":"/title","value":"A HUMANIDADE PRECISA DE VOC\u00ca!","op":"replace"},{"path":"/contentPages/0","value":"Humanos devem se organizar para\nsuperar a amea\u00e7a\nque nos atormenta!\n\nDevemos lutar contra as\nra\u00e7as verminosas que\ninfestam nosso universo!\n\nEnquanto voc\u00ea est\u00e1 sentado sastifeito\nestas criaturas malvadas corrompem\nnossa casa!\n\nHumanos se unam.\nJunte-se a Occasus.\nVista o capuz roxo.","op":"replace"},{"path":"/description","value":"Propaganda da Occasus.","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

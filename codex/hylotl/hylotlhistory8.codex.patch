@@ -1,0 +1,7 @@
+[{"path":"/contentPages/0","value":"Um guerreiro Hylotl deve ser treinado em muitas artes - n\u00e3o apenas naquelas do tipo marcial, que deve ser usada na defesa de seus parentes, mas tamb\u00e9m aquelas que servem para manter o lutador centrado. A filosofia deve ser seu ref\u00fagio, para que eles possam vir a compreender o mundo, e seu lugar dentro dele. Eles devem aceitar a no\u00e7\u00e3o de que todos os seres vivos est\u00e3o entrela\u00e7ados: devem se reconhecer para ser t\u00e3o poderosos como a maior besta e t\u00e3o fr\u00e1geis quanto o menor inseto.","op":"replace"},{"path":"/description","value":"Um livro descrevendo a filosofia de um guerreiro Hylotl.","op":"replace"},{"path":"/title","value":"Para Treinar o Guerreiro","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

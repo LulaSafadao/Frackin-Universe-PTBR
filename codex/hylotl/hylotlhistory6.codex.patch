@@ -1,0 +1,7 @@
+[{"path":"/description","value":"Um livro de hist\u00f3ria Hylotl relatando o turbulento relacionamento da ra\u00e7a com os Floran.","op":"replace"},{"path":"/title","value":"Um Tratado sobre os Floran","op":"replace"},{"path":"/contentPages/0","value":"Gera\u00e7\u00f5es atr\u00e1s, a civiliza\u00e7\u00e3o Hylotl estava quase desfeita: uma ra\u00e7a de fil\u00f3sofos e artistas quase extintos pelos ataques b\u00e1rbaros de uma horda selvagem.\n\nOs Floran, simplistas, violentos e incivilizados, devastaram nossas terras e assustaram nosso povo. Sua viol\u00eancia feroz amea\u00e7ou nossa pr\u00f3pria exist\u00eancia.\n\nNos tempos modernos, esta velha inimizade desapareceu na inexist\u00eancia.","op":"replace"},{"path":"/contentPages/1","value":"Enquanto os Floran simplesmente esqueceram sobre este epis\u00f3dio no nosso passado compartilhado, n\u00f3s os Hylotl conseguimos perdoar. N\u00f3s o fizemos com nobreza, e com leveza em nossos cora\u00e7\u00f5es. N\u00f3s os perdoamos.\n\nEmbora eles destru\u00edram s\u00e9culos de literatura, de arte e de realiza\u00e7\u00e3o... Mesmo que nos conduzissem, aterrorizados, debaixo das ondas do mar... Apesar de tentarem nos comer.\n\nSim. N\u00f3s definitivamente os perdoamos.","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

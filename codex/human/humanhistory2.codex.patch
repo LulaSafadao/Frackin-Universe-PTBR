@@ -1,0 +1,7 @@
+[{"path":"/description","value":"Um artigo de not\u00edcias humano de antes do Protetorado Terreno ser formado.","op":"replace"},{"path":"/contentPages/1","value":"E pedimos por uma organiza\u00e7\u00e3o - uma de paz e ilumina\u00e7\u00e3o - para proteger essa chama e alimentar seu calor.","op":"replace"},{"path":"/contentPages/0","value":"VERDADEIRA VOCA\u00c7\u00c3O DA HUMANIDADE\n\nNos \u00faltimos anos, a devo\u00e7\u00e3o da humanidade \u00e0 uni\u00e3o das pessoas do universo iluminou a Terra.\n\n\u00c0 medida que mais e mais ra\u00e7as alien\u00edgenas visitam nosso mundo natal, trazendo com eles contos de suas pr\u00f3prias hist\u00f3rias ricas, \u00c9 f\u00e1cil ver como a humanidade est\u00e1 lentamente se tornando o \"encarregado\" de toda a vida. A Terra \u00e9 agora um lugar de consolo, uma chama brilhante que antes era escurid\u00e3o.","op":"replace"},{"path":"/title","value":"Nosso Dever com as Estrelas","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

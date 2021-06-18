@@ -1,0 +1,7 @@
+[{"path":"/title","value":"Arquitetura Floran","op":"replace"},{"path":"/contentPages/1","value":"O artesanato \u00e9 bem o que voc\u00ea esperaria dos Floran - cru para dizer o m\u00ednimo - mas h\u00e1 um certo charme ineg\u00e1vel. Eu tive muito tempo para estudar isso, j\u00e1 que estive escondido em uma das suas casas na \u00e1rvore por tr\u00eas dias, esperando minha chance de escapar despercebido. Ah, que aventura divertida essa!","op":"replace"},{"path":"/contentPages/0","value":"por Hiraki Corale, Hylotl Aventureiro\n\n\u00c1rvores! Eles vivem em \u00e1rvores. Essas pessoas-plantas silvestres e selvagens vivem em enormes casas na \u00e1rvore constru\u00eddas com cuidado e aten\u00e7\u00e3o. Bem, nem todos eles. Quero dizer, eles tamb\u00e9m vivem em cavernas, e nas fendas ocasionais. \u00c9 muito longe dos nossos maravilhosos para\u00edsos oce\u00e2nicos, \u00e9 claro, mas \u00e9 preciso admirar a tenacidade com que esta esp\u00e9cie tenta esculpir um nicho para chamar de seu.","op":"replace"},{"path":"/description","value":"Um trecho do di\u00e1rio de Hiraki Corale, Hylotl Aventureiro.","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  
