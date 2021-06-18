@@ -1,0 +1,7 @@
+[{"path":"/contentPages/1","value":"Um plano foi necess\u00e1rio. Um plano que o rei n\u00e3o iria questionar. Finalmente foi encontrado uma solu\u00e7\u00e3o; os Glitch iriam hospedar um desfile.","op":"replace"},{"path":"/contentPages/0","value":"Os ferreiros Glitch trabalharam dia e noite para criar um ex\u00e9rcito adequado para o seu senhor Dreadwing. Claro, este ex\u00e9rcito n\u00e3o lutava, ou at\u00e9 mesmo se movia, mas parecia realmente grande em determinados \u00e2ngulos.\n\nEventualmente, por\u00e9m, os ferreiros sa\u00edram da sala, e perceberam que portanto, tinha chegado a hora de revelar o seu ex\u00e9rcito falso. Isto os coloca em um problema. Claro que o ex\u00e9rcito n\u00e3o era capaz de marchar ao castelo de Dreadwing, nem mesmo marchar em qualquer outro lugar.","op":"replace"},{"path":"/title","value":"O Que Queria Ser Rei Parte 4","op":"replace"},{"path":"/description","value":"Um conto folcl\u00f3rico Glitch.","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

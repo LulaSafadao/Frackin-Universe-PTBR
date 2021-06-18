@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Origem da Tenebrhae",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Explorando a ra\u00E7a estranha Tenebrhae.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Uma das mais estranhas e enigm\u00E1ticas das ra\u00E7as principais s\u00E3o, sem d\u00FAvida, as coisas-sombra vivas que chamamos de Tenebrhae. Vindos dos mundos mais escuros, eles s\u00E3o, literalmente, a ess\u00EAncia da sombra dada \u00E0 forma. Isso desafia toda a l\u00F3gica e ci\u00EAncia conhecidas, levando muitos a se perguntarem se eles podem ser algum fragmento de um poder literal maior. Tudo o que sabemos com certeza \u00E9 que eles est\u00E3o todos conectados em algum n\u00EDvel que n\u00E3o podemos come\u00E7ar a compreender.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Isso significa que cada um deles sabe o resto. N\u00E3o existem estranhos de sua esp\u00E9cie, mas da mesma forma, n\u00E3o existe uma linguagem conhecida. Eles se comunicam, mas n\u00E3o da maneira que a maioria das pessoas. Isso geralmente assume a forma do que chamamos de enigmas, se \u00E9 que eles falam. Eles responder\u00E3o \u00E0s perguntas com perguntas (ou n\u00E3o responder\u00E3o de forma alguma, ou responder\u00E3o de uma forma que nos deixa perplexos. Na maioria das vezes, responder afirmativamente ou negativamente \u00E0s perguntas que n\u00E3o h\u00E1 resposta)",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Esta esp\u00E9cie tamb\u00E9m n\u00E3o parece estar com raiva. Eles n\u00E3o lutam entre si e quase nunca atacam os outros sem um bom motivo. Eles n\u00E3o exibem nenhuma emo\u00E7\u00E3o externa que possamos identificar, levando muitos a acreditar que s\u00E3o aut\u00F4matos irracionais que servem a uma \u00FAnica intelig\u00EAncia coletiva em seu centro. No entanto, isso n\u00E3o \u00E9 verdade, pois cada um deles s\u00E3o individuais.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Para evitar exageros: Cada uma de suas a\u00E7\u00F5es \u00E9 uma melhoria de toda sua esp\u00E9cie. As emo\u00E7\u00F5es parecem n\u00E3o ser algo em que devam gastar seu tempo.",
+    "path": "/contentPages/3",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

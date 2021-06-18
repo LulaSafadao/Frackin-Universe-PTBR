@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Sussurro da m\u00E3e",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Registros do fragmento.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Quando a m\u00E3e sussurra, os fragmentos devem obedecer. Consumir permite que os fragmentos sobrevivam. A m\u00E3e d\u00E1 \u00E0 luz fragmentos para submiss\u00E3o.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

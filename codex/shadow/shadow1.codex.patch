@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Um e muitos",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Registros do fragmento.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Os fragmentos devem explorar e ser um olho. Aprendemos por meio de fragmentos. Experimentamos por meio de fragmentos, e a unidade \u00E9 mais importante para n\u00F3s. Pesquisa. Estude. Consome. Os fragmentos ent\u00E3o voltam e compartilham mem\u00F3rias.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

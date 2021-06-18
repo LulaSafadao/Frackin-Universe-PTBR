@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Fragmentos",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Perguntas sobre o Tenebrhae.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Muitos acreditam que os Novakids s\u00E3o fragmentos do Criador, aquela criatura ancestral que \u00E9 respons\u00E1vel por povoar o cosmos com o que sabemos. Se fosse, como podemos explicar a presen\u00E7a de tenebrhae? Todos os testes parecem indicar que eles s\u00E3o de fato de origem antiga e a sua pr\u00F3pria natureza tamb\u00E9m os liga \u00E0 mat\u00E9ria do cosmos.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Ent\u00E3o, eles s\u00E3o algo como anti-Novakids? Yang-yin? Luz e sombra? Eu teorizo que talvez existam mais coisas que precedem todas as vidas conhecidas fora do Criador. Talvez at\u00E9 uma mulher! Isso poderia ser poss\u00EDvel? Existe um Criador feminino em algum lugar entre as estrelas?",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Isso definitivamente tornaria a ideia deles sobre a m\u00E3e mais confi\u00E1vel. Muitas pessoas pensam que sua conex\u00E3o mental \u00E9 semelhante a uma colmeia e \u00E9 uma conex\u00E3o psi\u00F4nica que vai al\u00E9m de tudo que sabemos... mas e se eles estiverem errados e de fato se comunicarem (ou forem partes de) algum poder massivo e antigo? Alguma criatura deu \u00E0 luz todas as trevas, enquanto o Criador deu \u00E0 luz \u00E0 luz?",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]
