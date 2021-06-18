@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Fac\u00E7\u00E3o Kir'vat",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Detalhes da fac\u00E7\u00E3o Kir'vat do Veluu.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Os Kir'vat s\u00E3o uma fac\u00E7\u00E3o composta por estudiosos e artes\u00E3os, suas curiosidades os leva a buscar o conhecimento acima de tudo, a tal ponto que \u00E0s vezes pode lev\u00E1-los a problemas. Eles viajam pela gal\u00E1xia e estabelecem postos avan\u00E7ados tempor\u00E1rios para completar uma nova linha de pesquisa antes de prosseguir novamente. Eles s\u00E3o naturalmente otimistas, veem o lado bom de tudo e est\u00E3o sempre dispostos a dar uma m\u00E3o para ajudar quem precisa.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

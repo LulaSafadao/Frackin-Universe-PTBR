@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Sociedade Veluu'ish",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "A estrutura da sociedade Veluu.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A ra\u00E7a toda \u00E9 executada por um grande conselho de 20 membros, e 2 l\u00EDderes, 10 Kir'vat e 10 Vat'iish. O l\u00EDder do Kir'vat permanece em seu planeta natal e muda a cada 4 anos por meio de uma elei\u00E7\u00E3o democr\u00E1tica. O l\u00EDder do Vat'iish, entretanto, muda com frequ\u00EAncia.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Os Vat'iish t\u00EAm uma tradi\u00E7\u00E3o de que qualquer um de sua fac\u00E7\u00E3o pode se tornar o l\u00EDder, desde que possam derrotar o atual em um teste de combate. Um desafiante deve primeiro provar sua for\u00E7a em um teste decidido pelos 10 membros do conselho Vat'iish, e se eles sobreviverem, o l\u00EDder permitir\u00E1 que o julgamento seja realizado.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

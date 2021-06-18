@@ -1,0 +1,27 @@
+[
+  {
+    "value": "O vellu'ish",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Sobre o veluu'ish.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "A terra natal Vel'uuish \u00E9 habitada principalmente por Kir'vat, e \u00E9 usado como uma loja enorme de conhecimento que eles se reuniram ao longo do tempo em que sua ra\u00E7a tem existido. Os Vat'iish, naturalmente, ficam longe de seu mundo natal tanto quanto poss\u00EDvel, embora em tempos de grande emerg\u00EAncia, eles voltam para casa para oferecer sua for\u00E7a caso seja necess\u00E1rio, por um pre\u00E7o.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Os Kir'vat esperam que um dia os Vat'iish vejam que existe for\u00E7a na unidade e, como tal, n\u00E3o se ressentem dos Vat'iish por sua natureza espinhosa. At\u00E9 ent\u00E3o, eles se contentam em viver em relativa seguran\u00E7a, sabendo que, apesar de suas diferen\u00E7as, os Vat'iish dependem deles para sobreviver: quem mais vai fazer as armas e preparar as ra\u00E7\u00F5es de comida?",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

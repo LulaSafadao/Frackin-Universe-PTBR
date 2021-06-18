@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Os vat'iish",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Detalhes da fac\u00E7\u00E3o vat'iish.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Os vat'iish s\u00E3o uma fac\u00E7\u00E3o orgulhosa e, embora sejam inteligentes, desprezam os kir'vat e seus m\u00E9todos 'covardes', preferem o caminho de ser guerreiro. Eles usam a gal\u00E1xia como seu pr\u00F3prio arm\u00E1rio de trof\u00E9us pessoal, cercando mundos habitados e assumindo os assentamentos que podem estar localizados ali apenas para mostrar que podem. Eles s\u00E3o astutos, enganadores e nunca far\u00E3o nada por ningu\u00E9m sem um bom incentivo.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

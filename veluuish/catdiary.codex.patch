@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Registro pessoal do sobrevivente",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "O di\u00E1rio de uma alma perdida.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Registro Pessoal: Data Estelar 9472.298. Eu mal escapei da terra dos protetores ap\u00F3s o desastre... Estou preso em uma \u00F3rbita ao redor de um planeta exuberante, o que \u00E9 conveniente, pois parece tranquilo. O transportador est\u00E1 funcionando... no momento. Os sensores da minha nave parecem estar detectando um pequeno posto avan\u00E7ado de pesquisa na superf\u00EDcie. Talvez haja algu\u00E9m l\u00E1 que possa me ajudar...",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Registro Pessoal: Data Estelar 9472.301. J\u00E1 se passaram v\u00E1rios dias desde que cheguei. Estou t\u00E3o sozinho... Ainda n\u00E3o encontrei esse posto avan\u00E7ado de pesquisa - se \u00E9 que existe. Tudo o que sei \u00E9 que estou com muita fome. Neste planeta sempre est\u00E1 chovendo normalmente n\u00E3o me importo com a chuva, mas minha pequena cabana est\u00E1 constantemente vazando e eu realmente n\u00E3o gosto de ter que dormir em uma cama molhada todas as noites. \u00C9 o pior. Bem, pelo menos a comida \u00E9 abundante neste pequeno planeta, mesmo que eu tenha que sair e ca\u00E7ar. Oh o que eu n\u00E3o faria por algumas erva-dos-gatos agora...",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]
