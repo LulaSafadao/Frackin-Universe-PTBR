@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Pegar tudo",
+    "path": "/gui/clear/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Ler tudo",
+    "path": "/gui/openCodex/caption"
+  },
+  {
+    "op": "replace",
+    "value": "16 SLOTS",
+    "path": "/gui/count/value"
+  }
+]

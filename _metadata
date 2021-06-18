@@ -1,0 +1,10 @@
+{
+  "author" : "Lula Safadão",
+  "description" : "[h1]TRADUÇÃO DO FRACKIN UNIVERSE[/h1]\n\nA razão de eu ter criado essa tradução é porque nenhum BR quis fazer então decidir que vou fazer (apesar da comunidade BR ser completamente falida).\n\nQuanto mais gente ajudar mais rápido chegamos nas atualizações recentes desse mod incrível que a gringa fez.\n\nSe ter bugs so me mandar o print ou o codigo fonte do erro.\n\nEsse mod vai traduzir tudo exceto itens, talvez faço separado com tradução dos itens.\n\nFuturamente vou fazer um mod (se ainda não criarem) em que o mod da tradução vanilla vai ter uma correção na criação dos personagens e diversos bugs. \n\n[h1] Se você tiver com a tradução PT-BR vanilla instalada, desinstale porque já está sendo implementado.[/h1] \n\nPresentinho pra vocês :')\n\nCréditos: \n\nTigerSurvivor - https://steamcommunity.com/id/TigerSurvivor1 - Traduziu as armas, armaduras e a Interface da Navegação\nMhHith - https://steamcommunity.com/profiles/76561198946136286 - Revisão geral na Interface da Navegação\nTradução Russa - Estudando e aplicando os conceitos da programação.\nTradução do Starbound PT-BR - https://steamcommunity.com/sharedfiles/filedetails/?id=754883881 - Mod implementado.",
+  "friendlyName" : "Tradução do Frackin Universe BR",
+  "link" : "steam://url/CommunityFilePage/1951534383",
+  "name" : "Tradução do Frackin Universe BR",
+  "steamContentId" : "1951534383",
+  "tags" : "Crafting and Building|Miscellaneous|Planets and Environments|Musical Instruments and Songs|NPCs and Creatures|Weapons|Quests|Dungeons|Cheats and God Items|Ships|Species|User Interface|Furniture and Objects|Character Improvements|Food and Farming|In-Game Tools|Mechanics|Vehicles and Mounts|Armor and Clothes",
+  "version" : "1.0.1"
+}

@@ -1,0 +1,2682 @@
+[
+  {
+    "op": "replace",
+    "value": "Aceitar",
+    "path": "/gui/editBookmarkFrame/children/ok/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Cancelar",
+    "path": "/gui/editBookmarkFrame/children/close/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Cancelar",
+    "path": "/gui/jumpDialog/children/cancel/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Ef\u00EDgio",
+    "path": "/displayOres/effigium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Mar \u00C9ter",
+    "path": "/planetTypeNames/aethersea"
+  },
+  {
+    "op": "replace",
+    "value": "Ant\u00E1rtico",
+    "path": "/planetTypeNames/arctic"
+  }, 
+  {
+    "op": "replace",
+    "value": "Aster\u00F3ides",
+    "path": "/planetTypeNames/asteroids"
+  },
+  {
+    "op": "replace",
+    "value": "\u00C1tropos",
+    "path": "/planetTypeNames/atropus"
+  },
+  {
+    "op": "replace",
+    "value": "Mar sangrento",
+    "path": "/planetTypeNames/bloodstonesea"
+  },
+  {
+    "op": "replace",
+    "value": "Est\u00E9ril",
+    "path": "/planetTypeNames/barren"
+  },
+  {
+    "op": "replace",
+    "value": "Sangrento",
+    "path": "/planetTypeNames/bloodstone"
+  },
+  {
+    "op": "replace",
+    "value": "P\u00E2ntano",
+    "path": "/planetTypeNames/bog"
+  },
+  {
+    "op": "replace",
+    "value": "Cin\u00E1brio",
+    "path": "/displayOres/cinnabar/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "\u00C9den",
+    "path": "/planetTypeNames/eden"
+  },
+  {
+    "op": "replace",
+    "value": "Lua congelada",
+    "path": "/planetTypeNames/icemoon"
+  },
+  {
+    "op": "replace",
+    "value": "Vulc\u00E3o congelado",
+    "path": "/planetTypeNames/frozenvolcanic"
+  },
+  {
+    "op": "replace",
+    "value": "Fungi",
+    "path": "/planetTypeNames/fungus"
+  },
+  {
+    "op": "replace",
+    "value": "Gigante gasoso",
+    "path": "/planetTypeNames/fugasgiant"
+  },
+  {
+    "op": "replace",
+    "value": "Gigante gasoso",
+    "path": "/planetTypeNames/fugasgiant2"
+  },
+  {
+    "op": "replace",
+    "value": "Gigante gasoso",
+    "path": "/planetTypeNames/fugasgiant3"
+  },
+  {
+    "op": "replace",
+    "value": "Gigante gasoso",
+    "path": "/planetTypeNames/fugasgiant4"
+  },
+  {
+    "op": "replace",
+    "value": "Gigante gasoso",
+    "path": "/planetTypeNames/fugasgiant5"
+  },
+  {
+    "op": "replace",
+    "value": "Gelatinoso",
+    "path": "/planetTypeNames/slimeworld"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva gravitacional",
+    "path": "/displayWeathers/gravrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Inferno",
+    "path": "/planetTypeNames/infernus"
+  },
+  {
+    "op": "replace",
+    "value": "Infestado",
+    "path": "/displayWeathers/fubuggy/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Irradiado",
+    "path": "/planetTypeNames/irradiated"
+  },
+  {
+    "op": "replace",
+    "value": "Irr\u00E1dio",
+    "path": "/displayOres/irradium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Isog\u00EAnio",
+    "path": "/displayOres/isogen/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Koanite",
+    "path": "/displayOres/koanite/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Lasombrium",
+    "path": "/displayOres/corruption/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Montanhoso",
+    "path": "/planetTypeNames/mountainous"
+  },
+  {
+    "op": "replace",
+    "value": "Nept\u00FAnio",
+    "path": "/displayOres/neptunium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Mar de nitrog\u00EAnio",
+    "path": "/planetTypeNames/nitrogensea"
+  },
+  {
+    "op": "replace",
+    "value": "Penumbra",
+    "path": "/planetTypeNames/penumbra"
+  },
+  {
+    "op": "replace",
+    "value": "Penumbrite",
+    "path": "/displayOres/penumbrite/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Cristal plasm\u00E1tico",
+    "path": "/displayOres/fublooddiamond/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Floresta primitiva",
+    "path": "/planetTypeNames/arboreal"
+  },
+  {
+    "op": "replace",
+    "value": "Protocite",
+    "path": "/displayOres/protocite/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Pirita",
+    "path": "/displayOres/pyreite/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Quietus",
+    "path": "/displayOres/quietus/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Floresta tropical",
+    "path": "/planetTypeNames/thickjungle"
+  },
+  {
+    "op": "replace",
+    "value": "Lua met\u00E1lica",
+    "path": "/planetTypeNames/moon_metallic"
+  },
+  {
+    "op": "replace",
+    "value": "Lua sombria",
+    "path": "/planetTypeNames/moon_shadow"
+  },
+  {
+    "op": "replace",
+    "value": "Neve",
+    "path": "/displayWeathers/snow/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Partes separadas",
+    "path": "/displayOres/junkmod/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Mar estranho",
+    "path": "/planetTypeNames/strangesea"
+  },
+  {
+    "op": "replace",
+    "value": "Sulf\u00FArico",
+    "path": "/planetTypeNames/sulphuric"
+  },
+  {
+    "op": "replace",
+    "value": "T\u00E1bula rasa",
+    "path": "/planetTypeNames/tabularasa"
+  },
+  {
+    "op": "replace",
+    "value": "T\u00F3rio",
+    "path": "/displayOres/thorium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tundra",
+    "path": "/planetTypeNames/tundra"
+  },
+  {
+    "op": "replace",
+    "value": "Desconhecido",
+    "path": "/planetTypeNames/ffunknown"
+  },
+  {
+    "op": "replace",
+    "value": " Desconhecido",
+    "path": "/threatLevelText/moon/0"
+  },
+  {
+    "op": "replace",
+    "value": "Devastado",
+    "path": "/planetTypeNames/urbanwasteland"
+  },
+  {
+    "op": "replace",
+    "value": "Xithricite",
+    "path": "/displayOres/xithricite/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Zerchesium",
+    "path": "/displayOres/zerchesium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Console da navega\u00E7\u00E3o",
+    "path": "/gui/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2; Selecione seu destino",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "%s corpos em \u00F3rbita",
+    "path": "/clusterMoons/plural"
+  },
+  {
+    "op": "replace",
+    "value": "A ^#008aff;mar\u00E9^reset; do planeta est\u00E1 coberto de recifes afiados, forma\u00E7\u00F5es de pedras semelhantes a espinhos e ^orange;recursos raros^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra veneno^reset;",
+    "path": "/visitableTypeDescription/tidewater/2"
+  },
+  {
+    "op": "replace",
+    "value": "A ^#12a003;selva^white; local de desembarque densamente habitado por flora e fauna de muitos tipos. A \u00E1rea \u00E9 rica em recursos, mas bastante quente moderadamente radioativa. ^red;moderadamente radioativa^white;.",
+    "path": "/visitableTypeDescription/jungle/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#414556;t\u00F3xico^reset; lua coberta de dep\u00F3sitos de solo de putrefa\u00E7\u00E3o longa, e uma densa nuvem de ^red;g\u00E1s t\u00F3xica severamente venenosa^reset;",
+    "path": "/visitableTypeDescription/moon_toxic/2"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#505f50;escurid\u00E3o total e obscura^reset; torna essa lua rica em recursos e em um lugar perigoso e assustador. Cuidado onde pisa. ^red;Detectado sinal biol\u00F3gico desconhecido^reset;.",
+    "path": "/visitableTypeDescription/moon_shadow/0"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#505f50;bola de g\u00E1s^reset; com atmosfera suficiente para fornecer acesso a ^orange;recursos valiosos^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant/5"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#505f50;bola de g\u00E1s^reset; com atmosfera suficiente para fornecer acesso a ^orange;recursos valiosos^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant2/5"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#505f50;bola de g\u00E1s^reset; com atmosfera suficiente para fornecer acesso a ^orange;recursos valiosos^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant3/5"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#505f50;bola de g\u00E1s^reset; com atmosfera suficiente para fornecer acesso a ^orange;recursos valiosos^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant4/5"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#505f50;bola de g\u00E1s^reset; com atmosfera suficiente para fornecer acesso a ^orange;recursos valiosos^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant5/5"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#505f50;lua sombria^reset; impede que a maior parte da luz penetre em seu miasma escuro. Eu detectei ^orange;recursos valiosos^reset; e ^red;algum tipo de bioassinatura desconhecida^reset;.",
+    "path": "/visitableTypeDescription/moon_shadow/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#517f51;mundo gelatinoso^reset;, alta elasticidade. Formas de ^red;vidas estranhas, massiva^reset; e uma ^red;atmosfera venenosa^reset; detectada.",
+    "path": "/visitableTypeDescription/slimeworld/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#517f51;mundo prot\u00F3tipo^reset;. Flora mutante e sinais de vida incomuns detectados. Os scanners tamb\u00E9m localizaram caches de ^#e2ef55;min\u00E9rio de Protocite^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra Veneno Prot\u00F3tipo^reset;",
+    "path": "/visitableTypeDescription/protoworld/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#517f51;mundo prot\u00F3tipo^reset;. Flora mutante e sinais de vida incomuns detectados. Os scanners tamb\u00E9m localizaram caches de ^#e2ef55;min\u00E9rio de Protocite^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra Veneno Prot\u00F3tipo^reset;",
+    "path": "/visitableTypeDescription/protoworlddark/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#61ffe3;lugar congelado^white;, coberto de gelo - o pergelissolo escorre fundo aqui. Tempestades de neve s\u00E3o comuns e as ^red;temperaturas s\u00E3o perigosamente baixas.^white;.",
+    "path": "/visitableTypeDescription/tundra/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#61ffe3;lugar congelado^white;, coberto de gelo - o pergelissolo escorre fundo aqui. Tempestades de neve s\u00E3o comuns e as ^red;temperaturas s\u00E3o perigosamente baixas.^white;.",
+    "path": "/visitableTypeDescription/tundradark/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um planeta ^#64616f;sem luz^reset; mas com muito min\u00E9rio de ef\u00EDgio detectado. ^#d16fff;Min\u00E9rio de Ef\u00EDgio^reset; detectado. Uma escurid\u00E3o quase completa te aguarda.",
+    "path": "/visitableTypeDescription/lightless/2"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#663322;lua vulc\u00E2nica^reset; que flui com ^red;lava e calor severo^reset;. Tome cuidado ao explorar.",
+    "path": "/visitableTypeDescription/moon_volcanic/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#666666;mundo met\u00E1lico^reset; Constru\u00EDdo por uma antiga ra\u00E7a. ^#90ac7c;Abundantes metais raros^reset; detectados. Os escaneamentos tamb\u00E9m mostram seres mec\u00E2nicos.",
+    "path": "/visitableTypeDescription/metallicmoon/2"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#7fe96e;col\u00F4nia de fungos^reset; com um tamanho insuper\u00E1vel envolve quase todo o mundo. Bastante ^red;nuvens venenosas^reset; detectedas.",
+    "path": "/visitableTypeDescription/fungus/2"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#8349cc;bola de piche^reset; com fontes ^#555555;abundantes de \u00F3leo^reset; detectado na superf\u00EDcie e abaixo dela. Qualquer tipo de ^orange;prote\u00E7\u00E3o contra piche^reset; seria \u00FAtil. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o calor^reset;",
+    "path": "/visitableTypeDescription/tarball/2"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#8349cc;bola de piche^reset; com uma superf\u00EDcie semi-habit\u00E1vel. A sobrecarga de corpos l\u00EDquidos com ^#555555;\u00F3leo abundante^reset; suja a superf\u00EDcie. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o calor^reset;",
+    "path": "/visitableTypeDescription/tarball/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um mundo ^#8349cc;coberto de piche^reset; com atmosfera respir\u00E1vel. ^orange;Po\u00E7as de piche pegajosas e perigosas^reset; far\u00E3o sua aventura lenta. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o calor^reset;",
+    "path": "/visitableTypeDescription/tarball/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#848484;terreno baldio^reset; que abriga os restos de uma incr\u00EDvel civiliza\u00E7\u00E3o. Algo terr\u00EDvel aconteceu aqui, h\u00E1 muito tempo. ^#43a43a;Ru\u00EDnas antigas^reset; guardam muitos tesouros perdidos. ^red;Tempo agitado detectado.^reset;.",
+    "path": "/visitableTypeDescription/urbanwasteland/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#848484;terreno baldio^reset;. Ru\u00EDnas abundantes de uma ^#43a43a;civiliza\u00E7\u00E3o erradicada^reset; localizada principalmente perto da crosta. Tempestades estranhas e muitas vezes ^red;severamente mortais^reset; se formam de tempos em tempos.",
+    "path": "/visitableTypeDescription/urbanwasteland/1"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#86a8c5;lua congelada^reset;. Cuidado com o seu p\u00E9 e cuidado com a ^red;perigosa vida selvagem^reset;. Abundante ^#e43558;min\u00E9rio de tel\u00FArio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: EPP II contra Frio^reset;",
+    "path": "/visitableTypeDescription/icemoon/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um planeta coberto de ^#8cf387;floresta tropical^reset; com a vida org\u00E2nica absolutamente desenvolvida. Abundantes ^#green;recursos org\u00E2nicos^reset; detectados.",
+    "path": "/visitableTypeDescription/thickjungle/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um mundo ^#914560;super-denso^reset; com uma for\u00E7a gravitacional muito maior do que outros planetas do mesmo tamanho. ^red;Muito perigoso. Pisa com cuidado.",
+    "path": "/visitableTypeDescription/superdense/2"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#999999;lua rochosa^reset; com forma\u00E7\u00F5es de pedra irregulares e perigosas.",
+    "path": "/visitableTypeDescription/moon_stone/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um planeta^#a56caf;cristalino^reset;. Estes mundos s\u00E3o a \u00FAnica fonte de ^#e6c011;cristais lunares^reset;. Forma\u00E7\u00F5es de ^e43774;cristais de silicato^reset; detectadas.",
+    "path": "/visitableTypeDescription/crystalmoon/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um mundo ^#aa6b48;escuro atr\u00F3pico^reset;. Este planeta incomum parece estar ^#cc8d5a;biologicamente mutado^reset; como se tivesse sido criado por um Deus insano. ^red;Aviso: Atmosfera psionicamente perturbadora.^reset;.",
+    "path": "/visitableTypeDescription/atropusdark/2"
+  },
+  {
+    "op": "replace",
+    "value": "Uma superf\u00EDcie ^#b398ba;montanhosa^reset; faz sua viagem ser lenta, mas possui fontes ^#e47998;abundantes de metais^reset; que devem ser \u00FAteis.",
+    "path": "/visitableTypeDescription/mountainous/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um lugar ^#b398ba;montanhoso^reset;com ^#e47998;min\u00E9rio de zerchesium^reset; que deve ser \u00FAtil. O clima de alta gravidade \u00E9 frequente. Tenha cuidado.",
+    "path": "/visitableTypeDescription/mountainous/3"
+  },
+  {
+    "op": "replace",
+    "value": "Uma superf\u00EDcie ^#b86c00;vulc\u00E2nica congelada^reset; cheia de perigos te espera l\u00E1 embaixo. ^red;Cuidado com os perigos da lava, nitrog\u00EAnio frio e l\u00EDquido.^reset; ^cyan;Recomenda\u00E7\u00E3o: EPP II Contra frio^reset;",
+    "path": "/visitableTypeDescription/frozenvolcanic/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#c80000;deserto vermelho^reset; se estende por quase toda a circunfer\u00EAncia deste mundo extremamente quente. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o calor mortal^reset;",
+    "path": "/visitableTypeDescription/desertwastesdark/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#c80000;deserto vermelho^reset; se estende por quase toda a circunfer\u00EAncia deste mundo extremamente quente. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o calor extremo^reset;",
+    "path": "/visitableTypeDescription/desertwastes/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#ccfa33;mundo sombrio^reset; que parece bloquear nossos scanners. O que quer que esteja l\u00E1 embaixo, \u00E9 prov\u00E1vel que esteja bastante escuro. ^red;Potencialmente letal!^reset;",
+    "path": "/visitableTypeDescription/shadow/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#da67b8;mar estranho^reset; cobre este planeta. Os scanners revelam poucas informa\u00E7\u00F5es \u00FAteis, al\u00E9m de grandes quantidades de l\u00EDquido plasm\u00E1tico e uma atmosfera gasosa e oxig\u00EAnio. ^red;G\u00E1s potencialmente letal!^reset;",
+    "path": "/visitableTypeDescription/strangesea/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; rodopiando com enormes tempestades e nuvens qu\u00EDmicas. ^red;O Perigo^reset; est\u00E1 presente aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; rodopiando com enormes tempestades e nuvens qu\u00EDmicas. ^red;O Perigo^reset; est\u00E1 presente aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant2/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; rodopiando com enormes tempestades e nuvens qu\u00EDmicas. ^red;O Perigo^reset; est\u00E1 presente aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant3/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; rodopiando com enormes tempestades e nuvens qu\u00EDmicas. ^red;O Perigo^reset; est\u00E1 presente aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant4/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; rodopiando com enormes tempestades e nuvens qu\u00EDmicas. ^red;O Perigo^reset; est\u00E1 presente aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant5/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; com massa suficiente para permitir a explora\u00E7\u00E3o. Tome ^red;extrema cautela^reset; vagando por aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o.^reset;.",
+    "path": "/visitableTypeDescription/fugasgiant/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; com massa suficiente para permitir a explora\u00E7\u00E3o. Tome ^red;extrema cautela^reset; vagando por aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o.^reset;.",
+    "path": "/visitableTypeDescription/fugasgiant2/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; com massa suficiente para permitir a explora\u00E7\u00E3o. Tome ^red;extrema cautela^reset; vagando por aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o.^reset;.",
+    "path": "/visitableTypeDescription/fugasgiant3/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; com massa suficiente para permitir a explora\u00E7\u00E3o. Tome ^red;extrema cautela^reset; vagando por aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o.^reset;.",
+    "path": "/visitableTypeDescription/fugasgiant4/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; com massa suficiente para permitir a explora\u00E7\u00E3o. Tome ^red;extrema cautela^reset; vagando por aqui. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o extrema contra press\u00E3o.^reset;.",
+    "path": "/visitableTypeDescription/fugasgiant5/0"
+  },
+  {
+    "op": "replace",
+    "value": "Uma \u00E1rea ^#e6c801;deserta^white; povoada por cactos, al\u00E9m de v\u00E1rias esp\u00E9cies de animais. Um local de pouso relativamente seguro, desde que voc\u00EA evite tempestades de areia. ^red;Bastante quente.^reset;.",
+    "path": "/visitableTypeDescription/desert/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#ffea00;oceano sulf\u00FArico^reset; cobre quase toda a superf\u00EDcie. Bastante ^#772211;cin\u00E1brio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra \u00E1cido^reset;",
+    "path": "/visitableTypeDescription/sulphuricocean/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#ffea00;oceano sulf\u00FArico^reset; com um ^red;clima devastadoramente brutal.^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra \u00E1cido^reset;",
+    "path": "/visitableTypeDescription/sulphuricocean/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#ffea00;oceano sulf\u00FArico^reset;. Este planeta \u00E9 ^red;extremamente perigoso. Tenha cuidado^reset;. Um terr\u00EDvel lugar para tirar f\u00E9rias. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra \u00E1cido^reset;",
+    "path": "/visitableTypeDescription/sulphuricocean/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um mundo ^#ffea00;sulf\u00FArico^reset; ^red;mortal^reset;. Explorando sem prote\u00E7\u00E3o voc\u00EA ser\u00E1 morto. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra \u00E1cido sulf\u00FArico e respira\u00E7\u00E3o^reset;",
+    "path": "/visitableTypeDescription/sulphuric/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um mundo ^#ffea00;sulf\u00FArico^reset; ^red;mortal^reset;. Explorando sem prote\u00E7\u00E3o voc\u00EA ser\u00E1 morto. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra \u00E1cido sulf\u00FArico e respira\u00E7\u00E3o^reset;",
+    "path": "/visitableTypeDescription/sulphuricdark/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; ^red;mortal^reset; mas maravilhosamente \u00FAnico, com atmosfera suficiente para explorar. ^cyan;Recomenda\u00E7\u00E3o:Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant/3"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; ^red;mortal^reset; mas maravilhosamente \u00FAnico, com atmosfera suficiente para explorar. ^cyan;Recomenda\u00E7\u00E3o:Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant2/3"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; ^red;mortal^reset; mas maravilhosamente \u00FAnico, com atmosfera suficiente para explorar. ^cyan;Recomenda\u00E7\u00E3o:Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant3/3"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; ^red;mortal^reset; mas maravilhosamente \u00FAnico, com atmosfera suficiente para explorar. ^cyan;Recomenda\u00E7\u00E3o:Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant4/3"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#e43774;gigante gasoso^reset; ^red;mortal^reset; mas maravilhosamente \u00FAnico, com atmosfera suficiente para explorar. ^cyan;Recomenda\u00E7\u00E3o:Prote\u00E7\u00E3o extrema contra press\u00E3o^reset;",
+    "path": "/visitableTypeDescription/fugasgiant5/3"
+  },
+  {
+    "op": "replace",
+    "value": "Um conjunto de ^#d7711e;aster\u00F3ides^white;. As leituras indicam que ^red;n\u00E3o h\u00E1 atmosfera^white; ou vida aqui. Apenas um infinito nada, com muito espa\u00E7o para constru\u00E7\u00E3o.",
+    "path": "/visitableTypeDescription/asteroids/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um mundo bizarro que parece ultrapassar as dimens\u00F5es, este ^#e78442;mar \u00E9ter^reset; chama voc\u00EA com sua serenidade sombria. ^cyan;Recomenda\u00E7\u00E3o: Resist\u00EAncia C\u00F3smica / Prote\u00E7\u00E3o contra \u00E9ter^reset;",
+    "path": "/visitableTypeDescription/aethersea/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um mundo saltitante, pegajoso e ^#517f51;gelatinoso^reset;. \u00C9 evidente que isso contribuir\u00E1 para uma explora\u00E7\u00E3o bastante irritante. ^red;Atmosfera venenosa^reset; detectada.",
+    "path": "/visitableTypeDescription/slimeworld/2"
+  },
+  {
+    "op": "replace",
+    "value": "Uma embreagem de ^#d7711e;aster\u00F3ides^white; \u00E0 deriva ao longo de uma \u00F3rbita el\u00EDptica. As leituras indicam que ^red;n\u00E3o h\u00E1 atmosfera aqui^white;. Ou qualquer outra coisa...",
+    "path": "/visitableTypeDescription/asteroids/2"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lua fria e ^#b3947c;des\u00E9rtica^reset;. Uma leve camada de prote\u00E7\u00E3o contra o frio deve ser suficiente para proteg\u00EA-lo.",
+    "path": "/visitableTypeDescription/moon_desert/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um mar mortal de ^#69f1fd;nitrog\u00EAnio l\u00EDquido^reset; sob uma densa camada de gelo. ^cyan;Recomenda\u00E7\u00E3o: Aquecimento EPP II^reset;",
+    "path": "/visitableTypeDescription/nitrogensea/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#97be6a;p\u00E2ntano^reset; profundo e espesso cobre quase todo o mundo. Rico em ^green;algas^reset; e outros recursos org\u00E2nicos.",
+    "path": "/visitableTypeDescription/bog/0"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#86a8c5;lua congelada^reset;. Superf\u00EDcies escorregadias podem se mostrar perigosas. Abundante ^#e43558;min\u00E9rio de telebrio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Aquecimento EPP II^reset;",
+    "path": "/visitableTypeDescription/icemoon/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um gigante gasoso. N\u00E3o h\u00E1 subst\u00E2ncia s\u00F3lida neste planeta, apenas uma cole\u00E7\u00E3o de gases em turbilh\u00E3o.",
+    "path": "/worldTypeDescription/GasGiant/1"
+  },
+  {
+    "op": "replace",
+    "value": "Uma bola gigante de gases que se misturam entre si. Simplesmente n\u00E3o h\u00E1 nada aqui para pousar.",
+    "path": "/worldTypeDescription/GasGiant/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um planeta diab\u00F3lico ^#cd5d02;infernal^reset; coberto de ^red;lava^reset; e ^red;temperaturas letais^reset;. Traga prote\u00E7\u00E3o contra calor extremo. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o calor mortal^reset;",
+    "path": "/visitableTypeDescription/infernus/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um planeta diab\u00F3lico ^#cd5d02;infernal^reset; coberto de ^red;lava^reset; e ^red;temperaturas letais^reset;. Traga prote\u00E7\u00E3o contra calor extremo. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o calor mortal^reset;",
+    "path": "/visitableTypeDescription/infernusdark/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um local de pouso caracterizado por flora estranha, fauna agressiva e ^red;n\u00EDveis moderadamente altos de radia\u00E7\u00E3o^white;. Os habitantes da \u00E1rea sofreram ^#7800ff;muta\u00E7\u00F5es^white;.",
+    "path": "/visitableTypeDescription/alien/1"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#b3947c;lua deserta^reset; sem vida. Tome cuidado, pois a temperatura est\u00E1 ^red;levemente gelada^reset; e, eventualmente, ser\u00E1 fatal se voc\u00EA n\u00E3o for cauteloso.",
+    "path": "/visitableTypeDescription/moon_desert/1"
+  },
+  {
+    "op": "replace",
+    "value": "Uma faixa sem vida de ^#d7711e;aster\u00F3ides^white; ^red;sem atmosfera^white;: \u00E0 deriva pelo espa\u00E7o, ancorada a uma estrela distante... Um bom lugar para construir uma casa.",
+    "path": "/visitableTypeDescription/asteroids/1"
+  },
+  {
+    "op": "replace",
+    "value": "Uma ^#949493;lua solit\u00E1ria^white;, ^red;sem atmosfera respir\u00E1vel^white;, o c\u00E9u est\u00E1 aberto para as estrelas, h\u00E1 combust\u00EDvel abaixo do solo. Probabilidade de sentir-se solit\u00E1rio e desolado: 92%.",
+    "path": "/visitableTypeDescription/moon/0"
+  },
+  {
+    "op": "replace",
+    "value": "Um mutante ^#7fe96e;fungo^reset; cresceu fora de controle, cobrindo este mundo. Os esporos s\u00E3o enormes! as ^red;nuvens de g\u00E1s venenoso^reset; s\u00E3o bastante comuns.",
+    "path": "/visitableTypeDescription/fungus/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um planeta com ^#008aff;oceanos^white; profundos e pequenas ilhas. Minhas leituras indicam que a vida aqu\u00E1tica \u00E9 abundante e que as ilhotas da superf\u00EDcie s\u00E3o extremamente pitorescas.",
+    "path": "/visitableTypeDescription/ocean/0"
+  },
+  {
+    "op": "replace",
+    "value": "Uma lua podre e ^#414556;t\u00F3xica^reset;Embora n\u00E3o possa ser considerada perigosa, recomendo um ^cyan;envenenamento EPP II^reset;.",
+    "path": "/visitableTypeDescription/moon_toxic/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um local de ^red;temperaturas perigosamente baixas^white;. Aqui h\u00E1 poucos animais e nenhuma vida vegetal - apenas ilhas abandonadas em um ^#00ffe4;oceano congelado^white;.",
+    "path": "/visitableTypeDescription/arctic/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um local de ^red;temperaturas perigosamente baixas^white;. Aqui h\u00E1 poucos animais e nenhuma vida vegetal - apenas ilhas abandonadas em um ^#00ffe4;oceano congelado^white;.",
+    "path": "/visitableTypeDescription/arcticdark/2"
+  },
+  {
+    "op": "replace",
+    "value": "ADICIONAR MARCADOR",
+    "path": "/gui/objectinfo/children/inner/children/bookmark/caption"
+  },
+  {
+    "op": "replace",
+    "value": "ADICIONAR MARCADOR",
+    "path": "/gui/planetinfo/children/inner/children/bookmark/caption"
+  },
+  {
+    "op": "replace",
+    "value": "ADICIONAR MARCADOR",
+    "path": "/objectInfoBox/bookmarkButtonCaption/add"
+  },
+  {
+    "op": "replace",
+    "value": "ADICIONAR MARCADOR",
+    "path": "/planetInfoBox/bookmarkButtonCaption/add"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva \u00E1cida",
+    "path": "/displayWeathers/acidrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Aegisalt",
+    "path": "/displayOres/aegisalt/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Alien\u00EDgena",
+    "path": "/planetTypeNames/alien"
+  },
+  {
+    "op": "replace",
+    "value": "Um planeta coberto pelo ^#008aff;oceano^white;, com ilhas e repleto de vida. Minhas leituras indicam que h\u00E1 uma grande atividade nas profundezas das \u00E1guas.",
+    "path": "/visitableTypeDescription/ocean/1"
+  },
+  {
+    "op": "replace",
+    "value": "Um ^#571cff;antigo portal^white; de origem desconhecida, um edif\u00EDcio de grande poder e misterioso.",
+    "path": "/visitableTypeDescription/ancientgateway/0"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva anti-gravitacional",
+    "path": "/displayWeathers/orangegravrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de cinzas",
+    "path": "/displayWeathers/ashstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Queda de cinzas",
+    "path": "/displayWeathers/ash/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela bin\u00E1ria",
+    "path": "/starTypeNames/binary1"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva biol\u00F3gica",
+    "path": "/displayWeathers/biorain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva biol\u00F3gica",
+    "path": "/displayWeathers/bograin/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela negra",
+    "path": "/starTypeNames/blacksun1"
+  },
+  {
+    "op": "replace",
+    "value": "Nevascas",
+    "path": "/displayWeathers/snowstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva de sangue",
+    "path": "/displayWeathers/bloodrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela azul",
+    "path": "/starTypeNames/bluesun1"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela azul",
+    "path": "/starTypeNames/bluesun2"
+  },
+  {
+    "op": "replace",
+    "value": "Nome do marcador",
+    "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value"
+  },
+  {
+    "op": "replace",
+    "value": "Marcadores",
+    "path": "/topLeftButtonTooltips/showBookmarkList"
+  },
+  {
+    "op": "replace",
+    "value": "Brilhante e ensolarado a maior parte do tempo, este ^#00f0ff;\u00E9den^reset; aguarda um intr\u00E9pido explorador para fazer dela uma parada civilizada ao longo desta rota estelar.",
+    "path": "/visitableTypeDescription/eden/2"
+  },
+  {
+    "op": "replace",
+    "value": "Traga prote\u00E7\u00E3o extrema contra o calor este ^#c80000;deserto vermelho^reset; pois a exposi\u00E7\u00E3o por per\u00EDodos prolongados ser\u00E1 100% fatal. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o calor mortal^reset;",
+    "path": "/visitableTypeDescription/desertwastes/1"
+  },
+  {
+    "op": "replace",
+    "value": "Traga prote\u00E7\u00E3o extrema contra o calor este ^#c80000;deserto vermelho^reset; pois a exposi\u00E7\u00E3o por per\u00EDodos prolongados ser\u00E1 100% fatal. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o calor mortal^reset;",
+    "path": "/visitableTypeDescription/desertwastesdark/1"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva de bolhas",
+    "path": "/displayWeathers/fububblerain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Migra\u00E7\u00E3o de borboletas",
+    "path": "/displayWeathers/fupretty/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "N\u00C3O PODE MARCAR",
+    "path": "/objectInfoBox/bookmarkButtonCaption/disabled"
+  },
+  {
+    "op": "replace",
+    "value": "N\u00C3O PODE MARCAR",
+    "path": "/planetInfoBox/bookmarkButtonCaption/disabled"
+  },
+  {
+    "op": "replace",
+    "value": "N\u00E3o pode pousar. A press\u00E3o esmagadora e os ventos rasgantes deste gigante de g\u00E1s te mataria instantaneamente.",
+    "path": "/worldTypeDescription/GasGiant/2"
+  },
+  {
+    "op": "replace",
+    "value": "Crom\u00E1tica",
+    "path": "/planetTypeNames/chromatic"
+  },
+  {
+    "op": "replace",
+    "value": "Chuveiro de cinzas",
+    "path": "/displayWeathers/ember/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Confirmar FTL",
+    "path": "/gui/jumpDialog/children/title/value"
+  },
+  {
+    "op": "replace",
+    "value": "Coordenadas",
+    "path": "/topLeftButtonTooltips/showCoordinates"
+  },
+  {
+    "op": "replace",
+    "value": "Cobre",
+    "path": "/displayOres/copper/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Explos\u00F5es c\u00F3smicas",
+    "path": "/displayWeathers/cosmicblast/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Cristal",
+    "path": "/displayOres/crystal/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Cristal erchius",
+    "path": "/displayOres/erchius/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva de cristal",
+    "path": "/displayWeathers/crystalrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de cristal",
+    "path": "/displayWeathers/crystalstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Cristalino",
+    "path": "/planetTypeNames/crystalmoon"
+  },
+  {
+    "op": "replace",
+    "value": "Ciberesfera",
+    "path": "/planetTypeNames/metallicmoon"
+  },
+  {
+    "op": "replace",
+    "value": "DESCRI\u00C7\u00C3O DESTE PLANETA",
+    "path": "/gui/planetinfo/children/inner/children/description/value"
+  },
+  {
+    "op": "replace",
+    "value": " Perigoso",
+    "path": "/objectThreatText/available/3"
+  },
+  {
+    "op": "replace",
+    "value": " Perigoso (V)",
+    "path": "/threatLevelText/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Ant\u00E1rtico sombrio",
+    "path": "/planetTypeNames/arcticdark"
+  },
+  {
+    "op": "replace",
+    "value": "\u00C1rtico sombrio",
+    "path": "/planetTypeNames/icewastedark"
+  },
+  {
+    "op": "replace",
+    "value": "Inferno sombrio",
+    "path": "/planetTypeNames/infernusdark"
+  },
+  {
+    "op": "replace",
+    "value": "Magma sombrio",
+    "path": "/planetTypeNames/magmadark"
+  },
+  {
+    "op": "replace",
+    "value": "Explos\u00F5es de mat\u00E9ria negra",
+    "path": "/displayWeathers/darkblast/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Primordial sombrio",
+    "path": "/planetTypeNames/arborealdark"
+  },
+  {
+    "op": "replace",
+    "value": "Deserto Vermelho sombrio.",
+    "path": "/planetTypeNames/desertwastesdark"
+  },
+  {
+    "op": "replace",
+    "value": "Neve sombria",
+    "path": "/planetTypeNames/snowdark"
+  },
+  {
+    "op": "replace",
+    "value": "Sulf\u00FArico sombrio",
+    "path": "/planetTypeNames/sulphuricdark"
+  },
+  {
+    "op": "replace",
+    "value": "Tundra sombria",
+    "path": "/planetTypeNames/tundradark"
+  },
+  {
+    "op": "replace",
+    "value": "Sombria, mas com abund\u00E2ncia de fauna bioluminescente, os mundos de ^#78657f;penumbra^reset; tem a \u00FAnica fonte vi\u00E1vel conhecida como ^#9d5bd0;penumbrite^reset;.",
+    "path": "/visitableTypeDescription/penumbra/2"
+  },
+  {
+    "op": "replace",
+    "value": "A escurid\u00E3o cobre as densas florestas deste planeta ^#59a849;primordial sombrio^reset;.",
+    "path": "/visitableTypeDescription/arborealdark/2"
+  },
+  {
+    "op": "replace",
+    "value": "G\u00E1s venenoso mortal",
+    "path": "/displayWeathers/poisongasstorm3/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Excluir",
+    "path": "/gui/editBookmarkFrame/children/remove/caption"
+  },
+  {
+    "op": "replace",
+    "value": "G\u00E1s intenso",
+    "path": "/displayWeathers/gasgiantstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "G\u00E1s venenoso intenso",
+    "path": "/displayWeathers/poisongasstorm2/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Densamente habitado por \u00E1rvores e outras plantas, esta \u00E1rea na ^#15ce02;floresta^white; \u00E9 um local hospitaleiro que suporta uma grande diversidade de vida - incluindo potencialmente a sua ra\u00E7a.",
+    "path": "/visitableTypeDescription/forest/0"
+  },
+  {
+    "op": "replace",
+    "value": "Densinium",
+    "path": "/displayOres/densinium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Deserto",
+    "path": "/planetTypeNames/desert"
+  },
+  {
+    "op": "replace",
+    "value": "Lua Des\u00E9rtica",
+    "path": "/planetTypeNames/moon_desert"
+  },
+  {
+    "op": "replace",
+    "value": "Chuvisco",
+    "path": "/displayWeathers/drizzle/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Durasteel",
+    "path": "/displayOres/durasteel/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de poeira",
+    "path": "/displayWeathers/duststorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela morrendo",
+    "path": "/starTypeNames/dying1"
+  },
+  {
+    "op": "replace",
+    "value": "EDITAR MARCADOR",
+    "path": "/bookmarks/editTitle"
+  },
+  {
+    "op": "replace",
+    "value": "EDITAR MARCADOR",
+    "path": "/objectInfoBox/bookmarkButtonCaption/edit"
+  },
+  {
+    "op": "replace",
+    "value": "EDITAR MARCADOR",
+    "path": "/planetInfoBox/bookmarkButtonCaption/edit"
+  },
+  {
+    "op": "replace",
+    "value": "Terremotos",
+    "path": "/displayWeathers/fuearthquake/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade el\u00E9trica",
+    "path": "/displayWeathers/hurricaneelectric/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Digite o nome do marcador",
+    "path": "/gui/editBookmarkFrame/children/name/hint"
+  },
+  {
+    "op": "replace",
+    "value": " Extremo",
+    "path": "/objectThreatText/available/4"
+  },
+  {
+    "op": "replace",
+    "value": " Extremo (VI)",
+    "path": "/threatLevelText/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Extrema frieza",
+    "path": "/displayWeathers/fusuddenchill3/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Ondas de calor extremas",
+    "path": "/displayWeathers/fuheatblast3/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "A viagem FTL exige ^red;%i combust\u00EDvel^reset;. N\u00E3o h\u00E1 combust\u00EDvel suficiente.",
+    "path": "/jumpDialog/invalid"
+  },
+  {
+    "op": "replace",
+    "value": "As viagens FTL consumir\u00E3o ^green;%i de combust\u00EDvel^reset;. Deseja prosseguir?",
+    "path": "/jumpDialog/valid"
+  },
+  {
+    "op": "replace",
+    "value": "As viagens FTL consumir\u00E3o ^green;%s de combust\u00EDvel^reset;. Deseja prosseguir?",
+    "path": "/gui/jumpDialog/children/text/value"
+  },
+  {
+    "op": "replace",
+    "value": "Ferozium",
+    "path": "/displayOres/ferozium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela ardente",
+    "path": "/starTypeNames/redstar"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de fogo",
+    "path": "/displayWeathers/firestorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "As ilhas constituem na superf\u00EDcie deste planeta ^#008aff;oce\u00E2nico^white;. Uma atmosfera agrad\u00E1vel com est\u00E9tica tropical.",
+    "path": "/visitableTypeDescription/ocean/2"
+  },
+  {
+    "op": "replace",
+    "value": "Neblina",
+    "path": "/displayWeathers/fog/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Floresta",
+    "path": "/planetTypeNames/forest"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de congelamento",
+    "path": "/displayWeathers/freezestorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela congelada",
+    "path": "/starTypeNames/bluestar"
+  },
+  {
+    "op": "replace",
+    "value": "IR",
+    "path": "/gui/coordinatesFrame/children/go/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Portal",
+    "path": "/planetTypeNames/ancientgateway"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela suave",
+    "path": "/starTypeNames/whitestar"
+  },
+  {
+    "op": "replace",
+    "value": "An\u00E1lise geol\u00F3gica",
+    "path": "/gui/planetinfo/children/inner/children/ores/value"
+  },
+  {
+    "op": "replace",
+    "value": "Ouro",
+    "path": "/displayOres/gold/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Granizo",
+    "path": "/displayWeathers/hailstones/displayName"
+  },
+  {
+    "op": "replace",
+    "value": " Inofensivo (I)",
+    "path": "/threatLevelText/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de cura",
+    "path": "/displayWeathers/healingstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Ondas de calor",
+    "path": "/displayWeathers/fuheatblast/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Evento de massa elevada",
+    "path": "/displayWeathers/mountainmass/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Furac\u00E3o",
+    "path": "/displayWeathers/hurricane/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Furac\u00E3o",
+    "path": "/displayWeathers/hurricanefungal/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Estou detectando sinais de vida incomuns neste ^#517f51;mundo prot\u00F3tipo^reset;. Parece que essas vidas foi propositalmente mutada. ^#e2ef55;Min\u00E9rios incomuns^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra venenos prot\u00F3tipos^reset;",
+    "path": "/visitableTypeDescription/protoworld/1"
+  },
+  {
+    "op": "replace",
+    "value": "Estou detectando sinais de vida incomuns neste ^#517f51;mundo prot\u00F3tipo^reset;. Parece que essas vidas foi propositalmente mutada. ^#e2ef55;Min\u00E9rios incomuns^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra venenos prot\u00F3tipos^reset;",
+    "path": "/visitableTypeDescription/protoworlddark/1"
+  },
+  {
+    "op": "replace",
+    "value": "N\u00E3o tenho leituras deste ^#ccfa33;mundo sombrio^reset;, mas parece que haver\u00E1 pouca luz na superf\u00EDcie para comunicar. ^red;Potencialmente Letal!^reset;",
+    "path": "/visitableTypeDescription/shadow/1"
+  },
+  {
+    "op": "replace",
+    "value": "MOD INCOMPAT\u00CDVEL DETECTADO",
+    "path": "/gui/disabledLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de gelo",
+    "path": "/displayWeathers/icestorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "\u00C1rtico",
+    "path": "/planetTypeNames/icewaste"
+  },
+  {
+    "op": "replace",
+    "value": " Imensur\u00E1vel (IX)",
+    "path": "/threatLevelText/default/8"
+  },
+  {
+    "op": "replace",
+    "value": " Imposs\u00EDvel (VIII)",
+    "path": "/threatLevelText/default/7"
+  },
+  {
+    "op": "replace",
+    "value": "G\u00E1s extremamente denso",
+    "path": "/displayWeathers/gasgiantstorm3/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Ferro",
+    "path": "/displayOres/iron/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Deve assumir-se que este mar de ^#69f1fd;nitrog\u00EAnio l\u00EDquido^reset; \u00E9 ^red;extremamente frio^reset; e escorregadio ao mesmo tempo. ^cyan;Recomenda\u00E7\u00E3o: Aquecimento EPP II^reset;",
+    "path": "/visitableTypeDescription/nitrogensea/2"
+  },
+  {
+    "op": "replace",
+    "value": "Saltar",
+    "path": "/gui/jumpDialog/children/jump/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Selva",
+    "path": "/planetTypeNames/jungle"
+  },
+  {
+    "op": "replace",
+    "value": " N\u00E3o vai dar n\u00E3o (X)",
+    "path": "/threatLevelText/default/9"
+  },
+  {
+    "op": "replace",
+    "value": "Grandes Meteoritos",
+    "path": "/displayWeathers/largemeteor/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Lava",
+    "path": "/planetTypeNames/magma"
+  },
+  {
+    "op": "replace",
+    "value": "\u00C1rvores frondosas abundam neste local da ^#15ce02;floresta^white;. A \u00E1rea \u00E9 hospitaleira, meu banco de dados indica que voc\u00EA pode encontrar criaturas da floresta.",
+    "path": "/visitableTypeDescription/forest/1"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade pequena de congelamento",
+    "path": "/displayWeathers/freezestormlesser/displayName"
+  },
+  {
+    "op": "replace",
+    "value": " Letal (VII)",
+    "path": "/threatLevelText/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva leve anti-gravitacional",
+    "path": "/displayWeathers/orangegravrainlight/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Leve queda de cinzas",
+    "path": "/displayWeathers/lightash/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva leve gravitacional",
+    "path": "/displayWeathers/gravrainlight/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Sem Luz",
+    "path": "/planetTypeNames/lightless"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de raios",
+    "path": "/displayWeathers/fulightningstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Carinhosamente chamados de mundos nascidos mortos, os planetas ^#cc8d5a;atr\u00F3picos^reset; n\u00E3o s\u00E3o para pessoas com cora\u00E7\u00E3o fraco ou est\u00F4mago fraco. ^red;Aviso: Atmosfera psionicamente perturbadora^reset;.",
+    "path": "/visitableTypeDescription/atropus/2"
+  },
+  {
+    "op": "replace",
+    "value": " Baixo",
+    "path": "/objectThreatText/available/1"
+  },
+  {
+    "op": "replace",
+    "value": " Baixo (II)",
+    "path": "/threatLevelText/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva luminosa",
+    "path": "/displayWeathers/glowingrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Lunar",
+    "path": "/planetTypeNames/moon"
+  },
+  {
+    "op": "replace",
+    "value": "Lunari",
+    "path": "/displayOres/lunariore/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Exuberante",
+    "path": "/planetTypeNames/garden"
+  },
+  {
+    "op": "replace",
+    "value": "MUITAS LUAS",
+    "path": "/gui/clusterinfo/children/inner/children/moons/value"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de magma",
+    "path": "/displayWeathers/magmastorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Grande tempestade sulf\u00FArica",
+    "path": "/displayWeathers/sulphurstormsevere/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Meia-noite",
+    "path": "/planetTypeNames/midnight"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade sulf\u00FArica leve",
+    "path": "/displayWeathers/sulphurstormlesser/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Pequenos terremotos",
+    "path": "/displayWeathers/fuearthquakelesser/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Pequena tempestade de congelamento",
+    "path": "/displayWeathers/freezestormminor/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "N\u00E9voa",
+    "path": "/displayWeathers/groundmist/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva nublada",
+    "path": "/displayWeathers/mistyrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": " Moderada",
+    "path": "/objectThreatText/available/2"
+  },
+  {
+    "op": "replace",
+    "value": " Moderada (III)",
+    "path": "/threatLevelText/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de ferro derretido",
+    "path": "/displayWeathers/ironstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "A vida mutante corre aqui de forma desenfreada neste ^#517f51;mundo prot\u00F3tipo^reset;. ^#e2ef55;protocite^reset; valioso \u00E9 encontrado com abund\u00E2ncia. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra protuber\u00E2ncias^reset;",
+    "path": "/visitableTypeDescription/protoworld/2"
+  },
+  {
+    "op": "replace",
+    "value": "A vida mutante corre aqui de forma desenfreada neste ^#517f51;mundo prot\u00F3tipo^reset;. ^#e2ef55;protocite^reset; valioso \u00E9 encontrado com abund\u00E2ncia. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra protuber\u00E2ncias^reset;",
+    "path": "/visitableTypeDescription/protoworlddark/2"
+  },
+  {
+    "op": "replace",
+    "value": "\u00C1rvores mutantes e fauna bizarra s\u00E3o abundantes neste mundo ^#83b369;irradiado^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra radia\u00E7\u00E3o severa^reset;",
+    "path": "/visitableTypeDescription/irradiated/2"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela misteriosa",
+    "path": "/starTypeNames/default"
+  },
+  {
+    "op": "replace",
+    "value": "NOVO MARCADOR",
+    "path": "/bookmarks/newTitle"
+  },
+  {
+    "op": "replace",
+    "value": "Quase impenetr\u00E1vel por causa do ^#97be6a;p\u00E2ntano^reset; neste mundo \u00FAmido e chuvoso. As ^green;Algas^reset; para bio-combust\u00EDvel s\u00E3o abundantes.",
+    "path": "/visitableTypeDescription/bog/1"
+  },
+  {
+    "op": "replace",
+    "value": "Novo marcador",
+    "path": "/gui/editBookmarkFrame/children/title/value"
+  },
+  {
+    "op": "replace",
+    "value": "\u00C1tropos diab\u00F3lico",
+    "path": "/planetTypeNames/atropusdark"
+  },
+  {
+    "op": "replace",
+    "value": "Nenhum corpo em \u00F3rbita",
+    "path": "/clusterMoons/none"
+  },
+  {
+    "op": "replace",
+    "value": "Nocxium",
+    "path": "/displayOres/nocxium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": " Nenhum",
+    "path": "/objectThreatText/available/0"
+  },
+  {
+    "op": "replace",
+    "value": " Nenhum",
+    "path": "/objectThreatText/friendly"
+  },
+  {
+    "op": "replace",
+    "value": "Oce\u00E2nico",
+    "path": "/planetTypeNames/ocean"
+  },
+  {
+    "op": "replace",
+    "value": "No passado era um mundo prosperante, algo erradicou a maior parte da vida neste ^#848484;planeta devastado^reset;. ^red;Bandidos e saqueadores^reset; s\u00E3o normalmente encontrados a procurar recursos no meio de padr\u00F5es ^red;meteorol\u00F3gicos extremamente perigosos^reset;.",
+    "path": "/visitableTypeDescription/urbanwasteland/2"
+  },
+  {
+    "op": "replace",
+    "value": "Um corpo em \u00F3rbita",
+    "path": "/clusterMoons/singular"
+  },
+  {
+    "op": "replace",
+    "value": "Detritos orbitais",
+    "path": "/displayWeathers/spacejunk/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva org\u00E2nica",
+    "path": "/displayWeathers/poptoprain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "TIPO DE PLANETA",
+    "path": "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value"
+  },
+  {
+    "op": "replace",
+    "value": "Nome do planeta",
+    "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value"
+  },
+  {
+    "op": "replace",
+    "value": "O fluido plasm\u00E1tico forma a maior parte deste mundo incomum. ^#da67b8;Mar estranho^reset;. ^red;Nuvens de g\u00E1s venenosas^reset; s\u00E3o comuns.",
+    "path": "/visitableTypeDescription/strangesea/2"
+  },
+  {
+    "op": "replace",
+    "value": "Plut\u00F4nio",
+    "path": "/displayOres/plutonium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "G\u00E1s venenoso",
+    "path": "/displayWeathers/poisongasstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Peda\u00E7o de prisma",
+    "path": "/displayOres/prisilite/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Mundo prot\u00F3tipo",
+    "path": "/planetTypeNames/protoworld"
+  },
+  {
+    "op": "replace",
+    "value": "VISUALIZA\u00C7\u00C3O DO SISTEMA REMOTO",
+    "path": "/gui/remoteTitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "EXIGE MECH PARA IR",
+    "path": "/gui/objectinfo/children/inner/children/threat/value"
+  },
+  {
+    "op": "replace",
+    "value": "EXIGE MECH PARA IR",
+    "path": "/objectThreatText/unavailable"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela radioativa",
+    "path": "/starTypeNames/yellowstar"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva",
+    "path": "/displayWeathers/rain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de chuva com raios",
+    "path": "/displayWeathers/fulightningrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "As leituras indicam que o local de pouso tem um tom incomum. \u00C9 um local ^#999966;\u00E1rido^white; e seria adequado para constru\u00E7\u00E3o. As varreduras do sub-planeta s\u00E3o inconclusivas.",
+    "path": "/visitableTypeDescription/barren/2"
+  },
+  {
+    "op": "replace",
+    "value": "As leituras indicam que o local de pouso n\u00E3o \u00E9 desfavor\u00E1vel - a \u00E1rea \u00E9 segura e abundante com flora e fauna. Um lugar ^#76fe68;exuberante ^white;e hospitaleiro.",
+    "path": "/visitableTypeDescription/garden/2"
+  },
+  {
+    "op": "replace",
+    "value": "Deserto vermelho",
+    "path": "/planetTypeNames/desertwastes"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela vermelha",
+    "path": "/starTypeNames/redsun1"
+  },
+  {
+    "op": "replace",
+    "value": " Arriscado (IV)",
+    "path": "/threatLevelText/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Lua rochosa",
+    "path": "/planetTypeNames/moon_stone"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade rolante",
+    "path": "/displayWeathers/thunderclaplesser/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "NAVE EM MOVIMENTO",
+    "path": "/gui/transitLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "OBJETO ESPACIAL",
+    "path": "/gui/objectinfo/children/inner/children/name/value"
+  },
+  {
+    "op": "replace",
+    "value": "TIPO DE ESTRELA",
+    "path": "/gui/systeminfo/children/inner/children/type/value"
+  },
+  {
+    "op": "replace",
+    "value": "SISTEMA",
+    "path": "/gui/systeminfo/children/inner/children/name/value"
+  },
+  {
+    "op": "replace",
+    "value": "NOME DO SISTEMA",
+    "path": "/gui/systemName/value"
+  },
+  {
+    "op": "replace",
+    "value": "Areia. As leituras indicam areia. Tamb\u00E9m alguns cactos... mas predominantemente areia. Este ^#e6c801;deserto^white; \u00E9 ^red;desconfortavelmente quente^reset; mas rico em recursos.",
+    "path": "/visitableTypeDescription/desert/2"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestades de areia",
+    "path": "/displayWeathers/sandstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Savana",
+    "path": "/planetTypeNames/savannah"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectam que este ^#666666;mundo cibern\u00E9tico^reset; tem mais de ^#90ac7c;12 milh\u00F5es^reset; de anos de idade. Quem construiu esta maravilha, e por qu\u00EA?",
+    "path": "/visitableTypeDescription/metallicmoon/1"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectaram ^#cd5d02;florestas primitivas^reset; extremamente densas neste planeta. Sinais de vida ^orange;reptilianos^reset; detectados.",
+    "path": "/visitableTypeDescription/arboreal/1"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectaram ^red;gelo mortal e temperatura a zero absoluto^reset; sobre este ^#69f1fd;\u00C1rtico^reset;. Procede com cautela. ^orange;Min\u00E9rio de isog\u00EAnio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para frio mortal^reset;",
+    "path": "/visitableTypeDescription/icewaste/0"
+  },
+  {
+    "op": "replace",
+    "value": "Os Scanners detectaram ^red;gelo mortal e temperatura a zero absoluto^reset; sobre este ^#69f1fd;\u00C1rtico^reset;. Pouca luz solar. ^red;Ande com cuidado no escuro^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para frio mortal^reset;",
+    "path": "/visitableTypeDescription/icewastedark/0"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectaram nojentos^#ba3b04;mares atropais^reset; amadurecidos com elementos ^#8e5ca6;org\u00E2nicos desconhecidos^reset;. Uma fonte de ^red;Cristal plasm\u00E1tico e min\u00E9rio de quietus^reset;. ^red;Aviso: Causa loucura^reset;",
+    "path": "/visitableTypeDescription/bloodstonesea/0"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectaram estranhas forma\u00E7\u00F5es de ^#ba3b04;bloodstone^reset; e elementos ^#8e5ca6;org\u00E2nicos desconhecidos^reset;. Uma fonte de ^red;Cristal plasm\u00E1tico e min\u00E9rio de quietus^reset;.",
+    "path": "/visitableTypeDescription/bloodstone/0"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectaram estranhas forma\u00E7\u00F5es de ^#ba3b04;bloodstone^reset; e elementos ^#8e5ca6;org\u00E2nicos desconhecidos^reset;. Uma fonte de ^red;Cristal plasm\u00E1tico e min\u00E9rio de quietus^reset;.",
+    "path": "/visitableTypeDescription/bloodstone/1"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectaram estranhas forma\u00E7\u00F5es de ^#ba3b04;bloodstone^reset; e elementos ^#8e5ca6;org\u00E2nicos desconhecidos^reset;. Uma fonte de ^red;Cristal plasm\u00E1tico e min\u00E9rio de quietus^reset;.",
+    "path": "/visitableTypeDescription/bloodstone/2"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectaram neste mundo ^#69f1fd;\u00E1rtico^reset; \u00E9 ^red;extremamente perigoso^reset; e tem um terreno incomum. ^orange;Min\u00E9rio de isog\u00EAnio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para frio mortal^reset;",
+    "path": "/visitableTypeDescription/icewaste/2"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectaram neste mundo ^#69f1fd;\u00E1rtico^reset; \u00E9 ^red;extremamente perigoso^reset; e tem um terreno incomum. ^orange;Min\u00E9rio de isog\u00EAnio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para frio mortal^reset;",
+    "path": "/visitableTypeDescription/icewastedark/2"
+  },
+  {
+    "op": "replace",
+    "value": "Os scanners detectaram que a superf\u00EDcie \u00E9 ^#e11212;sombria^white;. De fato, os scanners detectaram pouca coisa por conta da escurid\u00E3o. Contudo, eu suponho que a superf\u00EDcie \u00E9 ^red;extremamente frio^white;.",
+    "path": "/visitableTypeDescription/midnight/2"
+  },
+  {
+    "op": "replace",
+    "value": "Chamuscado",
+    "path": "/planetTypeNames/scorchedcity"
+  },
+  {
+    "op": "replace",
+    "value": "Clima grave, mar\u00E9s altas e estranheza abundam neste bizarro ^#e78442; mar aeth\u00E9rio ^reset;. ^cyan;Recomenda\u00E7\u00E3o: Resist\u00EAncia c\u00F3smica/ prote\u00E7\u00E3o Aeth\u00E9rico^reset;",
+    "path": "/visitableTypeDescription/aethersea/1"
+  },
+  {
+    "op": "replace",
+    "value": "Frio severo",
+    "path": "/displayWeathers/fusuddenchill2/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestades de cristais severas",
+    "path": "/displayWeathers/crystalstormmajor/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Terremotos severos",
+    "path": "/displayWeathers/fuearthquakesevere/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Ondas de calor severas",
+    "path": "/displayWeathers/fuheatblast2/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestades de rel\u00E2mpagos severas",
+    "path": "/displayWeathers/fulightningstorm2/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestades de magma severas",
+    "path": "/displayWeathers/magmastormgreater/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestades de chuva com raios severas",
+    "path": "/displayWeathers/fulightningrain2/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Trov\u00F5es severos",
+    "path": "/displayWeathers/thunderclapgreater/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Sombra",
+    "path": "/planetTypeNames/shadow"
+  },
+  {
+    "op": "replace",
+    "value": "Mundo prot\u00F3tipo sombr.",
+    "path": "/planetTypeNames/protoworlddark"
+  },
+  {
+    "op": "replace",
+    "value": "^e43774;Cristais^reset; de s\u00EDlicato, tais como ^#e6c011;lun\u00E1rio^reset; foram detectados neste ^#a56caf;mundo cristalino^reset;.",
+    "path": "/visitableTypeDescription/crystalmoon/2"
+  },
+  {
+    "op": "replace",
+    "value": "Prata",
+    "path": "/displayOres/silver/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de slime",
+    "path": "/displayWeathers/slimestorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Pequenos meteoritos",
+    "path": "/displayWeathers/meteorshower/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Nuvem poluida",
+    "path": "/displayWeathers/fu_smog/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Nevado",
+    "path": "/planetTypeNames/snow"
+  },
+  {
+    "op": "replace",
+    "value": "Sol\u00E1rio",
+    "path": "/displayOres/solarium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma cat\u00E1strofe horrenda fez este planeta tornar-se uma ^#59a849;Tabula Rasa^reset;. Uma invas\u00E3o Floran? Quem pode dizer?",
+    "path": "/visitableTypeDescription/tabularasa/2"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma cat\u00E1strofe horrenda fez este planeta tornar-se uma ^#59a849;Tabula Rasa^reset;. Um v\u00EDrus apocal\u00EDptico? Talvez voc\u00EA possa descobrir.",
+    "path": "/visitableTypeDescription/tabularasa/0"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma cat\u00E1strofe horrenda fez este planeta tornar-se uma ^#59a849;Tabula Rasa^reset;. Um armageddon nuclear de muito tempo atr\u00E1s? Quem sabe?",
+    "path": "/visitableTypeDescription/tabularasa/1"
+  },
+  {
+    "op": "replace",
+    "value": "Alguma coisa aqui est\u00E1 ^red;bloqueando nossos scanners^reset;, deixando a composi\u00E7\u00E3o desse planeta essencialmente ^#e43774;desconhecida^reset;. ^red;Potencialmente letal!^reset;",
+    "path": "/visitableTypeDescription/ffunknown/1"
+  },
+  {
+    "op": "replace",
+    "value": "Fa\u00EDscas alegres",
+    "path": "/displayWeathers/fusparklejoy/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Poeira de estrelas",
+    "path": "/displayWeathers/spacedustshower/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Carga est\u00E1tica",
+    "path": "/displayWeathers/staticcharge/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestades",
+    "path": "/displayWeathers/storm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Frio s\u00FAbito",
+    "path": "/displayWeathers/fusuddenchill/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Mar sulf\u00FArico",
+    "path": "/planetTypeNames/sulphuricocean"
+  },
+  {
+    "op": "replace",
+    "value": "N\u00E9voa sulf\u00FArica",
+    "path": "/displayWeathers/sulphuriccloud/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva sulf\u00FArica",
+    "path": "/displayWeathers/sulphuricacidrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade sulf\u00FArica",
+    "path": "/displayWeathers/sulphurstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Raramente a luz solar penetra atmosfera ^#78657f;pen\u00FAmbrica^reset;. Ricas fontes de ^#9d5bd0;min\u00E9rio de penumbrite^reset; detectadas.",
+    "path": "/visitableTypeDescription/penumbra/0"
+  },
+  {
+    "op": "replace",
+    "value": "Luz solar raramente toca este mundo de ^#59a849;trevas primitivas^reset;, de alguma forma a vida vegetal cresce espessa e exuberante.",
+    "path": "/visitableTypeDescription/arborealdark/1"
+  },
+  {
+    "op": "replace",
+    "value": "Super denso",
+    "path": "/planetTypeNames/superdense"
+  },
+  {
+    "op": "replace",
+    "value": "G\u00E1s super denso",
+    "path": "/displayWeathers/gasgiantstorm2/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "ISTO \u00C9 UM GRUPO",
+    "path": "/gui/clusterinfo/children/inner/children/name/value"
+  },
+  {
+    "op": "replace",
+    "value": "ISTO \u00C9 UM PLANETA",
+    "path": "/gui/planetinfo/children/inner/children/name/value"
+  },
+  {
+    "op": "replace",
+    "value": "ISTO \u00C9 UM OBJETO ESPACIAL MUITO AGRAD\u00C1VEL",
+    "path": "/gui/objectinfo/children/inner/children/description/value"
+  },
+  {
+    "op": "replace",
+    "value": "Bola de piche",
+    "path": "/planetTypeNames/tarball"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva de alcatr\u00E3o",
+    "path": "/displayWeathers/tarrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tel\u00E9brio",
+    "path": "/displayOres/moonstone/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Estrela temperada",
+    "path": "/starTypeNames/orangestar"
+  },
+  {
+    "op": "replace",
+    "value": "Terraforma\u00E7\u00E3o tornou este planeta habit\u00E1vel, mesmo com sua apar\u00EAncia n\u00E3o natural.",
+    "path": "/terraformedPlanetDescription/1"
+  },
+  {
+    "op": "replace",
+    "value": "O local de polso ^#e11212;vulc\u00E2nico^white; \u00E9 ^red;catastr\u00F3ficamente quente^white;. Se desejar, eu posso calcular a probabilidade de explodir em chamas ap\u00F3s o teletransporte...",
+    "path": "/visitableTypeDescription/volcanic/0"
+  },
+  {
+    "op": "replace",
+    "value": "A atmosfera desse planeta ^#64616f;sem luz^reset; bloqueia qualquer fonte de luz de penetrar completamente. Escanementos tamb\u00E9m.",
+    "path": "/visitableTypeDescription/lightless/1"
+  },
+  {
+    "op": "replace",
+    "value": "A posi\u00E7\u00E3o de teletransporte est\u00E1 situada em uma paisagem ^#7800ff;mutante^white;. Os ^red;n\u00EDveis moderados de radia\u00E7\u00E3o^white; criam um ambiente nocivo. Aconselho voc\u00EA a evitar nadar.",
+    "path": "/visitableTypeDescription/alien/2"
+  },
+  {
+    "op": "replace",
+    "value": "O local de teletransporte \u00E9 ^#b24301;chamuscado^white; e desolado. Poucos s\u00E3o capazes de sobreviver aqui por conta da ^red;temperatura severamente alta ^white;. Pessoas vivem na \u00E1rea, mas n\u00E3o consigo compreender por qu\u00EA.",
+    "path": "/visitableTypeDescription/scorchedcity/1"
+  },
+  {
+    "op": "replace",
+    "value": "O local de teletransporte \u00E9 ^red;intensamente frio^white;: uma pequena ilha em um ^#00ffe4;oceano glacial^white;. H\u00E1 uma chance de 0.025% voc\u00EA teletransportar na \u00E1gua.",
+    "path": "/visitableTypeDescription/arctic/1"
+  },
+  {
+    "op": "replace",
+    "value": "O local de teletransporte \u00E9 ^red;intensamente frio^white;: uma pequena ilha em um ^#00ffe4;oceano glacial^white;. H\u00E1 uma chance de 0.025% voc\u00EA teletransportar na \u00E1gua.",
+    "path": "/visitableTypeDescription/arcticdark/1"
+  },
+  {
+    "op": "replace",
+    "value": "O local de teletransporte \u00E9 uma pequena e isolada ilha em um mar de ^#ff1818;magma^white;. O fato de voc\u00EA querer visitar esse planeta ^red;terr\u00EDvelmente quente^white; fala sobre sua fortitude.",
+    "path": "/visitableTypeDescription/magma/2"
+  },
+  {
+    "op": "replace",
+    "value": "O local de teletransporte \u00E9 uma pequena e isolada ilha em uma mar de ^#ff1818;magma^white;. O fato de voc\u00EA querer visitar esse planeta ^red;terr\u00EDvelmente quente^white; fala sobre sua fortitude.",
+    "path": "/visitableTypeDescription/magmadark/2"
+  },
+  {
+    "op": "replace",
+    "value": "O local de teletransporte \u00E9 localizado em uma serena \u00E1rea de grande bio-diversidade. H\u00E1 recursos que podem ser usados por voc\u00EA aqui. Uma terra ^#76fe68;exuberante ^white;e agrad\u00E1vel.",
+    "path": "/visitableTypeDescription/garden/1"
+  },
+  {
+    "op": "replace",
+    "value": "O local de teletransporte est\u00E1 situado em um terreno ^#e11212;vulc\u00E2nico^white; e ^red;requintadamente quente^white;. Seu interesse neste lugar certamente mostra sua tenacidade inabal\u00E1vel.",
+    "path": "/visitableTypeDescription/volcanic/2"
+  },
+  {
+    "op": "replace",
+    "value": "O local de teletransporte \u00E9 um terreno baldio ^#b24301;chamuscado^white;. A ^red;temperatura atmosf\u00E9rica \u00E9 severamente alta^white;. Sua brabeza \u00E9 impressionante por escolher esse destino.",
+    "path": "/visitableTypeDescription/scorchedcity/0"
+  },
+  {
+    "op": "replace",
+    "value": "O local de pouso \u00E9 frio, mas n\u00E3o perigosamente. ^#69f1fd;Neve^white; cobre a \u00E1rea e nevascas s\u00E3o uma possibilidade. Uma gorro e luvas podem ser aconselh\u00E1veis.",
+    "path": "/visitableTypeDescription/snow/1"
+  },
+  {
+    "op": "replace",
+    "value": "O local de pouso \u00E9 frio, mas n\u00E3o perigosamente. ^#69f1fd;Neve^white; cobre a \u00E1rea e nevascas s\u00E3o uma possibilidade. Uma gorro e luvas podem ser aconselh\u00E1veis",
+    "path": "/visitableTypeDescription/snowdark/1"
+  },
+  {
+    "op": "replace",
+    "value": "O local de pouso est\u00E1 localizado em uma \u00E1rea de ^#ffe21d;pastagem seca^white;. \u00C1rvores e arbustos crescem escassamente no calor. Um lugar empoeirado de amplas e planas vistas.",
+    "path": "/visitableTypeDescription/savannah/2"
+  },
+  {
+    "op": "replace",
+    "value": "O local de pouso \u00E9 ^#b24301;chamuscado^white; pelo ^red;intenso calor da superf\u00EDcie do planeta^white;. Apenas alguns indiv\u00EDduos resistentes permanecem, possivelmente por puro h\u00E1bito.",
+    "path": "/visitableTypeDescription/scorchedcity/2"
+  },
+  {
+    "op": "replace",
+    "value": "O local de pouso \u00E9 \u00E9 em uma densa e quente ^#12a003;selva^white;. Uma variedade de criaturas impressionantes habitam entre a exuberante flora. \u00C9 uma pena a ^red;moderadamente alta radia\u00E7\u00E3o^white;.",
+    "path": "/visitableTypeDescription/jungle/0"
+  },
+  {
+    "op": "replace",
+    "value": "O local de pouso est\u00E1 situado em uma \u00E1rea de ^#ffe21d;pastagem seca^white;que \u00E9 quente e propenso a tempestades de poeira. N\u00E3o sendo especialmente agrad\u00E1vel ou perigoso.",
+    "path": "/visitableTypeDescription/savannah/0"
+  },
+  {
+    "op": "replace",
+    "value": "A maior parte da superf\u00EDcie deste planeta est\u00E1 em combust\u00E3o^#c80000;deserto vermelho^reset;. Escaneamentos biol\u00F3gicos revelam uma interesante fauna e flora. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra calor mortal^reset;",
+    "path": "/visitableTypeDescription/desertwastes/0"
+  },
+  {
+    "op": "replace",
+    "value": "A maior parte da superf\u00EDcie deste planeta est\u00E1 em combust\u00E3o^#c80000;deserto vermelho^reset;. Escaneamentos biol\u00F3gicos revelam uma interesante fauna e flora. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra calor mortal^reset;",
+    "path": "/visitableTypeDescription/desertwastesdark/0"
+  },
+  {
+    "op": "replace",
+    "value": "A superf\u00EDcie do planeta \u00E9 ^red;perigosamente quente^reset;. Poucas criaturas existem entre os vastos oceanos de ^#ff1818;magma^white; do planeta.",
+    "path": "/visitableTypeDescription/magma/1"
+  },
+  {
+    "op": "replace",
+    "value": "A superf\u00EDcie do planeta \u00E9 ^red;perigosamente quente^reset;. Poucas criaturas existem entre os vastos oceanos de ^#ff1818;magma^white; do planeta.",
+    "path": "/visitableTypeDescription/magmadark/1"
+  },
+  {
+    "op": "replace",
+    "value": "Exitem poucos lugares mais escuros do que uma ^#505f50;lua sombria^reset;. Scanners detectaram assinaturas de material desconhecido assim como ^red;uma antiga entidade desconhecida^reset;.",
+    "path": "/visitableTypeDescription/moon_shadow/1"
+  },
+  {
+    "op": "replace",
+    "value": "A flora \u00E9 limitada aqui neste ^#e6c801;deserto^white;, mas a localidade suporta vida. ^red;Dia quentes, Noites frias^reset;.",
+    "path": "/visitableTypeDescription/desert/0"
+  },
+  {
+    "op": "replace",
+    "value": "Pouca luz penetra a copa das \u00E1rvores neste planeta florestado de ^#59a849;trevas primitivas^reset;. Traga uma fonte de luz.",
+    "path": "/visitableTypeDescription/arborealdark/0"
+  },
+  {
+    "op": "replace",
+    "value": "Esta ^#008aff;mar\u00E9s^reset; est\u00E1 sujeito a enormes for\u00E7as destas. As correntes oce\u00E2nicas mostram uma fauna rica em ^orange;n\u00F3dulos mutados^reset; Com aplica\u00E7\u00F5es interessantes. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para veneno^reset;",
+    "path": "/visitableTypeDescription/tidewater/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este ^#00f0ff;\u00C9den ^reset;tem muito poucas criaturas hostis e escurid\u00E3o. Um lugar am\u00E1vel para contruir um lar. ^#9dbeef;\u00C1guas curativas^reset; pontilham a superf\u00EDcie.",
+    "path": "/visitableTypeDescription/eden/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este ^#00f0ff;\u00C9den^reset; parece incr\u00EDvelmente hospitaleiro. Detectei alguns sinais de vida e amplas quantidades de ^#9dbeef;\u00E1guas curativas^reset;. Um lugar ideal para construir um lar.",
+    "path": "/visitableTypeDescription/eden/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta ^#59a849;floresta primitiva^reset; \u00E9 amadurecida com ^#cd5d02;atividade vulc\u00E2nica^reset; e \u00E9 desagradavelmente quente. Abundante ^orange;recursos org\u00E2nicos^reset; detectados.",
+    "path": "/visitableTypeDescription/arboreal2/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta ^#663322;lua vulc\u00E2nica^reset; deve conter abund\u00E2ncia de combust\u00EDvel erchius, mas tenha cuidado ou use prote\u00E7\u00E3o quando estiver viajando pelo ^red;calor severo^reset;.",
+    "path": "/visitableTypeDescription/moon_volcanic/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este ^#69f1fd;desperd\u00EDcio de gelo^reset; aparenta ter temperaturas fatais, verifique se voc\u00EA tem ^red;prote\u00E7\u00E3o contra frio extremo^reset;. Estou detectando recursos valiosos no subsolo. ^cyan;Recomenda\u00E7\u00E3o: prote\u00E7\u00E3o contra frio mortal^reset;",
+    "path": "/visitableTypeDescription/icewaste/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este ^#69f1fd;desperd\u00EDcio de gelo^reset; aparenta ter temperaturas fatais, verifique se voc\u00EA tem ^red;prote\u00E7\u00E3o contra frio extremo^reset;. Quase toda a luz \u00E9 bloqueada pela atmosfera. ^cyan;Recomenda\u00E7\u00E3o: prote\u00E7\u00E3o contra frio mortal^reset;",
+    "path": "/visitableTypeDescription/icewastedark/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta ^#949493;lua^white; n\u00E3o suporta vida e ^red;n\u00E3o possui atmosfera^white;. Scanners mostram que existe uma grande quantidade de combust\u00EDvel enterrada debaixo da superf\u00EDcie.",
+    "path": "/visitableTypeDescription/moon/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este ^#a56caf;mundo cristalino^reset; \u00E9 rico em ^#e6c011;cristais lun\u00E1rios^reset; e brilha lindamente quando a luz solar o atinge.",
+    "path": "/visitableTypeDescription/crystalmoon/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta ^#b3947c;lua des\u00E9rtica^reset; \u00E9 seca, fria, empoeirada e despovoada. ^red;Baixas temperaturas^reset; significa que voc\u00EA deve trazer alguma medida de prote\u00E7\u00E3o contra o frio.",
+    "path": "/visitableTypeDescription/moon_desert/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este mundo ^#b398ba;montanhoso^reset; \u00E9 absolutamente cheio de ^#e47998;min\u00E9rios de v\u00E1rios tipos^reset;, embora seja atormentado por ^red;padr\u00F5es clim\u00E1ticos violentos^reset;.",
+    "path": "/visitableTypeDescription/mountainous/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este mundo ^#b398ba;montanhoso^reset; \u00E9 cheio de montanhas rochosas imensamente altas. Escaneamentos mostram grandes primitivos b\u00EDpedes. ^#e47998;Min\u00E9rio de Zerch\u00E9sio^reset; detectado. Eventos de alta gravidade s\u00E3o comuns.",
+    "path": "/visitableTypeDescription/mountainous/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este ^#ccfa33;mundo escuro^reset; impede todo e qualquer escaneamento. ^red;Tenha muito cuidado ao viajar nele^reset;.",
+    "path": "/visitableTypeDescription/shadow/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este mundo ^#e11212;sombrio^white; \u00E9 ^red;perigosamente frio^white;. Estranhas figuras sombrias habitam aqui, escondidas na noite incessante.",
+    "path": "/visitableTypeDescription/midnight/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este ^#e78442;mar aether^reset; \u00E9 escuro, estranho e quieto. ^orange;Min\u00E9rio de Xithricite detectado^reset;.^cyan; Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o C\u00F3smica^reset;.",
+    "path": "/visitableTypeDescription/aethersea/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este local de pouso ^red;perigosamente frio.^white; &eacute; ^#61ffe3;congeladamente^white; s\u00F3lido. Alta probabilidade de auto-criopreserva\u00E7\u00E3o acidental. Proteja-se do frio!",
+    "path": "/visitableTypeDescription/tundra/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este local de pouso ^red;perigosamente frio.^white; &eacute; ^#61ffe3;congeladamente^white; s\u00F3lido. Alta probabilidade de auto-criopreserva\u00E7\u00E3o acidental. Proteja-se do frio!",
+    "path": "/visitableTypeDescription/tundradark/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este planeta ^red;perigosamente quente^white; \u00E9 composto principalmente por ^#ff1818;magma^white;. Se lembre que o seu resiliente esp\u00EDrito \u00E9 admir\u00E1vel, por\u00E9m n\u00E3o retarda chamas!",
+    "path": "/visitableTypeDescription/magma/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este planeta ^red;perigosamente quente^white; \u00E9 composto principalmente por ^#ff1818;magma^white;. Se lembre que o seu resiliente esp\u00EDrito \u00E9 admir\u00E1vel, por\u00E9m n\u00E3o retarda chamas!",
+    "path": "/visitableTypeDescription/magmadark/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este planeta ^red;moderadamente radioativo^white; \u00E9 um deserto venenoso habitado por formas de vida irradiadas. Esta superf\u00EDcie luminecente \u00E9 ^#06ff00;t\u00F3xico^white; com denso ^red;ar venenoso^reset;.",
+    "path": "/visitableTypeDescription/toxic/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta \u00E1rea de ^#ffe21d;pastagem seca ^white;\u00E9 escassamente populada por \u00E1rvores. N\u00E3o \u00E9 excessivamente in\u00F3spito - leituras indicam que h\u00E1 uma lebre saltitando por a\u00ED.",
+    "path": "/visitableTypeDescription/savannah/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este g\u00E9lido local de pouso \u00E9 cheio de ^#69f1fd;neve^white;. Diversas \u00E1rvores crescem aqui e v\u00E1rios animais tamb\u00E9m prosperam nessas frias condi\u00E7\u00F5es. Um lugar excelente para fazer bolinhas de neve.",
+    "path": "/visitableTypeDescription/snow/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este g\u00E9lido local de pouso \u00E9 cheio de ^#69f1fd;neve^white;. Diversas \u00E1rvores crescem aqui e v\u00E1rios animais tamb\u00E9m prosperam nessas frias condi\u00E7\u00F5es. Um lugar excelente para fazer bolinhas de neve.",
+    "path": "/visitableTypeDescription/snowdark/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este horrendo mundo ^#cc8d5a;atr\u00F3pico^reset; aparenta ser composto de carne, tend\u00F5es e sangue. ^#b41c1c;Min\u00E9rio de quietus^reset; detectado. ^red;Aviso: Causa loucura e ilus\u00F5es fatais^reset;.",
+    "path": "/visitableTypeDescription/atropusdark/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este horrendo mundo ^#cc8d5a;atr\u00F3pico^reset; aparenta ser composto de carne, tend\u00F5es e sangue. ^#b41c1c;Min\u00E9rio de quietus^reset; detectado. ^red;Aviso: Causa loucura^reset;.",
+    "path": "/visitableTypeDescription/atropus/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este \u00E9 um planeta ^#06ff00;t\u00F3xico^white; repleto de ^red;radia\u00E7\u00E3o e ar venenoso^white;. Os nocivos oceanos s\u00E3o ^red;letalmente venenosos^reset;.",
+    "path": "/visitableTypeDescription/toxic/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este \u00E9 um mundo ^#e11212;escuro^white; onde o Sol nunca nasce. A superf\u00EDcie \u00E9 ^red;perigosamente fria^white;. Voce deve se preparar tanto mentalmente quando fisicamente antes de pousar aqui.",
+    "path": "/visitableTypeDescription/midnight/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este \u00E9 um local de pouco um tanto arriscado - ^red;n\u00EDveis de radia\u00E7\u00E3o s\u00E3o moderadamente altos^white;. Por\u00E9m, o terreno ^#7800ff;mutado^white; pode ser descrito  como sombriamente caprichoso.",
+    "path": "/visitableTypeDescription/alien/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este lugar \u00E9 ^#999966;est\u00E9ril^white; e sem vida. Leituras mostram que n\u00E3o h\u00E1 nada aqui. Mas seja cuidadoso, os escaneamentos n\u00E3o s\u00E3o infal\u00EDveis.",
+    "path": "/visitableTypeDescription/barren/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este lugar \u00E9 relativamente frio, e ^#69f1fd;neve^white; encontra-se densamente no ch\u00E3o. Meus sensores indicam que h\u00E1 criaturas correndo sobre o cobertor macio e branco.",
+    "path": "/visitableTypeDescription/snow/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este lugar \u00E9 relativamente frio, e ^#69f1fd;neve^white; encontra-se densamente no ch\u00E3o. Meus sensores indicam que h\u00E1 criaturas correndo sobre o cobertor macio e branco.",
+    "path": "/visitableTypeDescription/snowdark/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este planeta foi alterado al\u00E9m do reconhecimento por intensos terraformadores.",
+    "path": "/terraformedPlanetDescription/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este planeta \u00E9 ^#06ff00;t\u00F3xico^white; - O ar est\u00E1 apodrecido e os oceanos s\u00E3o venenosos. ^red;N\u00EDveis de radia\u00E7\u00E3o s\u00E3o moderados^white; e densas nuvens de ^06ff00;veneno^reset; cobrem a superf\u00EDcie.",
+    "path": "/visitableTypeDescription/toxic/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este planeta \u00E9 ^#999966;est\u00E9ril^white;, suportando nenhum tipo de vida. Esteja ciente que os scanners podem cometer erros quando grandes profundidades subter\u00E2neas est\u00E3o envolvidas.",
+    "path": "/visitableTypeDescription/barren/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este planeta parece estar coberto por uma gigante col\u00F4nia ^#7fe96e;f\u00FAngica^reset;. Cuidado com o ^red;g\u00E1s venenoso^reset; das grandes nuvens de esporos.",
+    "path": "/visitableTypeDescription/fungus/0"
+  },
+  {
+    "op": "replace",
+    "value": "O clima e o escossitema desse planeta foram dramaticamente alterados pela terraforma\u00E7\u00E3o.",
+    "path": "/terraformedPlanetDescription/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este planeta estranho ^#64616f;sem luz^reset; reflete ou absorve luz. Raz\u00E3o desconhecida. ^#c62c7f;Min\u00E9rio de ef\u00EDgio^reset; detectado.",
+    "path": "/visitableTypeDescription/lightless/0"
+  },
+  {
+    "op": "replace",
+    "value": "Este incomum mundo ^#83b369;irradiado^reset; n\u00E3o deve ser visitado sem ^green;prote\u00E7\u00E3o para radia\u00E7\u00E3o extrema^reset;. ^#4444ff;Min\u00E9rio de Irr\u00E1dio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para radia\u00E7\u00E3o severa^reset;",
+    "path": "/visitableTypeDescription/irradiated/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este \u00E9 um incomum planeta ^#ffc2f9;crom\u00E1tico^reset;, com uma ^orange;atmosfera radioativa^reset;. Nossos scanners detectaram dep\u00F3sitos minerais raros. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra radia\u00E7\u00E3o mortal^reset;",
+    "path": "/visitableTypeDescription/chromatic/1"
+  },
+  {
+    "op": "replace",
+    "value": "Este incomum planeta ^#914560;super-denso^reset; tem gravidade ^orange;muito acima do normal^reset;. Seja muito cuidadoso! ^red;Cair significa morte certa^reset;.",
+    "path": "/visitableTypeDescription/superdense/1"
+  },
+  {
+    "op": "replace",
+    "value": "Esta \u00E9 uma ^#949493;lua^white; vaga com ^red;falta de atmosfera e oxig\u00EAnio^white;, existem cavernas no subsolo que cont\u00E9m vastos dep\u00F3sitos de combust\u00EDvel.",
+    "path": "/visitableTypeDescription/moon/2"
+  },
+  {
+    "op": "replace",
+    "value": "Este mundo est\u00E1 coberto por um ^#da67b8;estranho mar^reset;. Scanners revelam densas concentra\u00E7\u00F5es de fluido plasm\u00E1tico. ^red;G\u00E1s Mortal!^reset; ^cyan;Recomenda\u00E7\u00E3o: Imunidade a veneno ou g\u00E1s^reset;",
+    "path": "/visitableTypeDescription/strangesea/0"
+  }, 
+  {
+    "op": "replace",
+    "value": "Amea\u00E7a: ",
+    "path": "/gui/planetinfo/children/inner/children/threatLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestades",
+    "path": "/displayWeathers/thunderclap/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Mar\u00E9",
+    "path": "/planetTypeNames/tidewater"
+  },
+  {
+    "op": "replace",
+    "value": "Tit\u00E2nio",
+    "path": "/displayOres/titanium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Chuva intensa",
+    "path": "/displayWeathers/heavyrain/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "T\u00F3xico",
+    "path": "/planetTypeNames/toxic"
+  },
+  {
+    "op": "replace",
+    "value": "Lua t\u00F3xica",
+    "path": "/planetTypeNames/moon_toxic"
+  },
+  {
+    "op": "replace",
+    "value": "Viajens podem ser mais lentas nesta ^#999999;lua rochosa^reset;.",
+    "path": "/visitableTypeDescription/moon_stone/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ande com cuidado neste sufocante mundo de ^#59a849;floresta primitiva^reset;. Detectado ^#cd5d02;Pesada Atividade Vulc\u00E2nica^reset;",
+    "path": "/visitableTypeDescription/arboreal2/2"
+  },
+  {
+    "op": "replace",
+    "value": "Trianglium",
+    "path": "/displayOres/trianglium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Tungst\u00EAnio",
+    "path": "/displayOres/tungsten/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "INEXPLORADO",
+    "path": "/clusterInfoBox/viewButtonCaption/disabled"
+  },
+  {
+    "op": "replace",
+    "value": "INEXPLORADO",
+    "path": "/gui/clusterinfo/children/inner/children/view/caption"
+  },
+  {
+    "op": "replace",
+    "value": "INEXPLORADO",
+    "path": "/gui/systeminfo/children/inner/children/view/caption"
+  },
+  {
+    "op": "replace",
+    "value": "INEXPLORADO",
+    "path": "/objectInfoBox/bookmarkButtonCaption/unexplored"
+  },
+  {
+    "op": "replace",
+    "value": "INEXPLORADO",
+    "path": "/systemInfoBox/viewButtonCaption/disabled"
+  },
+  {
+    "op": "replace",
+    "value": "INEXPLORADO",
+    "path": "/systemTooltip/exploredLabel/unexplored"
+  },
+  {
+    "op": "replace",
+    "value": "OBJETOS CELESTIAIS N\u00C3O MAPEADOS INDISPON\u00CDVEIS",
+    "path": "/gui/remoteDescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "Ur\u00E2nio",
+    "path": "/displayOres/uranium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "VISTO",
+    "path": "/clusterInfoBox/viewButtonCaption/enabled"
+  },
+  {
+    "op": "replace",
+    "value": "VISTO",
+    "path": "/systemInfoBox/viewButtonCaption/enabled"
+  },
+  {
+    "op": "replace",
+    "value": "VISITADO",
+    "path": "/systemTooltip/exploredLabel/explored"
+  },
+  {
+    "op": "replace",
+    "value": "Ver localiza\u00E7\u00E3o da miss\u00E3o",
+    "path": "/topLeftButtonTooltips/goToQuest"
+  },
+  {
+    "op": "replace",
+    "value": "Ver nave",
+    "path": "/topLeftButtonTooltips/goToShip"
+  },
+  {
+    "op": "replace",
+    "value": "Violium",
+    "path": "/displayOres/violium/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Lava vol\u00E1til e calor mortal extremo aguardam nos mundos ^#cd5d02;infernais^reset;. Prote\u00E7\u00E3o Recomendada. ^#d16fff;Min\u00E9rio de Densinium^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para calor mortal^reset;",
+    "path": "/visitableTypeDescription/infernusdark/0"
+  },
+  {
+    "op": "replace",
+    "value": "Lava vol\u00E1til e calor mortal extremo aguardam nos mundos ^#cd5d02;infernais^reset;. Prote\u00E7\u00E3o Recomendada. ^orange;Min\u00E9rio de Pirita^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para calor mortal^reset;",
+    "path": "/visitableTypeDescription/infernus/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vulc\u00E2nico",
+    "path": "/planetTypeNames/volcanic"
+  },
+  {
+    "op": "replace",
+    "value": "Lua vulc\u00E2nica",
+    "path": "/planetTypeNames/moon_volcanic"
+  },
+  {
+    "op": "replace",
+    "value": "Vulc\u00E2nico primitivo",
+    "path": "/planetTypeNames/arboreal2"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de slime fraca",
+    "path": "/displayWeathers/slimestormlesser/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Clima",
+    "path": "/gui/planetinfo/children/inner/children/weather/value"
+  },
+  {
+    "op": "replace",
+    "value": "Molhado, ch\u00E3o sujo e denso ^#97be6a;p\u00E2ntano^reset; extende pela maior parte da superf\u00EDcie do planeta. Colher ^green;algas^reset; deve ser simples.",
+    "path": "/visitableTypeDescription/bog/2"
+  },
+  {
+    "op": "replace",
+    "value": "Embora quase n\u00E3o haja motivos para falar de, ^#505f50;uma bola de g\u00E1s^reset;, ela pode gerar recursos \u00FAteis. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant/4"
+  },
+  {
+    "op": "replace",
+    "value": "Embora quase n\u00E3o haja motivos para falar de, ^#505f50;uma bola de g\u00E1s^reset;, ela pode gerar recursos \u00FAteis. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant2/4"
+  },
+  {
+    "op": "replace",
+    "value": "Embora quase n\u00E3o haja motivos para falar de, ^#505f50;uma bola de g\u00E1s^reset;, ela pode gerar recursos \u00FAteis. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant3/4"
+  },
+  {
+    "op": "replace",
+    "value": "Embora quase n\u00E3o haja motivos para falar de, ^#505f50;uma bola de g\u00E1s^reset;, ela pode gerar recursos \u00FAteis. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant4/4"
+  },
+  {
+    "op": "replace",
+    "value": "Embora quase n\u00E3o haja motivos para falar de, ^#505f50;uma bola de g\u00E1s^reset;, ela pode gerar recursos \u00FAteis. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant5/4"
+  },
+  {
+    "op": "replace",
+    "value": "Embora tentador, evite o desejo de nadar no sangue e v\u00EDceras neste planeta de ^#ba3b04;mar atr\u00F3pico^reset;. ^red;Aviso: Causa loucura^reset;",
+    "path": "/visitableTypeDescription/bloodstonesea/1"
+  },
+  {
+    "op": "replace",
+    "value": "Cores rodopiantes e g\u00E1s espesso circundam esse ^#e43774;gigante de g\u00E1s^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant/2"
+  },
+  {
+    "op": "replace",
+    "value": "Cores rodopiantes e g\u00E1s espesso circundam esse ^#e43774;gigante de g\u00E1s^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant2/2"
+  },
+  {
+    "op": "replace",
+    "value": "Cores rodopiantes e g\u00E1s espesso circundam esse ^#e43774;gigante de g\u00E1s^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant3/2"
+  },
+  {
+    "op": "replace",
+    "value": "Cores rodopiantes e g\u00E1s espesso circundam esse ^#e43774;gigante de g\u00E1s^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant4/2"
+  },
+  {
+    "op": "replace",
+    "value": "Cores rodopiantes e g\u00E1s espesso circundam esse ^#e43774;gigante de g\u00E1s^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o para press\u00F5es extremas^reset;",
+    "path": "/visitableTypeDescription/fugasgiant5/2"
+  },
+  {
+    "op": "replace",
+    "value": "Tempestade de vento",
+    "path": "/displayWeathers/windstorm/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "X",
+    "path": "/gui/coordinatesFrame/children/xLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Y",
+    "path": "/gui/coordinatesFrame/children/yLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Seu local de teletransporte neste planeta est\u00E1 localizado em uma ^#15ce02;floresta^white;. Leituras indicam que esta \u00E1rea arborizada \u00E9 relativamente tranquila.",
+    "path": "/visitableTypeDescription/forest/2"
+  },
+  {
+    "op": "replace",
+    "value": "As for\u00E7as da ^#008aff;mar\u00E9^reset; \u00E9 muito forte neste mundo oce\u00E2nico. ^orange;Recursos raros^reset;incomuns detectados na superf\u00EDcie oce\u00E2nica. ^cyan;Recomenda\u00E7\u00E3o: prote\u00E7\u00E3o contra veneno^reset;",
+    "path": "/visitableTypeDescription/tidewater/1"
+  },
+  {
+    "op": "replace",
+    "value": "Materiais ^#414556;T\u00F3xicos^reset; comp\u00F5em a maior parte deste lua. Um miasma ^red;severamente venenoso^reset; cobre a superf\u00EDcie.",
+    "path": "/visitableTypeDescription/moon_toxic/0"
+  },
+  {
+    "op": "replace",
+    "value": "Quase todo esse planeta \u00E9 formado de ^#517f51;lodo^reset;. ^red;Enormes criaturas noturnas^reset; detectadas. A atmosfera \u00E9 cheia de ^red;vapores venenosos^reset;.",
+    "path": "/visitableTypeDescription/slimeworld/1"
+  },
+  {
+    "op": "replace",
+    "value": "^#59a849;\u00C1rvores gigantes^reset; S\u00E3o abundantes neste mundo de ^#cd5d02;floresta primitiva^reset;. Abund\u00E2ncia ^orange;recursos org\u00E2nicos^reset; detectada.",
+    "path": "/visitableTypeDescription/arboreal/0"
+  },
+  {
+    "op": "replace",
+    "value": "^#59a849;\u00C1rvores gigantes^reset; S\u00E3o abundantes neste mundo opressivamente quente de ^#cd5d02;floresta primitiva vulc\u00E2nica^reset;. Abund\u00E2ncia ^orange;recursos org\u00E2nicos^reset; detectada.",
+    "path": "/visitableTypeDescription/arboreal2/0"
+  },
+  {
+    "op": "replace",
+    "value": "Planetas de ^#59a849;Florestas primitivas^reset; est\u00E3o no in\u00EDcio de seu ciclo de vida e s\u00E3o ricos em ^orange;Recursos Org\u00E2nicos^reset;.",
+    "path": "/visitableTypeDescription/arboreal/2"
+  },
+  {
+    "op": "replace",
+    "value": "^#663322;Atividade vulc\u00E2nica^reset; acontece desenfreadamente nesta lua. Temperaturas s\u00E3o ^red;severamente quentes^reset; E prote\u00E7\u00E3o deve ser usada ao explorar.",
+    "path": "/visitableTypeDescription/moon_volcanic/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos de ^#666666;Esperas Cibern\u00E9ticas^reset; possuem ^#90ac7c;metais raros em abund\u00E2ncia^reset; guardados por servos perigosos. ^#d16fff;Min\u00E9rio de Densinium^reset; e ^#ffda44;alto conte\u00FAdo met\u00E1lico^reset; detectados.",
+    "path": "/visitableTypeDescription/metallicmoon/0"
+  },
+  {
+    "op": "replace",
+    "value": "^#69f1fd;Nitrog\u00EAnio L\u00EDquido^reset; forma a totalidade do l\u00EDquido desta lua. Isso se prova ^red;Perigoso sem prote\u00E7\u00E3o^reset;. ^cyan;Recomenda\u00E7\u00E3o:EPP de Calor II^reset;",
+    "path": "/visitableTypeDescription/nitrogensea/1"
+  },
+  {
+    "op": "replace",
+    "value": "Paisagens ^#76fe68;incr\u00EDveiswhite;. Fauna e flora s\u00E3o abundantes aqui. O local de teletransporte \u00E9 super seguro.",
+    "path": "/visitableTypeDescription/garden/0"
+  },
+  {
+    "op": "replace",
+    "value": "Planetas de ^#78657f;Pen\u00FAnbricos^reset; tem uma composi\u00E7\u00E3o \u00FAnica que bloqueia luz, mas n\u00E3o raios UV. Eles s\u00E3o a \u00FAnica fonte de ^#9d5bd0;min\u00E9rio de penumbrite^reset;.",
+    "path": "/visitableTypeDescription/penumbra/1"
+  },
+  {
+    "op": "replace",
+    "value": "Mundo ^#83b369;Irradiado^reset;. Densos recept\u00E1culos de radia\u00E7\u00E3o letal, e grandes quantidades de ^#4444ff;Min\u00E9rio de Irr\u00E1dio^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra radia\u00E7\u00E3o severa^reset;",
+    "path": "/visitableTypeDescription/irradiated/0"
+  },
+  {
+    "op": "replace",
+    "value": "^#86a8c5;Luas congeladas^reset; s\u00E3o frias e perigosas para os incautos. Estou detectando valiosos ^#e43558;Min\u00E9rios de telebrium^reset; nas cavernas. ^cyan;Recomenda\u00E7\u00E3o: EPP de calor II^reset;",
+    "path": "/visitableTypeDescription/icemoon/2"
+  },
+  {
+    "op": "replace",
+    "value": "^#8cf387;Florestas tropicais^reset;cobrem quase completamente a superf\u00EDcie deste caloroso e convidativo planeta. ^green;Bambu e outros recursos org\u00E2nicos encontrados em grandes quantidades.^reset;",
+    "path": "/visitableTypeDescription/thickjungle/2"
+  },
+  {
+    "op": "replace",
+    "value": "^#8cf387;Florestas tropicais^reset; tomaram a maior parte deste mundo ricamente org\u00E2nico. Abund\u00E2ncia de ^#green;recursos org\u00E2nicos^reset; detectada.",
+    "path": "/visitableTypeDescription/thickjungle/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#914560;Super-densos^reset; tem enormer for\u00E7a gravitacional. ^red;Perigo extremo ao cair^reset;.",
+    "path": "/visitableTypeDescription/superdense/0"
+  },
+  {
+    "op": "replace",
+    "value": "^#999999;Luas rochosas^reset; tem terrenos dif\u00EDceis, mas s\u00E3o inofencivas de outra forma.",
+    "path": "/visitableTypeDescription/moon_stone/1"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#b86c00;vulc\u00E2nicos congelados^reset; s\u00E3o relativamente raros, e possuem um perigoso mix de gelo, rocha chamejante e lava. ^green;Muitos recursos \u00FAteis^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: EPP contra calor II^reset;",
+    "path": "/visitableTypeDescription/frozenvolcanic/0"
+  },
+  {
+    "op": "replace",
+    "value": "^#b86c00;Vulc\u00E2nico congelado^reset;? Como isso \u00E9 poss\u00EDvel? A ci\u00EAncia n\u00E3o consegue explicar. ^green; Muitos recursos \u00FAteis!^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: EPP contra calor II^reset;",
+    "path": "/visitableTypeDescription/frozenvolcanic/1"
+  },
+  {
+    "op": "replace",
+    "value": "^#ba3b04;Mares atr\u00F3picos^reset; S\u00E3o podres e repulsivos, carregados com elementos ^#8e5ca6;org\u00E2nicos desconhecidos^reset;. ^red;Aviso: Causa loucura^reset;",
+    "path": "/visitableTypeDescription/bloodstonesea/2"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#cc8d5a;Atr\u00F3picos^reset; s\u00E3o abomin\u00E1veis, esferas infernais compostas de ambas mat\u00E9rias viva e morta. ^#b41c1c;Cristais pl\u00E1smicos^reset; detectados. ^red;Aviso: Causa isanidade e alucina\u00E7\u00F5es fatais^reset;.",
+    "path": "/visitableTypeDescription/atropusdark/1"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#cc8d5a;Atr\u00F3picos^reset; s\u00E3o abomin\u00E1veis, esferas infernais compostas de ambas mat\u00E9rias viva e morta. ^#b41c1c;Cristais pl\u00E1smicos^reset; detectados.^red;Aviso: Agentes causadores de insanidade detectados.^reset;",
+    "path": "/visitableTypeDescription/atropus/1"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#cd5d02;Infernais^reset; s\u00E3o ^red;excepcionalmente mortais^reset; e n\u00E3o devem ser explorados sem prote\u00E7\u00E3o. ^#d16fff;Min\u00E9rio de Densinium^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra calor mortal^reset;",
+    "path": "/visitableTypeDescription/infernusdark/2"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#cd5d02;Infernais^reset; s\u00E3o ^red;excepcionalmente mortais^reset; e n\u00E3o devem ser explorados sem prote\u00E7\u00E3o. ^orange;Min\u00E9rio de Pirita^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra calor mortal^reset;",
+    "path": "/visitableTypeDescription/infernus/2"
+  },
+  {
+    "op": "replace",
+    "value": "Atividade ^#e11212;Vulc\u00E2nica^white; destr\u00F3i este planeta e no lugar de teletransporte est\u00E1 uma \u00E1rea de virul\u00EAncia particular. A ^red;temperatura est\u00E1 bem acima dos n\u00EDveis sobreviv\u00EDveis^white;.",
+    "path": "/visitableTypeDescription/volcanic/1"
+  },
+  {
+    "op": "replace",
+    "value": "Interfer\u00EAncia ^#e43774;desconhecida^reset; previne escanear a superf\u00EDcie do planeta. Prossiga com cuidado. ^red;Potencial letal!^reset;",
+    "path": "/visitableTypeDescription/ffunknown/0"
+  },
+  {
+    "op": "replace",
+    "value": "Leituras ^#e43774;desconhecidas^reset; est\u00E3o deixando nossos scanners confusos. N\u00E3o consigo recolher nada \u00FAtil deles. ^red;Potencialmente Letal!^reset;",
+    "path": "/visitableTypeDescription/ffunknown/2"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#ffc2f9;Crom\u00E1ticos^reset; s\u00E3o estranhos e ^orange;radioativos^reset; mas ricos em valiosos ^green;estilha\u00E7os de prima^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra radia\u00E7\u00E3o mortal^reset;",
+    "path": "/visitableTypeDescription/chromatic/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#ffc2f9;Crom\u00E1ticos^reset; cintilam como um ^orange;arco \u00EDris radioativo^reset; com reluzentes ^green;estilha\u00E7os de prisma^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra radia\u00E7\u00E3o mortal^reset;",
+    "path": "/visitableTypeDescription/chromatic/2"
+  },
+  {
+    "op": "replace",
+    "value": "Atmosfera de ^#ffea00;\u00C1cido Sulf\u00FArico^reset; detectada. ^red;Piscinas de \u00E1cido e tempestades letais^reset; detam-se abaixo em abund\u00E2ncia ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra \u00E1cido^reset;",
+    "path": "/visitableTypeDescription/sulphuric/1"
+  },
+  {
+    "op": "replace",
+    "value": "Atmosfera de ^#ffea00;\u00C1cido Sulf\u00FArico^reset; detectada. ^red;Piscinas de \u00E1cido e tempestades letais^reset; detam-se abaixo em abund\u00E2ncia ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra \u00E1cido^reset;",
+    "path": "/visitableTypeDescription/sulphuricdark/1"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#ffea00;Sulf\u00FAricos^reset; s\u00E3o extremamente perigosos. Atmosfera t\u00F3xica, \u00E1cida e sufocante. Abund\u00E2ncia de ^#772211;cinnabar^reset; detectada. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra \u00E1cido^reset;",
+    "path": "/visitableTypeDescription/sulphuric/0"
+  },
+  {
+    "op": "replace",
+    "value": "Mundos ^#ffea00;Sulf\u00FAricos^reset; s\u00E3o extremamente perigosos. Atmosfera t\u00F3xica, \u00E1cida e sufocante. Abund\u00E2ncia de ^#772211;cinnabar^reset; detectada. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra \u00E1cido^reset;",
+    "path": "/visitableTypeDescription/sulphuricdark/0"
+  },
+  {
+    "op": "replace",
+    "value": "^red;N\u00EDveis moderados e inseguros de radia\u00E7\u00E3o^white; tornam esta ^#12a003;selva^white; um ambiente extremamente hostil e a fauna local \u00E9 igualmente hostil.",
+    "path": "/visitableTypeDescription/jungle/2"
+  },
+  {
+    "op": "replace",
+    "value": "^red;Temperaturas no local de teletransporte s\u00E3o perigosamente baixas^white;. A \u00E1rea \u00E9 ^#61ffe3;congelada^white;, e habitada apenas por fauna e flora extremamente resistentes ao frio.",
+    "path": "/visitableTypeDescription/tundra/2"
+  },
+  {
+    "op": "replace",
+    "value": "^red;Temperaturas no local de teletransporte s\u00E3o perigosamente baixas^white;. A \u00E1rea \u00E9 ^#61ffe3;congelada^white;, e habitada apenas por fauna e flora extremamente resistentes ao frio.",
+    "path": "/visitableTypeDescription/tundradark/2"
+  },
+  {
+    "op": "replace",
+    "value": "^red;Temperaturas no local de pouso s\u00E3o perigosamente baixas^white;. Voc\u00EA ser\u00E1 teletransportando \u00E0 uma pequena ilha cercada por um ^#00ffe4;oceano congelado^white;. Eu recomendo fortemente que voc\u00EA use um cachecol.",
+    "path": "/visitableTypeDescription/arctic/0"
+  },
+  {
+    "op": "replace",
+    "value": "^red;Temperaturas no local de pouso s\u00E3o perigosamente baixas^white;. Voc\u00EA ser\u00E1 teletransportando \u00E0 uma pequena ilha cercada por um ^#00ffe4;oceano congelado^white;. Eu recomendo fortemente que voc\u00EA use um cachecol.",
+    "path": "/visitableTypeDescription/arcticdark/0"
+  },
+  {
+    "op": "replace",
+    "value": " Perigoso",
+    "path": "/gui/planetinfo/children/inner/children/threatValue/value"
+  }
+]

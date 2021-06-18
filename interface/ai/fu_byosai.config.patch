@@ -1,0 +1,92 @@
+[
+  {
+    "value": "S.A.I.L.",
+    "path": "/gui/windowTitle/value",
+    "op": "replace"
+  },
+  {
+    "value": "Intelig\u00EAncia Artificial da Nave",
+    "path": "/gui/windowSubtitle/value",
+    "op": "replace"
+  },
+  {
+    "value": "Voltar",
+    "path": "/gui/buttonBack/caption",
+    "op": "replace"
+  },
+  {
+    "value": "^white;Buildable^reset;",
+    "path": "/gui/buttonByos/caption",
+    "op": "replace"
+  },
+  { 
+    "value": "^white;Upgradable^reset;",
+    "path": "/gui/buttonUpgradable/caption",
+    "op": "replace"
+  },
+  {
+    "value": "A nave sofreu grandes danos ao escapar da terra. Selecione o tipo de nave que deseja:\n\nNave frackin:\nConstrua a sua nave, escolha uma das predefinicoes. Precisa instalar uma nova unidade FTL. Veja missoes no tricorder para mais detalhes.\n\nNave padrao:\nNave padrao do starbound pela raca escolhida. Nao tem acesso a alguns recursos de nave do FU.",
+    "path": "/states/initial/text",
+    "op": "replace"
+  },
+  {
+    "value": "Nave Frackin",
+    "path": "/states/initial/buttons/0/name",
+    "op": "replace"
+  },
+  {
+    "value": "Nave Padr\u00E3o",
+    "path": "/states/initial/buttons/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Selecionar",
+    "path": "/states/frackinShipChoice/buttons/0/name",
+    "op": "replace"
+  },
+  {
+    "value": "Visualiza\u00E7\u00E3o",
+    "path": "/states/frackinShipChoice/buttons/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Selecionar",
+    "path": "/states/frackinShipPreview/buttons/0/name",
+    "op": "replace"
+  },
+  {
+    "value": "A nave frackin. Diferentes tipos de atualizacoes. Este tipo de nave tem acesso a recursos aos quais a nave padrao nao tem acesso.\n\nNave selecionado: <shipName>\nModo da nave selecionado: <shipMode>",
+    "path": "/states/frackinShipSelected/text",
+    "op": "replace"
+  },
+  {
+    "value": "Confirmar",
+    "path": "/states/frackinShipSelected/buttons/0/name",
+    "op": "replace"
+  },
+  {
+    "value": "A nave padrao. Possui atualizacoes do jogo base. Este tipo de nave nao tera acesso a alguns dos recursos aos quais a nave frackin tera acesso.",
+    "path": "/states/vanillaShipSelected/text",
+    "op": "replace"
+  },
+  {
+    "value": "Confirmar",
+    "path": "/states/vanillaShipSelected/buttons/0/name",
+    "op": "replace"
+  },
+  {
+    "value": "Construindo nave, por favor aguarde",
+    "path": "/states/shipChosen/text",
+    "op": "replace"
+  },
+  {
+    "value": "S\u00F3 pule os reparos se a nave n\u00E3o estiver danificada.",
+    "path": "/states/skipRepairs/text",
+    "op": "replace"
+  },
+  {
+    "value": "Confirmar",
+    "path": "/states/skipRepairs/buttons/0/name",
+    "op": "replace"
+  }
+]

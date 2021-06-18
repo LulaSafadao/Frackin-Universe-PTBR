@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "<- Prot\u00F3tipo",
+    "path": "/gui/prototype label/value"
+  },
+  {
+    "op": "replace",
+    "value": "Materiais",
+    "path": "/gui/input label/value"
+  }
+]

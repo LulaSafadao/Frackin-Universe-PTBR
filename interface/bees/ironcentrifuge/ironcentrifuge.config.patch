@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "Arraste & Solte",
+    "path": "/gui/dragDrop/value"
+  },
+  {
+    "op": "replace",
+    "value": "Entrada",
+    "path": "/gui/countinput/value"
+  },
+  {
+    "op": "replace",
+    "value": "Pegar tudo",
+    "path": "/gui/clear/caption"
+  },
+  {
+    "op": "replace",
+    "value": "Sa\u00EDda",
+    "path": "/gui/countoutput/value"
+  }
+]

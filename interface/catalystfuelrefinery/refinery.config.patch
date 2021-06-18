@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "Refinaria de gasolina",
+    "path": "/gui/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": " ^#b9b5b2;Refina a gasolina",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Refinar",
+    "path": "/gui/toggleCrafting/caption"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;Coloque combust\u00EDvel n\u00E3o refinado e catalisador pra produzir combust\u00EDvel",
+    "path": "/gui/lblText/value"
+  }
+]

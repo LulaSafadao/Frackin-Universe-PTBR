@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Pegar tudo",
+    "path": "/gui/clear/caption"
+  }
+]

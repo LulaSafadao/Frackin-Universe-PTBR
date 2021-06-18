@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Inserir pods",
+    "path": "/gui/insertPod/value"
+  }
+]

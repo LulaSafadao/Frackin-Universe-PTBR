@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Arraste & Solte",
+    "path": "/gui/dragDrop/value"
+  },
+  {
+    "op": "replace",
+    "value": "Pegar tudo",
+    "path": "/gui/clear/caption"
+  },
+  {
+    "op": "replace",
+    "value": "128 SLOTS",
+    "path": "/gui/count/value"
+  }
+]
