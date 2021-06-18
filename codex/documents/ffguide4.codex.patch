@@ -1,0 +1,22 @@
+[
+  {
+    "value": "^#ffea00;Guia FU^reset;: 4",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Como jogar",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Para ler este codex, use o seu ^orange;Personal Tricorder^reset; e clique no \u00EDcone que parece um livro.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

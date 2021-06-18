@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Reinventando a Hist\u00F3ria",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Descobertas surpreendentes na Hist\u00F3ria Antiga",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Lendo atrav\u00E9s de documentos hist\u00F3ricos tem revelado uma verdade espantosa: os Antigos eram uma ra\u00E7a artificial, constru\u00EDda a partir de pedra energizada e muitas vezes estacionada como sentinelas. N\u00E3o podemos ter a certeza de quem ou o que os fez, mas estamos 100% certos de que eles n\u00E3o surgiram simplesmente do nada. N\u00E3o, estes golias de pedra eram constru\u00EDdos \u00E0 m\u00E3o, criados para se reproduzirem e protegerem os seus criadores.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Encontramos at\u00E9 prot\u00F3tipos de desenhos nestes textos. \u00C9 uma mudan\u00E7a de grande import\u00E2ncia! Toda a nossa vis\u00E3o sobre estes seres misteriosos foi invertida de cabe\u00E7a para baixo. Resta agora uma grande pergunta... para onde \u00E9 que eles foram?",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

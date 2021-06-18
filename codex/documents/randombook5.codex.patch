@@ -1,0 +1,52 @@
+[
+  {
+    "value": "Revista Cient\u00EDfica",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Surpreendentemente, n\u00E3o cont\u00EAm ci\u00EAncia de verdade.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Nota para mim mesmo: Flesh Reapers n\u00E3o s\u00E3o bons pets.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Merda, Fiquei b\u00EAbado na noite passada e acordei coberto de galinhas. Quem fez isto?",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Aparentemente, me cobri de galinhas.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Hoje eu decidir comer aquela terra que aquele drogado Radien vende. \u00C9 horr\u00EDvel. Eu n\u00E3o recebi muito dinheiro.",
+    "path": "/contentPages/3",
+    "op": "replace"
+  },
+  {
+    "value": "Acontece que a terra do Radien \u00E9 uma droga poderosa. Eu tenho uma ideia.",
+    "path": "/contentPages/4",
+    "op": "replace"
+  },
+  {
+    "value": "Uma hip\u00F3tese: eu poderia deixar meu colega Atucha extremamente b\u00EAbado a ponto de revelar segredos. Mas n\u00E3o foi isso que aconteceu. Vinalisj est\u00E1 muito puto comigo",
+    "path": "/contentPages/5",
+    "op": "replace"
+  },
+  {
+    "value": "N\u00E3o aprendi da \u00FAltima vez. Atucha me ofereceu um pouco de seu almo\u00E7o. Eu comi uma pedra, sim uma MERDA de uma pedra.",
+    "path": "/contentPages/6",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

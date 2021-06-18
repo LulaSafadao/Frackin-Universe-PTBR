@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Escritura sagrada de Arvokk",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Muito longo e chato.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Existem muitos rumores de onde eles vieram. De outro universo, subespa\u00E7o... Que absurdo! \u00C9 simplesmente um absurdo! S\u00F3 o Criador pode vir de fora!",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Dar sua aten\u00E7\u00E3o para aqueles que vieram antes e olhe para seus gastos enquanto eles rangem e devoram a ordem das coisas e d\u00E3o origem \u00E0 cad\u00EAncia gloriosa lan\u00E7ada pela entropia absoluta. Sorria e renas\u00E7a enquanto eles limpam sua mente mortal. Desfrute-se diante de seu poder e fa\u00E7a com que tudo o que voc\u00EA era antes seja purgado! Deixe que eles mudem voc\u00EA.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "Primeiro, voc\u00EA deve reunir os artefatos e conduzi-los para o Cazl Tide. L\u00E1 eles v\u00E3o crescer e se tornar o Devorador. Por causa dele, seremos despeda\u00E7ados... e a destrui\u00E7\u00E3o do universo dar\u00E1 origem a um novo. Sua forma rec\u00E9m-nascida.",
+    "path": "/contentPages/2",
+    "op": "replace"
+  },
+  {
+    "value": "Para proteger o nosso Deus, voc\u00EA deve invocar o poder de limpeza de Yaz'guul e banhar os ossos de Uniadelz'ik com a gordura derretida de um diluviano. Caso nenhum diluviano continue existindo, em vez disso, voc\u00EA deve localizar um lugar conhecido como Maine, em um planeta conhecido como Terra. L\u00E1 voc\u00EA encontrar\u00E1 uma cidade conhecida como Innsmouth. Procure o templo. O sangue de Dagon \u00E9 necess\u00E1rio.",
+    "path": "/contentPages/3",
+    "op": "replace"
+  },
+  {
+    "value": "Com o sangue em m\u00E3os, voc\u00EA deve beb\u00EA-lo sob a luz da lua de Reinkarrd. Apenas no horizonte de eventos de buracos negros antigos. Se voc\u00EA localizar um, poder\u00E1 prosseguir para a pr\u00F3xima etapa... [restam mais de 2.000 p\u00E1ginas. A primeira metade desse processo termina na p\u00E1gina 800].",
+    "path": "/contentPages/4",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

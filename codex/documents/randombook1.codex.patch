@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Not\u00EDcias preocupantes",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Discuss\u00E3o em fam\u00EDlia",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "S\u00F3 porque ele \u00E9 um Hylotl, papai est\u00E1 pirando! N\u00E3o \u00E9 justo! Dennyx e eu nos amamos! Quem se importa de que esp\u00E9cie ele \u00E9??? Papai insiste que 'Nenhum Munari meu vai se casar com um Hylotl imprest\u00E1vel', mas vamos mostrar a ele! Acabei de pagar 20.000 pixels ao o Punho Fechado para 'cuidar' do nosso problema de uma maneira tradicional. Nosso casamento vai prosseguir conforme planejado, n\u00E3o importa o que aconte\u00E7a!",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

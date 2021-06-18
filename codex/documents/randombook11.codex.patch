@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Ajustando coisas pequenas em coisas maiores",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Por que isso existe?",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Um livro surpreendentemente informativo dedicado inteiramente a ajustar pequenos objetos em objetos maiores. Total de p\u00E1ginas: 280. Editora: Pengui",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

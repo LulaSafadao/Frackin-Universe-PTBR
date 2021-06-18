@@ -1,0 +1,147 @@
+[
+  {
+    "value": "^#ffea00;Guia FU^reset;: Biomas",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Como jogar",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Para ler este codex, use o seu ^orange;Personal Tricorder^reset; e clique no \u00EDcone que parece um livro.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "H\u00E1 novos mundos atrav\u00E9s dos cosmos a ser explorado. Nas pr\u00F3ximas p\u00E1ginas vai falar alguns deles. Note que existem muitos mais do que os listados.
+
+Os biomas podem aparecer em torno de diferentes tipos de estrelas, e alguns aparecem apenas em estrelas espec\u00EDficas. Por exemplo: Voc\u00EA nunca encontrar\u00E1 um ^orange;Inferno^reset; na ^white;Estrela suave^reset;.
+
+^blue;------------------------^reset;
+^green;Tipos de estrelas^reset;
+^blue;------------------------^reset;
+Estrela suave
+Temperada
+Radioativa
+Congelada
+Ardente
+Bin\u00E1ria
+Vermelha
+Azul
+Preta
+Morrendo
+
+^blue;------------------------^reset;
+^green;P\u00E2ntano^white;   
+^blue;------------------------^reset;
+Rico em algas, lama e vida vegetal. Eles est\u00E3o maduros por causa do clima chuvoso em p\u00E2ntanos densos. Andar por aqui pode ser dif\u00EDcil, mas as algas s\u00E3o um recurso \u00FAtil.\n
+
+^blue;------------------------^reset;
+^green;Floresta tropical^white;
+^blue;------------------------^reset;
+Cheios de plantas, as florestas tropicais t\u00EAm solo rico, excedendo a capacidade da terra comum. Eles hospedam uma grande variedade de vida selvagem, incluindo muitas abelhas.\n
+
+^blue;------------------------^reset;
+^green;Cristalino^white;
+^blue;------------------------^reset;
+Uma fonte rica de sil\u00EDcion (gra\u00E7as \u00E0 extra\u00E7\u00E3o da cristal roxa) e cristais ^yellow;Lunaris^reset;. Cuidado com a chuva cristalina.\n
+
+^blue;------------------------^reset;
+^green;Gelatinoso^white;
+^blue;------------------------^reset;
+\u00D3timo para material gen\u00E9tico. N\u00C3O experimente a planta que parece um alface, a menos que voc\u00EA realmente goste de sopa de gelatina sem sabor espremida em sua boca (amoeba mandou abra\u00E7os). Se voc\u00EA precisa de coisas pegajosas, esta \u00E9 sua primeira parada.\n
+
+^blue;------------------------^reset;
+^green;Mundo prot\u00F3tipo^white;
+^blue;------------------------^reset;
+Esses planetas bizarros n\u00E3o s\u00E3o in\u00F3spitos, mas o slime pode derreter sua carne. Al\u00E9m das tempestades de slime, eca. E a vida vegetal \u00E9 muito estranha. Mas estes planetas s\u00E3o os \u00FAnicos lugares para obter o protocite que \u00E9 um min\u00E9rio extremamente valioso. Voc\u00EA vai precisar. Tamb\u00E9m esteja ciente de que a atmosfera cont\u00E9m bact\u00E9rias bizarras que afetam negativamente as formas de vida n\u00E3o condicionadas. Tenha cuidado ao explorar.\n
+
+^blue;------------------------^reset;
+^green;\u00C1rtico^white;
+^blue;------------------------^reset;
+O \u00E1rtico \u00E9 absolutamente frio. N\u00E3o nade na \u00E1gua ou voc\u00EA congelar\u00E1 ainda mais r\u00E1pido. Esses planetas t\u00EAm alguns tipos \u00FAnicos de gelo que fornecem algo relevante durante a extra\u00E7\u00E3o. Al\u00E9m disso, o valioso min\u00E9rio isog\u00EAnio \u00E9 abundante.\n
+
+^blue;------------------------^reset;
+^green;Sulf\u00FArico^white;
+^blue;------------------------^reset;
+Estes biomas sulf\u00FAricos est\u00E3o entre os ambientes mais hostis que voc\u00EA encontrar\u00E1. Cada momento em um mundo sulf\u00FArico \u00E9 letal. Ventos mortais, destro\u00E7os voando e n\u00E3o tem oxig\u00EAnio. \u00C9 um bioma ador\u00E1vel. Mas, eles s\u00E3o extremamente ricos em sulf\u00FAricos. N\u00E3o \u00E9 o lugar para uma casa de ver\u00E3o. No entanto, as pessoas continuam tentando...\n
+
+^blue;------------------------^reset;
+^green;Penumbra^white;
+^blue;------------------------^reset;
+Muito sombrio durante a maior parte de sua exist\u00EAncia, esses mundos raros t\u00EAm algum tipo de barreira ambiental para o sol. Um efeito natural dos \u00F3culos de sol no oz\u00F4nio, ou algo assim. Seja qual for o caso... \u00E9 escuro e assustador.\n
+
+^blue;------------------------^reset;
+^green;Devastado^white;
+^blue;------------------------^reset;
+Era uma vez popula\u00E7\u00F5es agitadas que viviam nessas rochas desoladas. Agora, suas ru\u00EDnas marcam a superf\u00EDcie como lixo descartado. Pode haver tecnologia que pode ser aproveitada, se voc\u00EA estiver procurando por algumas.\n
+
+^blue;------------------------^reset;
+^green;Irradiado^white;
+^blue;------------------------^reset;
+Essas pedras radioativas s\u00E3o abundantes na vida nativa. Concedido, n\u00E3o \u00E9 comest\u00EDvel e voc\u00EA n\u00E3o vai querer sair deste lugar. Voc\u00EA encontrar\u00E1 muitos recursos radioativos aqui, \u00F3bvio.\n
+
+^blue;------------------------^reset;
+^green;Inferno^white;
+^blue;------------------------^reset;
+Eu n\u00E3o sugeria ir aqui sem muita prote\u00E7\u00E3o. Suas superf\u00EDcies est\u00E3o longe de ser hospitaleiras. Eles est\u00E3o repletos de perigos de todos os tipos, mas quem aguenta resistir ao incr\u00EDvel min\u00E9rio de pirita?\n
+
+^blue;------------------------^reset;
+^green;Lua congelada^white;
+^blue;------------------------^reset;
+Essas luas congeladas s\u00E3o estranhas e n\u00E3o s\u00E3o amea\u00E7adoras. Nenhuma vida anda em sua superf\u00EDcie.\n
+
+^blue;------------------------^reset;
+^green;Mar de nitrog\u00EAnio^white;
+^blue;------------------------^reset;
+N\u00E3o parece ser um lugar divertido para nadar? realmente n\u00E3o \u00E9. No entanto, esse tipo de l\u00EDquido \u00E9 \u00FAtil.\n
+
+^blue;------------------------^reset;
+^green;Ciberesfera^white;
+^blue;------------------------^reset;
+Algu\u00E9m, em algum momento, construiu essas constru\u00E7\u00F5es enormes no espa\u00E7o. Como foram projetados? nunca nem vi.\n
+
+^blue;------------------------^reset;
+^green;Floresta primitiva^white;
+^blue;------------------------^reset;
+\u00C1rvores enormes, muita vida selvagem e recursos naturais abundantes tornam esses lugares um lugar maravilhoso para se visitar. Normalmente n\u00E3o \u00E9 muito perigoso, mas fique atento de qualquer maneira... voc\u00EA nunca sabe o que se esconde nessas enormes florestas. J\u00E1 ouvi rumores de r\u00E9pteis tit\u00E2nicos parados a 10 ou mais metros de altura!\n
+
+^blue;------------------------^reset;
+^green;\u00C1tropos^white;
+^blue;------------------------^reset;
+Uma viola\u00E7\u00E3o de todas as coisas decentes, os planetas \u00C1tropos moram os vivos e os mortos. Eles s\u00E3o literalmente compostos de carne, e alguns at\u00E9 acreditam que s\u00E3o sencientes. Ainda n\u00E3o se sabe como isso \u00E9 poss\u00EDvel, mas n\u00E3o resta d\u00FAvidas de que \u00E9 um bioma horr\u00EDvel em todos os sentidos.\n
+
+^blue;------------------------^reset;
+^green;Montanhoso^white;
+^blue;------------------------^reset;
+Embora seja bastante \u00F3bvio pelo nome, vou informar que esses mundos s\u00E3o bastante acidentados e montanhosos. Eles s\u00E3o ricos em recursos, possuindo mais metal do que a maioria dos biomas (exceto o Sulf\u00FArico), incluindo o raro min\u00E9rio Zerchesium.\n
+
+^blue;------------------------^reset;
+^green;Mar\u00E9^white;
+^blue;------------------------^reset;
+
+Esses oceanos s\u00E3o muito mais rochosos e inst\u00E1veis do que os planetas aqu\u00E1ticos t\u00EDpicos. Geralmente n\u00E3o h\u00E1 ilhas tropicais, mas se voc\u00EA adora terrenos rochosos e recifes de coral, esse \u00E9 o seu lugar. Atrav\u00E9s da mar\u00E9, os exploradores encontraram n\u00F3dulos incomuns capazes de fazer milagres cient\u00EDficos.\n
+
+^blue;------------------------^reset;
+^green;Sem luz^white;
+^blue;------------------------^reset;
+Esses mundos incomuns s\u00E3o antigos e algo impede que o sol alcance sua superf\u00EDcie. Pode haver algumas coisas \u00FAteis l\u00E1, no entanto. Traga muitas luzes!
+
+^blue;--------------------------------------------------^reset;
+^yellow;O Frackin Wiki 
+^blue;--------------------------------------------------^reset;
+Se precisar de ajuda usa o ^cyan;wiki oficial^reset; (totalmente ingl\u00EAs) aqui:
+^green;frackinuniverse.miraheze.org^reset;
+
+^red;N\u00E3o^reset; use o Fandom wiki. Est\u00E1 desatualizado.",
+    "path": "/longContentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

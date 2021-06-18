@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Esp\u00E9cie bizarra",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Porque essa esp\u00E9cie \u00E9 t\u00E3o estranha? Vol. 1",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Existe uma esp\u00E9cie t\u00E3o estranha em seus h\u00E1bitos de acasalamento... t\u00E3o pouco ortodoxa... que literalmente toda a gal\u00E1xia est\u00E1 curiosa sobre ela. Essas criaturas ir\u00E3o acasalar em quase qualquer lugar e sem nenhum motivo al\u00E9m de divers\u00E3o ou um meio de passar o tempo (em alguns casos documentados). E ainda... como \u00E9 a sua gesta\u00E7\u00E3o? Lenta. E os beb\u00EAs? Choram e s\u00E3o impotentes por algum tempo. Que esp\u00E9cies \u00E9 essa? Humanos.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Nesta s\u00E9rie de documentos de 15 partes, estaremos investigando os h\u00E1bitos humanos de acasalamento em detalhes. Dos \u00F3rg\u00E3os genitais com um formato mais incomum nas posi\u00E7\u00F5es bizarras, h\u00E1bitos de arrog\u00E2ncia e beleza, e tudo mais associado aos seus rituais de acasalamento mam\u00EDferos incomuns.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

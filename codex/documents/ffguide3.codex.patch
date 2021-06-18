@@ -1,0 +1,44 @@
+[
+  {
+    "value": "^#ffea00;Guia FU^reset; : Status",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Status FU",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Para ler este codex, use o seu ^orange;Personal Tricorder^reset; e clique no \u00EDcone que parece um livro.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Al\u00E9m dos status presentes no Starbound, FU adiciona o seu tamb\u00E9m. Eles s\u00E3o detalhados neste guia para ter f\u00E1cil acesso futuramente.\n
+^green;Carisma^white; - Ao fazer compras nas esta\u00E7\u00F5es espaciais do FU, o carisma o ajuda a ter lucro, influenciando os valores de ^cyan;venda e compra^reset;. Um carisma alto significa uma alta propor\u00E7\u00E3o de renda! Note que isso s\u00F3 se aplica aos com\u00E9rcios da Esta\u00E7\u00E3o Espacial por enquanto.\n
+^green;Chance de atordoamento^white; - Com armas corpo a corpo, cada golpe cr\u00EDtico tem a chance de atordoar inimigos. Da mesma forma com escudos bem sucedidos. Esta estat\u00EDstica influencia a chance de que este atordoamento ocorra.\n
+^green;Chance de golpe do escudo^white; - Ao bloquear com seu escudo, voc\u00EA tem a chance de bater com escudo. Este status influencia as chances de sucesso do golpe.\n
+^green;Empurrar com o escudo^white; - A que dist\u00E2ncia um golpe de escudo empurrar\u00E1 um inimigo e quanto dano infligir\u00E1 quando for bem-sucedido.\n
+^green;B\u00F4nus tecnol\u00F3gico^white; - Existem v\u00E1rios tipos de B\u00F4nus Tecnol\u00F3gico. Eles ser\u00E3o listados quando necess\u00E1rio. Qualquer b\u00F4nus influenciar\u00E1 as tecnologias. Por exemplo, 'Pulo tecnol\u00F3gico +25%' aumenta a efici\u00EAncia de qualquer tecnologia relacionada ao pulo por esse valor.\n
+^green;Mestre da arma^white; - Ocasionalmente, voc\u00EA encontrar\u00E1 equipamentos que podem conceder 'Mestre da arma' em diferentes n\u00EDveis. O mestre da arma fornece benef\u00EDcios adicionais para armas espec\u00EDficas.\n
+^green;Chance cr\u00EDtica^white; - A probabilidade de voc\u00EA marcar um ataque cr\u00EDtico bem-sucedido com sua arma. Observe que isso pode ser uma estat\u00EDstica tanto para voc\u00EA quanto para sua arma. Ambos v\u00E3o se combinar.\n
+^green;B\u00F4nus de dano cr\u00EDtico^white; - O b\u00F4nus total aplicado, em porcentagem, a ataques de dano cr\u00EDtico.\n
+^#e43774;Insanidade^white; - Uma medida de sua sanidade atual. Quanto maior o valor, mais louco voc\u00EA \u00E9. Mais de 50 efeitos podem ocorrer da loucura, e nem todos s\u00E3o ruins. Voc\u00EA pode passar a insanidade na ^#e43774;\u00C1rvore de Pesquisa Metaf\u00EDsica^reset;.\n   
+
+^blue;--------------------------------------------------^reset;
+^yellow;O Frackin Wiki 
+^blue;--------------------------------------------------^reset;
+Se precisar de ajuda usa o ^cyan;wiki oficial^reset; (totalmente ingl\u00EAs) aqui:
+^green;frackinuniverse.miraheze.org^reset;
+
+^red;N\u00E3o^reset; use o Fandom wiki. Est\u00E1 desatualizado.",
+    "path": "/longContentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

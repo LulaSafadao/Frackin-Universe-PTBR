@@ -1,0 +1,22 @@
+[
+  {
+    "value": "53 Coisas para fazer na gravidade zero",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "t\u00EDtulo apto",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "CONFIA, cont\u00E9m 53 coisas divertidas para fazer na Gravidade Zero. Entre eles, 4 delas envolvem assassinato e 2 envolvem ventosas e laxantes.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

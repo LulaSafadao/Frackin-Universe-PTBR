@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Rob\u00F4s de borracha",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "M\u00E1quinas do laborat\u00F3rio 101",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ent\u00E3o, ao que parece, apesar do que esper\u00E1vamos, prender uma faca em um rob\u00F4 de borracha n\u00E3o divertia Heshu tanto quanto pens\u00E1vamos. Em vez disso, ele sempre fica de quatro e assobia sempre que 'Stabby' entra na sala. Isso mesmo... \u00C9 retardado.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Stabby teve uma baixa. Ele esfaqueou Vinalisj no calcanhar e ele o acertou com o rabo de surpresa. Descanse em paz, Stabby. N\u00F3s vamos vingar voc\u00EA. Provavelmente n\u00E3o com facas.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

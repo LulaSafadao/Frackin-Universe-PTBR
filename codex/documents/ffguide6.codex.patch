@@ -1,0 +1,48 @@
+[
+  {
+    "value": "^#ffea00;Guia FU^reset;: Comida e prote\u00E7\u00E3o",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Armaduras e b\u00F4nus alimentares",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Para ler este codex, use o seu ^orange;Personal Tricorder^reset; e clique no \u00EDcone que parece um livro.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Frackin Universe adiciona grandes quantidades de armaduras (e alimentos) e melhora algumas antigas, permitindo maior variedade de estilos de jogo. Podem ser muito \u00FAteis atrav\u00E9s da jogabilidade e proporcionam benef\u00EDcios extremamente \u00FAteis!\n
+^orange;Status^reset;: Os jogadores do Vanilla podem notar que h\u00E1 mais coisas daquilo a que estavam acostumados, e mesmo aqueles que est\u00E3o acostumados a ter diferentes varia\u00E7\u00F5es. O FU apresenta uma grande variedade de classes com armaduras para animar a sua divers\u00E3o, e o mesmo acontece com a comida.\n
+Se estiver mais interessado em danos, escolha a armadura Power ou a armadura hyper power para trocar as estat\u00EDsticas defensivas por estat\u00EDsticas ofensivas. Ou ent\u00E3o, pode escolher o Tank ou o Power Tank para sobreviver contra o seu inimigo. Eles v\u00EAm em corpo a corpo OU \u00E0 dist\u00E2ncia! Lutar n\u00E3o \u00E9 o teu estilo? Escolhe um conjunto de explora\u00E7\u00E3o, e fica \u00E0 vontade no ambiente que te cerca! Ter\u00E1 a garantia de encontrar um conjunto que se encaixe no seu estilo de jogo, em algum lugar!\n
+^orange;Resist\u00EAncias^reset;: Muitas armaduras em FU possuem resist\u00EAncias inerentes. Muitos efeitos clim\u00E1ticos do bioma simplesmente deixar\u00E3o de afet\u00E1-lo quando atingir uma quantidade apropriada, e v\u00E1rios ataques inimigos causar\u00E3o menos danos. Conveniente, certo? Ficar\u00E1 ainda melhor; se melhorarmos a armadura, essas resist\u00EAncias ir\u00E3o aumentar!\n
+^orange;B\u00F4nus^reset;: A maioria aumenta as suas estat\u00EDsticas, e muitas delas s\u00E3o condicionais. 
+Tudo o que diz ^green;+valor^reset; s\u00E3o tipicamente aumentos adicionais. Pode ser um pouco confuso. Por exemplo: se der +^green;3^reset;% de chance critico aumenta a sua chance critica em 3%, mas se disser +^green;3^reset;% de regenera\u00E7\u00E3o de energia, isso \u00E9 3% do seu valor base. Se um b\u00F4nus diz x^green;1.3^reset;, ou ^green;mais^reset;, isso \u00E9 um multiplicador sobre o valor que tem atualmente. Tem como ter 1000% de danos de alguma forma? Sim! com 100% Mais (ou 2x), voc\u00EA pode at\u00E9 fazer 2000%! Uma pequena observa\u00E7\u00E3o: Normalmente, a regenera\u00E7\u00E3o \u00E9 por segundo.\n
+\u00C9 claro que alguns b\u00F4nus t\u00EAm componentes escondidos que n\u00E3o poder\u00EDamos incluir facilmente.\n Al\u00E9m disso, h\u00E1 algumas outras refer\u00EAncias a ter em conta. Se um conjunto de b\u00F4nus declara que concede imunidade a ^green;TODOS^reset; os efeitos relacionados, isso significa tipicamente todos os efeitos clim\u00E1ticos do bioma ^orange;bem como^reset; feitos de status espec\u00EDficos relacionados com esse elemento. Pelo calor, isso inclui queimaduras em at\u00E9 mesmo na lava! Para a radia\u00E7\u00E3o, inclui a queimadura por radia\u00E7\u00E3o.
+Alguns termos ou s\u00EDmbolos s\u00E3o utilizados como uma pequena nota lateral, de forma livre. Se virem um b\u00F4nus com x/y, isso significa que os b\u00F4nus s\u00E3o diferentes com base na forma como as suas condi\u00E7\u00F5es s\u00E3o cumpridas. Para armas, isto significa qual o n\u00FAmero desse tipo.\n
+^cyan;Conjuntos de minera\u00E7\u00E3o^reset;:\n O Mining laser concede muito mais danos na minera\u00E7\u00E3o... Mas esse b\u00F4nus \u00E9 reduzido significativamente se os combinar com outra coisa. Usando o mining laser com uma pistola, por exemplo: Mining Laser 2x de dano se torna 1,25x de dano.
+^orange;Cores^reset;: As cores s\u00E3o importantes nos b\u00F4nus. Se algo \u00E9 ^green;VERDE^reset;, isso significa que \u00E9 uma coisa boa. ^red;VERMELHO^reset; significa que \u00E9 uma coisa m\u00E1. ^cyan;CIANO^reset; \u00E9 para coisas que s\u00E3o bin\u00E1rias. Normalmente n\u00E3o se empilham com efeitos semelhantes. Isto ser\u00E1 especialmente evidente com os alimentos que aumentam os danos... por isso escolha cuidadosamente. Vale a pena notar que existe UMA excep\u00E7\u00E3o \u00E0s regras relativas \u00E0s cores: Brilho. Se ver Brilho numa cor, geralmente \u00E9 o efeito de cor do brilho.\n
+^orange;B\u00F4nus especiais^reset;: Alguns conjuntos t\u00EAm b\u00F4nus especiais que realmente n\u00E3o exibem muita informa\u00E7\u00E3o devido \u00E0 falta de espa\u00E7o, por causa da limita\u00E7\u00E3o do jogo. Aqui, alguns b\u00F4nus ser\u00E3o explicados.
+^cyan;Auto-m\u00E9dico^reset;: Mais complicado do que a regenera\u00E7\u00E3o simples, este efeito restaurar\u00E1 mais sa\u00FAde por segundo, custando a mesma porcentagem da energia.\n
+^cyan;Espinhos^reset;: Uma novidade na hora de ser atingido por espinhos, voc\u00EA fica com o efeito ^cyan;fogo explosivo^reset; em outras palavras, voc\u00EA fica se queimando... sem sacanagem.\n
+^cyan;Invocar minions^reset;: Invoca aliados de pouca dura\u00E7\u00E3o para lutar ao seu lado ou distrair inimigos. As for\u00E7as dos minions t\u00EAm uma escala baseada no n\u00EDvel mais baixo de armadura, por isso \u00E9 essencial atualiz\u00E1-la! Atualize TODAS as pe\u00E7as.\n
+^cyan;Concha da Vida/Energia^reset;: Receba a absor\u00E7\u00E3o de danos com base nos seus recursos a fim de proteger a sua sa\u00FAde. Regenera-se rapidamente se n\u00E3o tiver sofrido danos recentemente. As ^cyan;imunidades nas conchas^reset; s\u00E3o concedidas apenas enquanto a concha estiver segura. Os n\u00FAmeros especificados referem-se a, por ordem: A capacidade do escudo em rela\u00E7\u00E3o ao recurso, a taxa de regenera\u00E7\u00E3o, e a demora na ocorr\u00EAncia de danos antes de come\u00E7ar a regenerar.\n
+^cyan;Normas gravitacionais^reset;: Gravidade muito baixa voc\u00EA sobe. Muito alta voc\u00EA desce (na maioria dos casos tu nem consegue pular, meu parceiro). Exce\u00E7\u00E3o: Gravidade zero.\n
+^cyan;For\u00E7a vital^reset; e ^cyan;Delet\u00E9rio^reset;: Estes efeitos s\u00E3o exclusivos e bastante poderosos; concedem um efeito b\u00F4nus com base numa porcentagem do outro. A for\u00E7a vital concede poder como vida, delet\u00E9rio concede vida como poder.\n
+^cyan;Determina\u00E7\u00E3o imortal^reset;: Aumenta a prote\u00E7\u00E3o \u00E0 medida que a sua vida diminui, at\u00E9 ao determinado valor, enquanto que a ^cyan;determina\u00E7\u00E3o imortal^reset; concede a regenera\u00E7\u00E3o de HP. Se um conjunto conceder entre voc\u00EA e o seu pet, conceder\u00E1 a ^cyan;determina\u00E7\u00E3o imortal^reset; ao seu pet tamb\u00E9m.\n
+^cyan;Comandante das trevas^reset;/^cyan;Mestre das bestas^reset;: Aumenta os danos, prote\u00E7\u00E3o, HP e velocidade dos pets (ambos) e da tripula\u00E7\u00E3o (comandante das trevas) pela porcentagem listada, aumenta a sua capacidade de saltar pela metade disso, e regenera o HP a um sexto desse valor por segundo.\n
+^cyan;Invocador^reset;: Aumenta a quantidade de pets em 1, ganhe mais um adicional por cada 2 n\u00EDveis do conjunto de pe\u00E7as mais baixo equipado. Concede +1 adicional se for utilizado juntamente com a parte de tr\u00E1s. Isto significa que um conjunto totalmente melhorado permitir\u00E1 at\u00E9 5 pets adicionais!\n
+^cyan;Carisma^reset;: Ser capaz de negociar com os Comerciantes nas esta\u00E7\u00F5es espaciais. Quanto maior for o seu carisma, melhor ser\u00E1 o neg\u00F3cio (mais ostenta\u00E7\u00E3o e dinheiro!)\n
+Eles herdar\u00E3o de si mais atributos, tanto ben\u00E9ficos como prejudiciais, e ter\u00E3o escalas especiais em prote\u00E7\u00E3o e HP. Esteja atento quando tomar buffs poderosos, uma vez que reduzir\u00E1 a sua sa\u00FAde notavelmente.",
+    "path": "/longContentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

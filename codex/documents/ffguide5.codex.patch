@@ -1,0 +1,180 @@
+[
+  {
+    "value": "^#ffea00;Guia FU^reset;: Ambientes",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Efeitos e consequ\u00EAncias",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Para ler este codex, use o seu ^orange;Personal Tricorder^reset; e clique no \u00EDcone que parece um livro.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Frackin Universe adiciona um grande n\u00FAmero de efeitos de status adicionais, perigos ambientais e intera\u00E7\u00F5es ambientais. Isso pode ser prejudicial ou ben\u00E9fico, dependendo das circunst\u00E2ncias. Este breve guia vai te ajudar a entender alguns deles pra voc\u00EA. Clique na pr\u00F3xima p\u00E1gina para continuar.\n
+   
+   ^blue;------------------------^reset;
+   ^yellow;Resist\u00EAncias^reset;: 
+   ^blue;------------------------^reset;
+
+   Ter resist\u00EAncia contra os efeitos \u00E9 muito importante. Tenha em mente que quanto ^cyan;maior o seu valor^reset; em um tipo de resist\u00EAncia, ^cyan;menos voc\u00EA ser\u00E1 afetado por v\u00E1rios debuffs, isso vale tamb\u00E9m pelos danos sofridos^reset;. A ^red;fraqueza^reset; tamb\u00E9m desempenha. 
+
+   ^orange;Exemplo^reset;:
+
+   Um Floran tem ^red;-50% de resist\u00EAncia ao fogo^reset;. Ele sofrer\u00E1 ^red;50% a mais de dano do fogo^reset; e precisar\u00E1 de ^orange;50% de resist\u00EAncia contra o fogo^reset; para anular a penalidade. Isso tamb\u00E9m aplica em um bioma que tem um requisito que precisa de 40% de resist\u00EAncia para ter imunidade ao fogo, somando o prejuizo que os floran tem junto com o requisito do bioma precisar\u00E1 de ^orange;90% de resist\u00EAncia contra o fogo^reset;.
+   
+   Por outro lado, se sua ra\u00E7a tiver um ^cyan;b\u00F4nus contra elementos^reset;, voc\u00EA precisar\u00E1 de ^orange;menos resist\u00EAncia^reset; do que o valor normal. Uma ra\u00E7a com ^green;+30% de Resist\u00EAncia ao Fogo^reset; precisaria de ^green;30% a menos de resist\u00EAncia aos efeitos do fogo para ganhar imunidade^reset;. Isso permite que voc\u00EA tenha imunidade nativa a efeitos menores, como o calor do deserto ou o frio.
+
+^cyan;Todos os tipos de resist\u00EAncias^reset;.\n
+
+   ^blue;-----------------------------------^reset;
+
+   De um modo geral, suponhamos que a resist\u00EAncia para alguns tipos de bioma funcione da seguinte forma:   
+
+   ^green;20%^reset; (Leve) / ^yellow;40%^reset; (Moderado) / ^red;60%^reset; (Severo) 
+
+   Nota que tempestades severas e outros desastres naturais podem influenciar a pot\u00EAncia dos efeitos nos biomas, ent\u00E3o pra seguran\u00E7a, voc\u00EA ter\u00E1 que est\u00E1 mais preparado e estrat\u00E9gico do que o normal.
+
+   Os inimigos ^yellow;tamb\u00E9m podem ter pontos fortes e fracos de resist\u00EAncia^reset;. Alguns s\u00E3o totalmente imunes a elementos espec\u00EDficos, mas facilmente derrubados por outros elementos, portanto, explora suas fraquezas e pimba neles.\n
+   
+
+   ^blue;-----------------------------------^reset;
+
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Clima^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Existem v\u00E1rios tipos de clima que podem causar danos. Todos podem ser resistidos com algum tipo de prote\u00E7\u00E3o relevante. Tempestades el\u00E9tricas s\u00E3o bloqueadas por resist\u00EAncia contra eletricidade, veneno por resist\u00EAncia contra veneno e assim por diante. Alguns s\u00E3o \u00F3bvios, entretanto, no caso do \u00E9ter, pra ter imunidade, precisa de sets completos das armaduras ou ter augments.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Quebra-blocos^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Se voc\u00EA cair um pouco r\u00E1pido demais, alguns blocos n\u00E3o conseguir\u00E3o suportar o seu peso. Gelo, vidro, slime, lama e outros materiais podem quebrar com o impacto. Portanto, tome cuidado.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Efeitos nos blocos^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Alguns blocos d\u00E3o buffs ou debuffs quando pisados. Muitos deles n\u00E3o v\u00E3o te avisar, mas afetar\u00E3o seu movimento. Neve, lama, terra da selva e argila s\u00E3o alguns exemplos disso quando pisados. O asfalto aumenta sua velocidade no solo, bastante \u00FAtil em bases. Experimente, explore e voc\u00EA encontrar\u00E1 bastantes coisas interessantes.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Temperatura^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Frio, Calor e Radia\u00E7\u00E3o s\u00E3o coisas do Starbound vanilla. Mas em FU eles desempenham um papel diferente. Voc\u00EA n\u00E3o encontrar\u00E1 muitas imunidades contra efeitos nos EPPs. Em vez disso, voc\u00EA pode usar ^cyan;resist\u00EAncias^reset; que s\u00E3o obtidas a partir dos EPPs ou augments em porcentagens. Quanto maior for a sua porcentagem de resist\u00EAncia em um determinado elemento, menos ele o incomodar\u00E1 (ou ser\u00E1 bloqueado completamente).\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Calor do deserto^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Os desertos s\u00E3o secos e o seu calor ir\u00E1 lentamente enfraquecer sua sa\u00FAde e alimenta\u00E7\u00E3o. Do meio-dia ao p\u00F4r do sol, vira nordeste de t\u00E3o quente que fica. De noite quase n\u00E3o tem amea\u00E7a e fica mais fresco. O subterr\u00E2neo \u00E9 mais frio. Voc\u00EA pode resistir o calor do deserto tendo resist\u00EAncia contra fogo.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Calor da selva^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Muito parecido com o deserto, o calor da selva ir\u00E1 drenar gradualmente a sua sa\u00FAde e alimenta\u00E7\u00E3o, e \u00E9 menos perigoso \u00E0 noite. Ao contr\u00E1rio do deserto, voc\u00EA ter\u00E1 que ter resist\u00EAncia f\u00EDsica para aguentar a press\u00E3o da gravidade desse bioma.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Radia\u00E7\u00E3o^reset;
+   ^#555555;-----------------------------------^reset;
+
+   A radia\u00E7\u00E3o pode ser bastante perigosa para quem n\u00E3o est\u00E1 preparado. Este efeito desagrad\u00E1vel drenar\u00E1 sua sa\u00FAde e energia rapidamente (sua sa\u00FAde/energia m\u00E1xima, n\u00E3o sua quantidade atual). Se voc\u00EA atingir 0 de vida, morrer\u00E1 sem aviso... ent\u00E3o fique de olho na sua vida. Voc\u00EA tamb\u00E9m vai morrer de fome mais r\u00E1pido e os ventos v\u00E3o piorar as coisas para voc\u00EA. Se quer entrar nesse bioma precisar\u00E1 de resist\u00EAncia contra radia\u00E7\u00E3o.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Sulf\u00FArico^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Os efeitos do \u00E1cido sulf\u00FArico podem ser desagrad\u00E1veis, consumindo rapidamente sua armadura e causando danos \u00E0 sa\u00FAde. Pior ainda, em mundos sulf\u00FAricos voc\u00EA tem que enfrentar tempestades que tornam esse efeito ainda mais perigoso, chuva \u00E1cida e pequenos buracos com \u00E1cido sulf\u00FArico! Para resistir a este efeito, voc\u00EA precisar\u00E1 de ^orange;Resist\u00EAncia f\u00EDsica^reset; ou ter ^orange;imunidade contra \u00E1cido^reset;.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Prot\u00F3tipo-venenoso^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Este efeito desagrad\u00E1vel \u00E9 perigoso em mundos prot\u00F3tipos. Isso ir\u00E1 diminuir lentamente sua sa\u00FAde m\u00E1xima e *ir\u00E1* eventualmente mat\u00E1-lo. Al\u00E9m disso, reduzir\u00E1 sua chance cr\u00EDtica e aplicar\u00E1 danos ao longo do tempo. Procure um set de armadura ou augment que tem ^orange;prote\u00E7\u00E3o contra prot\u00F3tipo-venenoso^reset; em v\u00E1rios equipamentos das suas esta\u00E7\u00F5es do laborat\u00F3rio, que tamb\u00E9m tenha ^orange;resist\u00EAncia contra veneno^reset;.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Insanidade^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Com uma degrada\u00E7\u00E3o constante do seu estado mental, a insanidade esgota sua capacidade de se proteger por um per\u00EDodo prolongado, drenando sua Prote\u00E7\u00E3o. Al\u00E9m disso, causa um pequeno dano por segundo. Seu c\u00E9rebro ficar\u00E1 confuso e voc\u00EA ter\u00E1 alucina\u00E7\u00F5es e ficar\u00E1 com fome mais r\u00E1pido. Augments e armaduras podem combater este efeito desagrad\u00E1vel, ou voc\u00EA poderia ter uma resist\u00EAncia contra ^orange;sombras ou cosmos^reset; e voc\u00EA ficar\u00E1 bem.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Press\u00E3o^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Talvez o mais mortal de todos os efeitos de status, com a press\u00E3o extrema ativada, ela ir\u00E1 ^red;definitivamente MATAR voc\u00EA em segundos^reset; se voc\u00EA n\u00E3o tem prote\u00E7\u00E3o. Felizmente, ele \u00E9 encontrado em poucos lugares (principalmente nos Gigantes gasosos). ^orange;N\u00E3o arrisque sem um traje de prote\u00E7\u00E3o neste efeito ambiental^reset;. Voc\u00EA *vai* morrer.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Veneno^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Preciso explicar? Voc\u00EA n\u00E3o quer ser envenenado, mas existe v\u00E1rios tipos de venenos que s\u00E3o piores do que outros. Para citar alguns: veneno b\u00E1sico, veneno de merc\u00FArio (que \u00E9 desagrad\u00E1vel), \u00E1gua contaminada, intoxica\u00E7\u00E3o alimentar e o veneno da \u00E1gua sombria. ^orange;Imunidade ou resist\u00EAncia contra o veneno^reset; far\u00E1 sua m\u00E1gica para evitar este conjunto de venenos perigosos. Venenos potentes precisam de maior porcentagem da resist\u00EAncia.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Pus^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Este l\u00EDquido \u00E9 absolutamente repulsivo, e mesmo tendo o material com voc\u00EA provoca \u00E2nsia de v\u00F4mito e n\u00E1useas. Para aguentar, voc\u00EA precisar\u00E1 de algum tipo de ^orange;prote\u00E7\u00E3o f\u00EDsica^reset;. Este \u00E1cido n\u00E3o \u00E9 seu amigo. Eu n\u00E3o recomendo ingeri-lo.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Alcatr\u00E3o^reset;
+   ^#555555;-----------------------------------^reset;
+
+   O alcatr\u00E3o desacelera ^red;muito^reset; voc\u00EA e torna quase imposs\u00EDvel saltar a uma altura decente. Isso dificulta, mas n\u00E3o causa danos diretamente. Voc\u00EA pode bloque\u00E1-lo com v\u00E1rias armaduras ou produtos.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;G\u00E1s^reset;
+   ^#555555;-----------------------------------^reset;
+
+   O g\u00E1s pode ser positivo (H\u00E9lio 3) ou negativo (g\u00E1s sombrio, hidrog\u00EAnio, etc). Para bloquear o g\u00E1s \u00E9 bastante simples... ^orange;Vista algo que o proteja do g\u00E1s^reset;. No entanto, alguns s\u00E3o mais especializados. ^orange;G\u00E1s sombrio precisa de resist\u00EAncia contra sombras^reset; e ^orange;G\u00E1s venenoso n\u00E3o funciona com alta resist\u00EAncia a venenos (l\u00EDquidos)^reset;.\n   
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Sopa org\u00E2nica^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Um dos poucos efeitos que \u00E9 realmente algo que voc\u00EA *quer*. A sopa org\u00E2nica aumentar\u00E1 o sua sa\u00FAde total e remover os efeitos da fome (e at\u00E9 encher voc\u00EA!). Tome um banho nele quando puder!\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Slime biol\u00F3gico^reset;
+   ^#555555;-----------------------------------^reset;
+
+   Este fluido ir\u00E1 grudar em voc\u00EA, deix\u00E1-lo doente e afetar seus movimentos e chances de sobreviv\u00EAncia enquanto estiver vivo. Veste uma armadura que te protege contra slime que \u00E9 GG. \u00C9 mais comum em mundos prot\u00F3tipos e alguns biomas. Pode ser ^orange;bloqueado ou mitigado com resist\u00EAncia ao veneno ou imunidade contra o veneno^reset;.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Nitrog\u00EAnio l\u00EDquido^reset;
+   ^#555555;-----------------------------------^reset;
+
+  Ouvi dizer que \u00E9 um pouco frio, ent\u00E3o entrar nisso pode ser uma p\u00E9ssima ideia para um mergulho. No entanto, voc\u00EA pode torn\u00E1-lo um evento divertido e alegre simplesmente usando a ^orange;resist\u00EAncia de gelo^reset; adequado.\n
+   
+   ^#555555;-----------------------------------^reset;
+   ^yellow;Escurid\u00E3o^reset;
+   ^#555555;-----------------------------------^reset;
+
+   A escurid\u00E3o \u00E9 capaz de permear sua vis\u00E3o e transformar o mundo ao seu redor totalmente sem luz. Tenha cuidado com esse efeito.\n
+
+   ^blue;------------------------^reset;
+
+   Observe que h\u00E1 muitos outros efeitos pelos quais voc\u00EA pode ser afetado em sua explora\u00E7\u00E3o no universo. Nem todos eles podem ser resistidos e alguns podem ser resistidos por coisas surpreendentes. Apenas fique atento... e seguro.
+
+^blue;--------------------------------------------------^reset;
+^yellow;O Frackin Wiki 
+^blue;--------------------------------------------------^reset;
+Se precisar de ajuda usa o ^cyan;wiki oficial^reset; (totalmente ingl\u00EAs) aqui:
+^green;frackinuniverse.miraheze.org^reset;
+
+^red;N\u00E3o^reset; use o Fandom wiki. Est\u00E1 desatualizado.",
+    "path": "/longContentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

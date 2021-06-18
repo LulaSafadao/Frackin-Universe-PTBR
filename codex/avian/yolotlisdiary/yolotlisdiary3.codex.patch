@@ -1,0 +1,7 @@
+[{"path":"/description","value":"O di\u00e1rio pessoal de um Avian Ascendente.","op":"replace"},{"path":"/contentPages/0","value":"Depois de decorridos nove dias, n\u00f3s festejamos. Em cada um dos nove dias! Eu nunca comi t\u00e3o bem na minha vida.\n\nA prepara\u00e7\u00e3o \u00e9 ainda mais gratificante do que a comida: os atendentes v\u00eam e me ajudam a tomar banho, e ent\u00e3o, uma vez que estou seco, minhas penas da crista s\u00e3o folheadas com ouro.\n\nMeu bico \u00e9 limpo e polido tamb\u00e9m, de modo que ele brilha brilhantemente na luz do fogo..","op":"replace"},{"path":"/contentPages/1","value":"Enquanto tudo isso est\u00e1 sendo feito, \u00f3leo de pinheiro \u00e9 aplicado \u00e0s minhas penas, t\u00e3o densamente que eles se sentem quase lacados pelo final dela. \u00d3leo de pinheiro \u00e9 um cheiro t\u00e3o embriagante! Faz-me cheirar como o ar mais puro, bem acima das montanhas.","op":"replace"},{"path":"/title","value":"Di\u00e1rio de Yolotli Entrada 3","op":"replace"},
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]  

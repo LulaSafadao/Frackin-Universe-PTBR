@@ -1,0 +1,178 @@
+[
+  {
+    "value": "^#ffea00;Guia FU^reset;: Guia principal",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Como jogar",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Para ler este codex, use o seu ^orange;Personal Tricorder^reset; e clique no \u00EDcone que parece um livro.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Este guia ir\u00E1 inform\u00E1-lo sobre o que voc\u00EA precisa saber para jogar com o Frackin 'Universe de forma eficaz. Voc\u00EA precisa ter em mente que muito do jogo padr\u00E3o do Starbound foi alterado por muitos aspectos do mod.\n
+
+^blue;--------------------------------------------------^reset;
+^yellow;O Tricorder - Seu melhor amigo:
+^blue;--------------------------------------------------^reset;
+
+Este dispositivo \u00E9 o ^cyan;item mais \u00FAtil em seu invent\u00E1rio^reset; a qualquer momento. Ele fornece acesso ao ^orange;Sistema de pesquisa^reset;, juntamente com v\u00E1rias outras fun\u00E7\u00F5es acessadas por meio dos \u00EDcones na tela. Ele tamb\u00E9m possui as seguintes fun\u00E7\u00F5es adicionais:
+
+Com o ^green;Bot\u00E3o direito do mouse^reset; - Acessa o rastreador de quests. Isso fornecer\u00E1 acesso aos tutoriais do FU e uma grande variedade de recompensas \u00FAteis. Vale a pena seu tempo.
+
+Com o ^green;Shift + Clique^reset; - Acessa a configura\u00E7\u00E3o. Com isso, voc\u00EA pode personalizar sua sa\u00EDda do Manipulador de mat\u00E9ria e pode at\u00E9 mesmo trocar suas pr\u00F3prias ferramentas escolhidas em slots normalmente ocupados pelo pincel, ferramenta de fia\u00E7\u00E3o, etc. Muito \u00FAtil. Usando isso, voc\u00EA pode tornar o Tricorder um item de tecla de atalho permanente!
+
+
+^blue;--------------------------------------------------^reset;
+^cyan;Pesquisa? O que voc\u00EA quer dizer com pesquisa?^reset;
+^blue;--------------------------------------------------^reset;
+
+Frackin Universe agora apresenta uma revis\u00E3o de progress\u00E3o que chamamos de ^orange;Sistema de pesquisa^reset;. Acessado atrav\u00E9s do seu ^orange;Personal Tricorder^reset;, ^orange;Computador da nave (S.A.I.L)^reset; ou ^orange;Quickbar^reset;, \u00E9 o \u00FAnico meio pelo qual voc\u00EA aprende novos projetos para a crafting. Para desbloquear novos projetos, voc\u00EA precisar\u00E1 de recursos e tambem a moeda mais importante conhecida como ^green;Pesquisa^reset;.\n
+Por meio desse sistema, voc\u00EA poder\u00E1 escolher os novos desbloqueios que deseja e por ordem que escolher para pesquisa-los.\n
+
+Voc\u00EA ganha ^green;Pesquisa^reset; a uma taxa de 1 por segundo, passivamente, enquanto voc\u00EA estiver jogando. Esta taxa aumenta de +1 por n\u00EDvel de planeta. Assim, um planeta de n\u00EDvel 6 de amea\u00E7a fornecer\u00E1 7 de ganho passivamente.
+
+Voc\u00EA tamb\u00E9m pode ganhar ^green;Pesquisa^reset; de outras maneiras, por exemplo: 
+^cyan;Laptops e Data Centers^reset;
+^cyan;Cole\u00E7\u00E3o de f\u00F3sseis^reset;
+^cyan;Microsc\u00F3pios^reset;
+^cyan;Tendo alta insanidade^reset;
+^cyan;Certas armaduras e equipamentos^reset;
+^green;Protheon / 10^reset; (at\u00E9 no m\u00E1ximo +10)
+
+Resumindo, brinque e experimente e voc\u00EA obter\u00E1 toda a pesquisa do que precisa. ^red;NOTA: O ganho de pesquisa fica mais lento enquanto voc\u00EA n\u00E3o est\u00E1 explorando. V\u00E1rias maneiras de ficar AFK n\u00E3o v\u00E3o funcionar, larga de ser pregui\u00E7oso^reset;. 
+
+Se voc\u00EA desbloqueou coisas que ^red;deveriam^reset; aparecer em uma station, mas n\u00E3o parecem: Certifique-se de ter ^orange;atualizado^reset; o station. Isso ainda precisa ser feito para criar itens de n\u00EDvel superior.
+
+^blue;--------------------------------------------------^reset;
+^cyan;O que diabos \u00E9 Protheon^reset;
+^blue;--------------------------------------------------^reset;
+
+Um recurso de moeda rara, que permitir\u00E1 que voc\u00EA obtenha toneladas de pesquisas convertendo-as em certas lojas ou processos. Ele pode afetar voc\u00EA de outras maneiras quando acumulado, no entanto, permite que voc\u00EA trabalhe com a insanidade em uma taxa muito mais r\u00E1pida (particulamente um Insta-Freud), tamb\u00E9m aumenta suas taxas de ganho de Pesquisa.
+
+Para conseguir o Protheon voc\u00EA vai ter que precisar de artefatos e sorte.
+
+^blue;--------------------------------------------------^reset;
+^cyan;Habilidades raciais^reset;
+^blue;--------------------------------------------------^reset;
+
+Cada uma das v\u00E1rias esp\u00E9cies no universo FU tem uma mec\u00E2nica de jogo diferente. Alguns s\u00E3o mais resistentes ao fogo, enquanto outros podem ter poderes especiais ou s\u00E3o muito bons com espadas. Isso fornece aos jogadores muitas novas op\u00E7\u00F5es de jogo.
+
+^yellow;Eu n\u00E3o quero jogar com habilidades raciais^reset;!
+
+Voc\u00EA pode habilitar e desabilitar habilidades raciais dentro de sua ^orange;nave no computador (SAIL)^reset;. Basta acess\u00E1-lo, pressionar o bot\u00E3o ^green;[ MISC ] ^reset;e escolher desabilitar a op\u00E7\u00E3o.
+
+
+^blue;--------------------------------------------------^reset;
+^cyan;Combate^reset;
+^blue;--------------------------------------------------^reset;
+Consulte o Guia FU: Batalha
+
+
+^blue;--------------------------------------------------^reset;
+^cyan;Mechs^reset;
+^blue;--------------------------------------------------^reset;
+Mechs n\u00E3o s\u00E3o os mesmos que voc\u00EA costumava fazer no Starbound. Eles agora precisam de ^red;combust\u00EDvel^reset;, e podem ser reabastecidos com muitos tipos de combust\u00EDvel. Al\u00E9m disso, eles t\u00EAm sa\u00FAde separada de sua barra de combust\u00EDvel/energia. O resultado final \u00E9 um ve\u00EDculo muito mais \u00FAtil que pode estender as viagens de minera\u00E7\u00E3o e melhorar muito a capacidade de sobreviv\u00EAncia em ambientes hostis.
+
+Mechs agora ^green;calculam sua Massa^reset;. Quanto ^cyan;mais pesado^reset; mais os mechs s\u00E3o capazes de ^green;causar altos danos ao pisar^reset; no ch\u00E3o al\u00E9m de ter uma armadura melhor. Quanto ^cyan;menos peso^reset; os mechs s\u00E3o ^green;muito mais r\u00E1pidos^reset; e tem mais ^green;efici\u00EAncia de combust\u00EDvel aprimorado^reset;.
+
+Seu mech pode ^green;correr^reset;, basta pressionar duas vezes em ^cyan;A^reset; ou ^cyan;D^reset;.
+
+Seu mech pode mudar para ^green;modo de v\u00F4o^reset;, basta pressionar duas vezes em ^cyan;W^reset;.
+
+Existem dezenas de novos tipos de pe\u00E7as mec\u00E2nicas, incluindo M\u00F3dulos Mec\u00E2nicos. Eles agem como Aumentos para seu Mech e podem permitir uma grande quantidade de customiza\u00E7\u00E3o. H\u00E1 v\u00E1rios tipos de partes mec\u00E2nicas para seu estilo de jogo.
+
+Reabaste\u00E7a ou reequipa seu mech atrav\u00E9s do seu ^orange;Personal Tricorder^reset;.
+
+
+^blue;--------------------------------------------------^reset;
+^cyan;Efeitos de status^reset;
+^blue;--------------------------------------------------^reset;
+Frackin Universe adiciona um ^green;grande n\u00FAmero^reset; de novos efeitos de status, ben\u00E9ficos e prejudiciais, que podem afetar personagens e monstros. A maioria pode ser resistida ou ignorada com um equipamento espec\u00EDfico.
+
+Parte da sua experi\u00EAncia \u00E9 aprender como sobreviver em novos ambientes por meio de experimenta\u00E7\u00F5es e engenhosidades, e tra\u00E7ar estrat\u00E9gias para sua ^orange;Pesquisa^reset;. 
+
+
+^blue;--------------------------------------------------^reset;
+^cyan;Insanidade^reset;
+^blue;--------------------------------------------------^reset;
+Outra tipo de moeda no Frackin Universe. Pode ser obtido por meio de muitas a\u00E7\u00F5es (mais comumente as bizarras ou assustadoras), mas tamb\u00E9m desaparecer\u00E1 com o tempo. Quanto mais ^#e43774;Insanidade^reset; voc\u00EA possui, maiores s\u00E3o os efeitos negativos que voc\u00EA experimenta.
+
+Carregar coisas aterrorizantes em sua mochila tamb\u00E9m pode resultar ganhos de ^#e43774;Insanidade^reset; todo tempo. Preste aten\u00E7\u00E3o se o SAIL o avisar sobre isso.
+
+Existem mais de 50 efeitos poss\u00EDveis de ^#e43774;Insanidade^reset;.
+
+^yellow;Como fa\u00E7o para perder a insanidade?^reset;\n
+Gastando sua ^#e43774;Insanidade^reset; em ^green;Pesquisa^reset; no ^orange;Metaphysics^reset;
+Tripulantes Conselheiros
+^orange;Instafreud^reset; esta m\u00E1quina, quando instalada, consumir\u00E1 rapidamente a insanidade.
+^green;Protheon / 10^reset; (at\u00E9 no m\u00E1ximo -10)
+
+^blue;--------------------------------------------------^reset;
+^cyan;Genes^reset;
+^blue;--------------------------------------------------^reset;
+Essa moeda substituiu ^red;33 itens separados do Gene^reset; usado de 2014-2020. Agora, uma forma singular de ^green;Gene^reset; \u00E9 usado, tornando o rastreamento de seus totais muito mais f\u00E1cil e dando a voc\u00EA mais de 30 recursos a menos para armazenar.
+
+^green;Genes^reset; s\u00E3o usados para ^orange;Agricultura^reset; e ^orange;Gen\u00E9tica^reset;.
+
+Voc\u00EA pode trocar seus genes atuais pela nova moeda simplesmente colocando-os em um Xeno Lab ou Sprouting Table.
+
+
+^blue;--------------------------------------------------^reset;
+^cyan;BYOS (Construa sua pr\u00F3pria nave)^reset;
+^blue;--------------------------------------------------^reset;
+No Frackin Universe, voc\u00EA pode criar sua pr\u00F3pria nave a partir do zero. Este sistema significa que voc\u00EA n\u00E3o precisa mais comprar upgrades de navio, pois qualquer expans\u00E3o \u00E9 feita por voc\u00EA. Voc\u00EA tamb\u00E9m precisar\u00E1 criar seus pr\u00F3prios motores e ser\u00E1 capaz de criar equipamentos especiais para beneficiar seu navio.
+Note que se voc\u00EA selecionar o modo BYOS depois da cria\u00E7\u00E3o do personagem, esta escolha \u00E9 permanente.
+
+Depois da Cria\u00E7\u00E3o de Personagem, voc\u00EA pode selecionar ^cyan;Nave frackin^reset; ou ^cyan;Nave padr\u00E3o^reset;. A nave Frackin \u00E9 a op\u00E7\u00E3o BYOS. Depois de fazer essa escolha, voc\u00EA ter\u00E1 op\u00E7\u00F5es para iniciar as configura\u00E7\u00F5es do navio. Depois de fazer essa escolha, eles come\u00E7am o jogo como de costume.
+
+A tripula\u00E7\u00E3o usa regras especiais dessa maneira:
+
+Voc\u00EA pode usar ^orange;Crew Deeds^reset;, que segue as mesmas regras que ^orange;Colony Deeds^reset; (Paredes, portas, luzes, cama) ^red;\n\n-ou-\n\n^reset; voc\u00EA pode usar ^orange;Crew Beds^reset; se r\u00E1pido e imundo com pouco planejamento \u00E9 mais o seu estilo.
+
+Voc\u00EA ^red;n\u00E3o^reset; pode usar ^orange;Crew Deed^reset; e ^orange;Crew Bed^reset; na mesma sala.
+
+H\u00E1 um limite de 12 tripulantes. Mods que aumentam os limites da tripula\u00E7\u00E3o provavelmente n\u00E3o funcionar\u00E3o corretamente com o BYOS.
+
+As naves BYOS t\u00EAm op\u00E7\u00F5es adicionais de constru\u00E7\u00E3o, ou seja, melhores motores e propulsores que podem ser \u00FAteis na explora\u00E7\u00E3o.\n
+
+
+^red;'Socorro, estou com lag por causa do BYOS!' ^reset; ou  ^yellow;Eu n\u00E3o quero efeitos da atmosfera na minha nave^reset;!
+
+BYOS tem um modo de atmosfera que voc\u00EA pode ativar e desativar de dentro da sua ^orange;nave no computador (SAIL)^reset;. Basta acess\u00E1-lo, pressionar o bot\u00E3o ^green;[ MISC ] ^reset; e escolher desabilitar a op\u00E7\u00E3o.
+
+
+^blue;--------------------------------------------------^reset;
+^cyan;Nata\u00E7\u00E3o^reset;
+^blue;--------------------------------------------------^reset;
+A nata\u00E7\u00E3o funciona de maneira diferente do que voc\u00EA est\u00E1 acostumado
+
+Nadar : ^yellow;W A S D^reset;
+
+Pular pra fora: ^green;Segure ^yellow;W^green; e pressiona ^yellow;espa\u00E7o^reset;. 
+
+Vai demorar um pouco para se acostumar com isso, mas o resultado final \u00E9 uma experi\u00EAncia de controle muito mais f\u00E1cil.
+
+Observe que nem todos os l\u00EDquidos fornecem flutuabilidade como a \u00E1gua ou outros fluidos semelhantes. Nestes l\u00EDquidos, ou dentro dos gases, a f\u00EDsica pode se comportar de maneira bem diferente do esperado.\n
+
+^blue;--------------------------------------------------^reset;
+^yellow;O Frackin Wiki 
+^blue;--------------------------------------------------^reset;
+Se precisar de ajuda usa o ^cyan;wiki oficial^reset; (totalmente ingl\u00EAs) aqui:
+^green;frackinuniverse.miraheze.org^reset;
+
+^red;N\u00E3o^reset; use o Fandom wiki. Est\u00E1 desatualizado.",
+    "path": "/longContentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

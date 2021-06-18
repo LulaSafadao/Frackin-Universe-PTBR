@@ -1,0 +1,27 @@
+[
+  {
+    "value": "Hylotl perto da extin\u00E7\u00E3o?",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "A verdadeeeeee.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Ent\u00E3o, Floran tem um segredo. Os Hylotls nunca est\u00E3o em perigo. Pense nisso. O que os peixes fazem na natureza? Eles botam ovos. Os Hylotls s\u00E3o homens-peixes. Florent n\u00E3o tem ideia de onde v\u00EAm tantos florans ou de onde vieram.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "Na pr\u00F3xima vez, se o hylotl come\u00E7ar a reclamar de sua pequena popula\u00E7\u00E3o, diga isso a ele. Talvez apenas 10% deles tenham sobrevivido, mas isso \u00E9 o suficiente para lutar contra os florans.",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Seu pai",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Hist\u00F3ria da fam\u00EDlia",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "De p\u00E1gina por p\u00E1gina, este livro parece ser uma recontagem da vida de seu pai.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]

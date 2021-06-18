@@ -1,0 +1,21 @@
+[
+  {
+    "value": "O R\u00E1dio Morto",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "A Profana\u00E7\u00E3o e a sua causa",
+    "op": "replace"
+  },
+  {
+    "value": "O momento mais angustiante para o povo Radien veio logo depois. De acordo com os textos, h\u00E1 relatos que falam de invasores ou visitantes de 'outros lugares' que interromperam seu progresso por meio de uma reviravolta planet\u00E1ria literal e de terraforma\u00E7\u00E3o for\u00E7ada. Embora nenhum dos registros nomeie essa ra\u00E7a, \u00E9 alta a especula\u00E7\u00E3o de que poderia ter sido o Anodyne devido em parte a sua descri\u00E7\u00E3o ser uma correspond\u00EAncia pr\u00F3xima. Isso agora \u00E9, infelizmente, boato extra\u00EDdo de registros antiquados... na melhor das hip\u00F3teses.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]
