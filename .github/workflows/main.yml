@@ -1,48 +1,25 @@
-name: JSON linter + luacheck
+- name: luacheck
+  # You may pin to the exact commit or the version.
+  # uses: nebularg/actions-luacheck@86af42dcf465915896671903fcdec3e01a492e87
+  uses: nebularg/actions-luacheck@v1.1.0
+  with:
+    # A list of files, rockspecs, or directories to be checked.
+Defaults to the workspace path as set by the `path` input.
 
-on: [push, pull_request, workflow_dispatch]
+    files: # optional, default is .
+    # The working directory for luacheck.
+The file list should be relative to this path and output filenames be displayed relative to this path.
+Defaults to the workspace path.
 
-jobs:
-  # Check JSON assets for syntax errors.
-  json-linter:
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2
-      - name: Install dependencies
-        run: ( cd tests/travis && npm install )
+    path: # optional, default is ${{ github.workspace }}
+    # Additional command-line arguments.
+See https://luacheck.readthedocs.io/en/stable/cli.html
 
-      - name: RUN -- npm test
-        run: ( cd tests/travis && npm test )
+    args: # optional
+    # URL to a custom configuration (`.luacheckrc`) file that will be used as the default configuration file.
 
-  # Check Lua files with "luacheck" tool (Lua static analyzer).
-  luacheck:
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2
-      - name: Install dependencies
-        run: sudo apt-get install -y luarocks && sudo luarocks install luacheck
+    config: # optional
+    # Emits annotations for source code at locations parsed from the output. Must be set to "none", "warning" or "error".
+Requires that output of warnings not be suppressed through the -qq or -qqq arguments.
 
-      # Don't fail if the exit code is 1 (which means "there were warnings, but no errors"),
-      # only on exit code 2 ("there were errors").
-      # There are ~900 warnings in existing code, so we can't use "no warnings allowed" mode (yet?).
-      - name: RUN -- luacheck .
-        run: luacheck --no-color . || [[ $? -le 1 ]]
-
-  # Create .pak file for each GitHub release.
-  pack-assets:
-    if: startsWith(github.ref, 'refs/tags/')
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2
-      - name: Remove directories that are not needed inside PAK file (e.g. ".git" or "tests")
-        run: rm -rf .git a_modders tests
-      - uses: edwardspec/github-action-pack-starbound-mod@v1
-        with:
-          outputFilename: FrackinUniverse.pak
-      - run: ls -l FrackinUniverse.pak
-      - name: Add .pak file to release
-        uses: softprops/action-gh-release@v1
-        with:
-          files: FrackinUniverse.pak
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    annotate: # optional, default is none
