@@ -3,7 +3,7 @@ Tradução do Frackin Universe
 
 ATUALIZAR:
 
-ffguide.codex
+ffguide.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
 ffguide5.codex
 
