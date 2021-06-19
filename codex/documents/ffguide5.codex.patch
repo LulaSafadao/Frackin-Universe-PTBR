@@ -35,9 +35,9 @@
 
    De um modo geral, suponhamos que a resist\u00EAncia para alguns tipos de bioma funcione da seguinte forma:   
 
-   ^green;20%^reset; (Leve) / ^yellow;40%^reset; (Moderado) / ^red;60%^reset; (Severo) 
+   ^green;20%^reset; (Leve) / ^yellow;40%^reset; (Moderado) / ^red;60%^reset; (Extremo) 
 
-   Nota que tempestades severas e outros desastres naturais podem influenciar a pot\u00EAncia dos efeitos nos biomas, ent\u00E3o pra seguran\u00E7a, voc\u00EA ter\u00E1 que est\u00E1 mais preparado e estrat\u00E9gico do que o normal.
+   Nota que tempestades extremas e outros desastres naturais podem influenciar a pot\u00EAncia dos efeitos nos biomas, ent\u00E3o pra seguran\u00E7a, voc\u00EA ter\u00E1 que est\u00E1 mais preparado e estrat\u00E9gico do que o normal.
 
    Os inimigos ^yellow;tamb\u00E9m podem ter pontos fortes e fracos de resist\u00EAncia^reset;. Alguns s\u00E3o totalmente imunes a elementos espec\u00EDficos, mas facilmente derrubados por outros elementos, portanto, explora suas fraquezas e pimba neles.\n
    
@@ -132,7 +132,7 @@
    ^yellow;G\u00E1s^reset;
    ^#555555;-----------------------------------^reset;
 
-   O g\u00E1s pode ser positivo (H\u00E9lio 3) ou negativo (g\u00E1s sombrio, hidrog\u00EAnio, etc). Para bloquear o g\u00E1s \u00E9 bastante simples... ^orange;Vista algo que o proteja do g\u00E1s^reset;. No entanto, alguns s\u00E3o mais especializados. ^orange;G\u00E1s sombrio precisa de resist\u00EAncia contra sombras^reset; e ^orange;G\u00E1s venenoso n\u00E3o funciona com alta resist\u00EAncia a venenos (l\u00EDquidos)^reset;.\n   
+   O g\u00E1s pode ser positivo (H\u00E9lio 3) ou negativo (g\u00E1s caliginoso, hidrog\u00EAnio, etc). Para bloquear o g\u00E1s \u00E9 bastante simples... ^orange;Vista algo que o proteja do g\u00E1s^reset;. No entanto, alguns s\u00E3o mais especializados. ^orange;G\u00E1s caliginoso precisa de resist\u00EAncia contra sombras^reset; e ^orange;G\u00E1s venenoso n\u00E3o funciona com alta resist\u00EAncia a venenos (l\u00EDquidos)^reset;.\n   
    
    ^#555555;-----------------------------------^reset;
    ^yellow;Sopa org\u00E2nica^reset;
