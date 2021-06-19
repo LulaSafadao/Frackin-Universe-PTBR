@@ -67,6 +67,27 @@ Cada uma das v\u00E1rias esp\u00E9cies no universo FU tem uma mec\u00E2nica de j
 
 Voc\u00EA pode habilitar e desabilitar habilidades raciais dentro de sua ^orange;nave no computador (SAIL)^reset;. Basta acess\u00E1-lo, pressionar o bot\u00E3o ^green;[ MISC ] ^reset;e escolher desabilitar a op\u00E7\u00E3o.
 
+^blue;--------------------------------------------------^reset;
+^cyan;Techs Especiais^reset;
+^blue;--------------------------------------------------^reset;
+
+^orange;Custos dos Techs^reset;
+Certos techs em FU consomem a barra de Comida em vez de Energia, quando aplic\u00E1vel, a um determinado limite. Passando esse limite, ir\u00E3o drenar Energia, e em alguns casos a sa\u00FAde!
+
+^orange;Directional/Cursor Aim Techs^reset;:
+Estes techs s\u00E3o usados com ^green;Head Tech Key^reset;, no mouse clicando, ou segurando.
+^orange;Directional Aim Techs^reset; S\u00E3o direcionados por meio dos ^green;movimentos das teclas no teclado^reset; e pode realizar em 8 dire\u00E7\u00F5es diferentes! Para apontar diretamente para cima ou para baixo, segure a tecla de se ^green;Movimentar^reset;.
+Em FU, estes techs usam Directional Aim: Hunter/Razor/Miner Claw.
+^orange;Cursor Aim Techs^reset; n\u00E3o precisa usar as teclas, s\u00F3 usar o cursor do mouse e pimba! (clicar)
+Em FU, estes techs usam Cursor Aim: Psychic/Shard Blast. E tamb\u00E9m, Shard Blast permite uma dispers\u00E3o totalmente aleat\u00F3ria, segurando a tecla de se ^green;Movimentar^reset;.
+
+^orange;Tech Scaling^reset;:
+Alguns techs aumentam as suas estat\u00EDsticas! Alguns est\u00E3o listados aqui por conveni\u00EAncia.
+^orange;Shadowborne^reset;: Aumenta sua energia m\u00E1xima.
+^orange;Miner Claws^reset;: Aumenta o n\u00EDvel da comida atual.
+^orange;Psychic Blast^reset;: Aumenta a energia m\u00E1xima e a defesa.
+^orange;Razor^reset;/^orange;Hunter Claws^reset;: Aumenta o dano ao ca\u00E7ar, a sa\u00FAde m\u00E1xima, poder e o n\u00EDvel da comida atual.
+^orange;Elduu'khar Burst^reset;, ^orange;Shard Blast^reset;, ^orange;Dragonfire^reset;: Aumenta a energia m\u00E1xima, defesa e o n\u00EDvel da comida atual.
 
 ^blue;--------------------------------------------------^reset;
 ^cyan;Combate^reset;
