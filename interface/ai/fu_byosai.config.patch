@@ -15,12 +15,12 @@
     "op": "replace"
   },
   {
-    "value": "^white;Buildable^reset;",
+    "value": "^white;Constru\u00EDvel^reset;",
     "path": "/gui/buttonByos/caption",
     "op": "replace"
   },
   { 
-    "value": "^white;Upgradable^reset;",
+    "value": "^white;Atualiz\u00E1vel^reset;",
     "path": "/gui/buttonUpgradable/caption",
     "op": "replace"
   },
@@ -75,7 +75,7 @@
     "op": "replace"
   },
   {
-    "value": "Construindo nave, por favor aguarde",
+    "value": "Construindo a nave, por favor aguarde.",
     "path": "/states/shipChosen/text",
     "op": "replace"
   },
@@ -87,6 +87,81 @@
   {
     "value": "Confirmar",
     "path": "/states/skipRepairs/buttons/0/name",
+    "op": "replace"
+  },
+  {
+    "value": "Reparar nave",
+    "path": "/shipResetConfirmationDialogs/repairShip/title",
+    "op": "replace"
+  },
+  {
+    "value": "Repara a sua nave",
+    "path": "/shipResetConfirmationDialogs/repairShip/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Isto ir\u00E1 recriar sua nave. S\u00F3 fa\u00E7a isso se sua nave tiver sido reiniciada. Voc\u00EA tem certeza de que quer fazer isto?",
+    "path": "/shipResetConfirmationDialogs/repairShip/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ok",
+    "path": "/shipResetConfirmationDialogs/repairShip/okCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Cancelar",
+    "path": "/shipResetConfirmationDialogs/repairShip/cancelCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Pular Reparos",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/title",
+    "op": "replace"
+  },
+  {
+    "value": "Pular o reparo da sua nave",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "Isto colocar\u00E1 sua nave como reparada. S\u00F3 fa\u00E7a isso se sua nave n\u00E3o tiver sido reparada. Voc\u00EA tem certeza de que quer fazer isto?",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ok",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/okCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Cancelar",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/cancelCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Reparar nave",
+    "path": "/backgroundPresentConfirmation/title",
+    "op": "replace"
+  },
+  {
+    "value": "Repara a sua nave",
+    "path": "/backgroundPresentConfirmation/subtitle",
+    "op": "replace"
+  },
+  {
+    "value": "A imagem de fundo normal foi detectada. Esta imagem de fundo ser\u00E1 transmitida de forma permensiva em sua nave. Se voc\u00EA n\u00E3o tiver o patch de ra\u00E7a modded Frackin Ship, voc\u00EA deve baixar-lo em: https://steamcommunity.com/sharedfiles/filedetails/?id=1194878261 .",
+    "path": "/backgroundPresentConfirmation/message",
+    "op": "replace"
+  },
+  {
+    "value": "Ok",
+    "path": "/backgroundPresentConfirmation/okCaption",
+    "op": "replace"
+  },
+  {
+    "value": "Cancelar",
+    "path": "/backgroundPresentConfirmation/cancelCaption",
     "op": "replace"
   }
 ]
