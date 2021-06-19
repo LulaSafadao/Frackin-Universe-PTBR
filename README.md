@@ -1,39 +1,41 @@
 # Frackin-Universe-PTBR
 Tradução do Frackin Universe
 
+6.1.34
+
 ATUALIZAR:
 
 ffguide.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-ffguide5.codex
+ffguide5.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-ffguide6.codex
+ffguide6.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-randombook2.codex
+randombook2.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-randombook8.codex
+randombook8.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-shadow1.codex
+shadow1.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-shadow2.codex
+shadow2.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-shadow3.codex
+shadow3.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-shadow4.codex
+shadow4.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-catdiary.codex
+catdiary.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-veluuish1.codex
+veluuish1.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-veluuish2.codex
+veluuish2.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-veluuish3.codex
+veluuish3.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-veluuish4.codex
+veluuish4.codex TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-fu_byosai.config
+fu_byosai.config TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-fu_byosai.lua
+fu_byosai.lua TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
 industrialcentrifuge.config
 
