@@ -416,7 +416,7 @@
   },
   {
     "op": "replace",
-    "value": "Uma ^#86a8c5;lua congelada^reset;. Cuidado com o seu p\u00E9 e cuidado com a ^red;perigosa vida selvagem^reset;. Abundante ^#e43558;min\u00E9rio de tel\u00FArio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: EPP II contra Frio^reset;",
+    "value": "Uma ^#86a8c5;lua congelada^reset;. Cuidado com o seu p\u00E9 e cuidado com a ^red;perigosa vida selvagem^reset;. Abundante ^#e43558;min\u00E9rio de tel\u00FArio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o frio severo^reset;",
     "path": "/visitableTypeDescription/icemoon/1"
   },
   {
@@ -451,12 +451,12 @@
   },
   {
     "op": "replace",
-    "value": "Um lugar ^#b398ba;montanhoso^reset;com ^#e47998;min\u00E9rio de zerchesium^reset; que deve ser \u00FAtil. O clima de alta gravidade \u00E9 frequente. Tenha cuidado.",
+    "value": "Um lugar ^#b398ba;montanhoso^reset; com ^#e47998;min\u00E9rio de zerchesium^reset; que deve ser \u00FAtil. O clima de alta gravidade \u00E9 frequente. Tenha cuidado.",
     "path": "/visitableTypeDescription/mountainous/3"
   },
   {
     "op": "replace",
-    "value": "Uma superf\u00EDcie ^#b86c00;vulc\u00E2nica congelada^reset; cheia de perigos te espera l\u00E1 embaixo. ^red;Cuidado com os perigos da lava, nitrog\u00EAnio frio e l\u00EDquido.^reset; ^cyan;Recomenda\u00E7\u00E3o: EPP II Contra frio^reset;",
+    "value": "Uma superf\u00EDcie ^#b86c00;vulc\u00E2nica congelada^reset; cheia de perigos te espera l\u00E1 embaixo. ^red;Cuidado com os perigos da lava, nitrog\u00EAnio frio e l\u00EDquido.^reset; ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o frio severo^reset;",
     "path": "/visitableTypeDescription/frozenvolcanic/2"
   },
   {
@@ -611,7 +611,7 @@
   },
   {
     "op": "replace",
-    "value": "Um mar mortal de ^#69f1fd;nitrog\u00EAnio l\u00EDquido^reset; sob uma densa camada de gelo. ^cyan;Recomenda\u00E7\u00E3o: Aquecimento EPP II^reset;",
+    "value": "Um mar mortal de ^#69f1fd;nitrog\u00EAnio l\u00EDquido^reset; sob uma densa camada de gelo. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o frio severo^reset;",
     "path": "/visitableTypeDescription/nitrogensea/0"
   },
   {
@@ -621,7 +621,7 @@
   },
   {
     "op": "replace",
-    "value": "Uma ^#86a8c5;lua congelada^reset;. Superf\u00EDcies escorregadias podem se mostrar perigosas. Abundante ^#e43558;min\u00E9rio de telebrio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Aquecimento EPP II^reset;",
+    "value": "Uma ^#86a8c5;lua congelada^reset;. Superf\u00EDcies escorregadias podem se mostrar perigosas. Abundante ^#e43558;min\u00E9rio de telebrio^reset; detectado. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o frio severo^reset;",
     "path": "/visitableTypeDescription/icemoon/0"
   },
   {
@@ -1071,6 +1071,11 @@
   },
   {
     "op": "replace",
+    "value": " Letal",
+    "path": "/objectThreatText/available/5"
+  },
+  {
+    "op": "replace",
     "value": " Extremo (VI)",
     "path": "/threatLevelText/default/5"
   },
@@ -1251,7 +1256,7 @@
   },
   {
     "op": "replace",
-    "value": "Deve assumir-se que este mar de ^#69f1fd;nitrog\u00EAnio l\u00EDquido^reset; \u00E9 ^red;extremamente frio^reset; e escorregadio ao mesmo tempo. ^cyan;Recomenda\u00E7\u00E3o: Aquecimento EPP II^reset;",
+    "value": "Deve assumir-se que este mar de ^#69f1fd;nitrog\u00EAnio l\u00EDquido^reset; \u00E9 ^red;extremamente frio^reset; e escorregadio ao mesmo tempo. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o frio severo^reset;",
     "path": "/visitableTypeDescription/nitrogensea/2"
   },
   {
@@ -1326,7 +1331,7 @@
   },
   {
     "op": "replace",
-    "value": " Baixo",
+    "value": " Moderado",
     "path": "/objectThreatText/available/1"
   },
   {
@@ -1401,7 +1406,7 @@
   },
   {
     "op": "replace",
-    "value": " Moderada",
+    "value": " Arriscado",
     "path": "/objectThreatText/available/2"
   },
   {
@@ -2526,7 +2531,7 @@
   },
   {
     "op": "replace",
-    "value": "^#69f1fd;Nitrog\u00EAnio L\u00EDquido^reset; forma a totalidade do l\u00EDquido desta lua. Isso se prova ^red;Perigoso sem prote\u00E7\u00E3o^reset;. ^cyan;Recomenda\u00E7\u00E3o:EPP de Calor II^reset;",
+    "value": "^#69f1fd;Nitrog\u00EAnio L\u00EDquido^reset; forma a totalidade do l\u00EDquido desta lua. Isso se prova ^red;Perigoso sem prote\u00E7\u00E3o^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o frio severo^reset;",
     "path": "/visitableTypeDescription/nitrogensea/1"
   },
   {
@@ -2546,7 +2551,7 @@
   },
   {
     "op": "replace",
-    "value": "^#86a8c5;Luas congeladas^reset; s\u00E3o frias e perigosas para os incautos. Estou detectando valiosos ^#e43558;Min\u00E9rios de telebrium^reset; nas cavernas. ^cyan;Recomenda\u00E7\u00E3o: EPP de calor II^reset;",
+    "value": "^#86a8c5;Luas congeladas^reset; s\u00E3o frias e perigosas para os incautos. Estou detectando valiosos ^#e43558;Min\u00E9rios de telebrium^reset; nas cavernas. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o frio severo^reset;",
     "path": "/visitableTypeDescription/icemoon/2"
   },
   {
@@ -2571,12 +2576,12 @@
   },
   {
     "op": "replace",
-    "value": "Mundos ^#b86c00;vulc\u00E2nicos congelados^reset; s\u00E3o relativamente raros, e possuem um perigoso mix de gelo, rocha chamejante e lava. ^green;Muitos recursos \u00FAteis^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: EPP contra calor II^reset;",
+    "value": "Mundos ^#b86c00;vulc\u00E2nicos congelados^reset; s\u00E3o relativamente raros, e possuem um perigoso mix de gelo, rocha chamejante e lava. ^green;Muitos recursos \u00FAteis^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o frio severo^reset;",
     "path": "/visitableTypeDescription/frozenvolcanic/0"
   },
   {
     "op": "replace",
-    "value": "^#b86c00;Vulc\u00E2nico congelado^reset;? Como isso \u00E9 poss\u00EDvel? A ci\u00EAncia n\u00E3o consegue explicar. ^green; Muitos recursos \u00FAteis!^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: EPP contra calor II^reset;",
+    "value": "^#b86c00;Vulc\u00E2nico congelado^reset;? Como isso \u00E9 poss\u00EDvel? A ci\u00EAncia n\u00E3o consegue explicar. ^green; Muitos recursos \u00FAteis!^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra o frio severo^reset;",
     "path": "/visitableTypeDescription/frozenvolcanic/1"
   },
   {
@@ -2678,5 +2683,25 @@
     "op": "replace",
     "value": " Perigoso",
     "path": "/gui/planetinfo/children/inner/children/threatValue/value"
+  },
+  {
+    "value": "NAVEGA\u00C7\u00C3O OFFLINE",
+    "path": "/fu_text/navOffline",
+    "op": "replace"
+  },
+  {
+    "value": "DRIVE DA NAVE N\u00C3O INSTALADO",
+    "path": "/fu_text/noFTL",
+    "op": "replace"
+  },
+  {
+    "value": "SOMENTE UTILIZ\u00C1VEL EM SUA PR\u00D3PRIA NAVE",
+    "path": "/fu_text/notOnOwnShip",
+    "op": "replace"
+  },
+  {
+    "value": "N\u00E3o \u00E9 poss\u00EDvel usar as capacidades FTL, por favor instale um drive FTL adequado",
+    "path": "/fu_text/noSystemTravel",
+    "op": "replace"
   }
 ]
