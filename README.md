@@ -1,7 +1,7 @@
 # Frackin-Universe-PTBR
 Tradução do Frackin Universe
 
-6.1.34
+6.1.343
 
 ATUALIZAR:
 
@@ -37,21 +37,21 @@ fu_byosai.config TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
 fu_byosai.lua TRADUZIDO/CORRIGIDO (ATUALIZADO 19/06/2021)
 
-industrialcentrifuge.config
+industrialcentrifuge.config TRADUZIDO/CORRIGIDO (ATUALIZADO 22/06/2021)
 
-industrialcentrifuge2.config
+industrialcentrifuge2.config TRADUZIDO/CORRIGIDO (ATUALIZADO 22/06/2021)
 
-industrialcentrifuge3.config
+industrialcentrifuge3.config TRADUZIDO/CORRIGIDO (ATUALIZADO 22/06/2021)
 
-ironcentrifuge.config
+ironcentrifuge.config TRADUZIDO/CORRIGIDO (ATUALIZADO 23/06/2021)
 
-woodencentrifuge.config
+woodencentrifuge.config TRADUZIDO/CORRIGIDO (ATUALIZADO 23/06/2021)
 
-ContainerControl.lua
+ContainerControl.lua TRADUZIDO/CORRIGIDO (ATUALIZADO 23/06/2021)
 
 cockpit.config
 
-cockpit.lua
+cockpit.lua REMOVIDO (ATUALIZADO 23/06/2021)
 
 ADICIONAR: 
 
