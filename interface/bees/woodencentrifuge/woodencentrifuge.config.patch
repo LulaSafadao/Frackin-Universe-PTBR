@@ -11,7 +11,7 @@
   },
   {
     "op": "replace",
-    "value": "Pegar tudo",
+    "value": "Pegar Tudo",
     "path": "/gui/clear/caption"
   },
   {
