@@ -1,0 +1,66 @@
+[
+  {
+    "value": "Genomas das abelhas",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Como interpretar as genomas",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Genomas^reset;\n\nUma cadeia composta por n\u00FAmeros e chars semelhantes a como funcionam as hexidimais, mas vai at\u00E9 Z em vez de F (0-35 em vez de 0-15 | 0-1295 em vez de 0-255 com dois caracteres)\n\nUm genoma \u00E9 composto de (n\u00FAmero de estat\u00EDsticas * 2) caracteres, onde cada dois caracteres armazenam o valor de uma estat\u00EDstica. Cada par deste tipo \u00E9 chamado gene. A forma como uma estat\u00EDstica \u00E9 traduzida de estat\u00EDstica para cadeia \u00E9 vari\u00E1vel, mas aqui est\u00E1 a ideia geral:",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "valor * 100 -> char (0 = 00, 12.95 = ZZ, 2 = 5J)\n\nUm genoma completo com as estat\u00EDsticas atuais ficaria assim:\n\nbaseProduction : 3, droneToughness : 1, droneMultiplier : 1, queenLifespan : 5, queenHealth : 3, mutationChance : 1 (de 100)\n\nGenoma final: 30101050301",
+    "path": "/contentPages/1",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Estat\u00EDstica^reset;\n\nsubtype : Usado para identificar o subtipo da abelha. Estabelece grupos de produ\u00E7\u00E3o e comportamentos \u00FAnicos usando isto.\nBaseProduction : Produ\u00E7\u00E3o de zang\u00F5es com 100% de efici\u00EAncia da colmeia\ndroneToughness : N\u00FAmero de \u00E1caros necess\u00E1rios para matar um zang\u00E3o. Tamb\u00E9m utilizado em lutas entre abelhas\ndroneBreedRate : Taxa de cria\u00E7\u00E3o de zang\u00F5es",
+    "path": "/contentPages/-",
+    "op": "add"
+  },
+  {
+    "value": "queenBreedRate : Taxa de cria\u00E7\u00E3o de rainhas\nqueenLifespan : Quantos ticks da produ\u00E7\u00E3o de abelhas antes da morte da rainha (at\u00E9 1295)\nMutationChance : Chance para que ocorra uma muta\u00E7\u00E3o dr\u00E1stica\nmiteResistence : Modificador da taxa de nascimento dos \u00E1caros ('ZZ': 64,7, 'HZ': 0, '00': -64,7, value:modifier)\nworkTime : Diurno('0'), noturno('1'), ou ambos('2')\n\nA probabilidade de muta\u00E7\u00E3o salta por (math.floor(100/1295*100*n)*0.01)",
+    "path": "/contentPages/-",
+    "op": "add"
+  },
+  {
+    "value": "em cada incremento '00' : 0 | '01' : 0.07 | 'HZ' : 49.96 | 'ZZ' : 100",
+    "path": "/contentPages/-",
+    "op": "add"
+  },
+  {
+    "value": "   ^orange;Genomas^reset;\n
+ Uma cadeia composta por n\u00FAmeros e chars semelhantes a como funcionam as hexidimais, mas vai at\u00E9 Z em vez de F (0-35 em vez de 0-15 | 0-1295 em vez de 0-255 com dois caracteres)\n
+ Um genoma \u00E9 composto de (n\u00FAmero de estat\u00EDsticas * 2) caracteres, onde cada dois caracteres armazenam o valor de uma estat\u00EDstica. Cada par deste tipo \u00E9 chamado gene. A forma como uma estat\u00EDstica \u00E9 traduzida de estat\u00EDstica para cadeia \u00E9 vari\u00E1vel, mas aqui est\u00E1 a ideia geral:\n
+ valor * 100 -> char (0 = 00, 12.95 = ZZ, 2 = 5J)\n
+ Um genoma completo com as estat\u00EDsticas atuais ficaria assim:\n
+ baseProduction : 3, droneToughness : 1, droneMultiplier : 1, queenLifespan : 5, queenHealth : 3, mutationChance : 1 (de 100)\n
+ Genoma final: 30101050301\n\n
+
+   ^orange;Estat\u00EDstica^reset;\n
+ subtype : Usado para identificar o subtipo da abelha. Estabelece grupos de produ\u00E7\u00E3o e comportamentos \u00FAnicos usando isto.
+ BaseProduction : Produ\u00E7\u00E3o de zang\u00F5es com 100% de efici\u00EAncia da colmeia.
+ droneToughness : N\u00FAmero de \u00E1caros necess\u00E1rios para matar um zang\u00E3o. Tamb\u00E9m utilizado em lutas entre abelhas.
+ droneBreedRate : Taxa de cria\u00E7\u00E3o de zang\u00F5es.
+ queenBreedRate : Taxa de cria\u00E7\u00E3o de rainhas.
+ queenLifespan : Quantos ticks da produ\u00E7\u00E3o de abelhas antes da morte da rainha (at\u00E9 1295).
+ MutationChance : Chance para que ocorra uma muta\u00E7\u00E3o dr\u00E1stica
+ miteResistance : Modificador da taxa de nascimento dos \u00E1caros ('ZZ': 64,7, 'HZ': 0, '00': -64,7, value:modifier)
+ workTime : Diurno('0'), noturno('1'), ou ambos('2')
+
+ A probabilidade de muta\u00E7\u00E3o salta por (math.floor(100/1295*100*n)*0.01) em cada incremento '00' : 0 | '01' : 0.07 | 'HZ' : 49.96 | 'ZZ' : 100",
+    "path": "/longContentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]
