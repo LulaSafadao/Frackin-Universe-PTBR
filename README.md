@@ -55,7 +55,7 @@ cockpit.lua REMOVIDO (ATUALIZADO 23/06/2021)
 
 ADICIONAR: 
 
-bees1.codex
+bees1.codex ADICIONADO/TRADUZIDO (ATUALIZADO 15/07/2021)
 
 bees2.codex
 
