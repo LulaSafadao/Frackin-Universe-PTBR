@@ -25,12 +25,12 @@
     "op": "replace"
   },
   {
-    "value": "Hoje eu decidir comer aquela terra que aquele drogado Radien vende. \u00C9 horr\u00EDvel. Eu n\u00E3o recebi muito dinheiro.",
+    "value": "Hoje eu decidir comer aquela terra que aquele drogado X'i vende. \u00C9 horr\u00EDvel. Eu n\u00E3o recebi muito dinheiro.",
     "path": "/contentPages/3",
     "op": "replace"
   },
   {
-    "value": "Acontece que a terra do Radien \u00E9 uma droga poderosa. Eu tenho uma ideia.",
+    "value": "Acontece que a terra do X'i \u00E9 uma droga poderosa. Eu tenho uma ideia.",
     "path": "/contentPages/4",
     "op": "replace"
   },
