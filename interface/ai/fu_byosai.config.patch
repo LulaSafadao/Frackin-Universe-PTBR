@@ -163,5 +163,10 @@
     "value": "Cancelar",
     "path": "/backgroundPresentConfirmation/cancelCaption",
     "op": "replace"
+  },
+  {
+    "value": "root/sail/ui/replaceship",
+    "path": "/gui/path/value",
+    "op": "replace"
   }
 ]
