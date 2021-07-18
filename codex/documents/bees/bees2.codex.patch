@@ -1,0 +1,55 @@
+[
+  {
+    "value": "Informa\u00E7\u00F5es sobre as abelhas",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Cria\u00E7\u00E3o de abelhas",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Para ler este codex, use o seu ^orange;Personal Tricorder^reset; e clique no \u00EDcone que parece um livro.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Trabalhando com abelhas^reset;\n\n
+ Aos rec\u00E9m-chegados interessados na apicultura como hobby ou carreira, sejam bem-vindos! Este estilo de vida gratificante n\u00E3o se anda de \u00E2nimo leve. Para ter sucesso no of\u00EDcio \u00E9 preciso mais do que atirar algumas abelhas em uma caixa e ir embora! Voc\u00EA tem muitas coisas a ter em mente quando se trata de apicultura. Vou tentar cobrir os principais pontos aqui, para que voc\u00EA possa come\u00E7ar a trabalhar no que realmente importa!\n\n
+
+   ^red;Observa\u00E7\u00E3o^reset;\n\n
+ As abelhas n\u00E3o produzir\u00E3o ou acasalar\u00E3o em sua nave. No entanto, as esta\u00E7\u00F5es espaciais funcionar\u00E3o bem.\n\n
+
+   ^orange;Esp\u00E9cies^reset;\n\n
+ Cada esp\u00E9cie de abelha tem seus pr\u00F3prios benef\u00EDcios e armadilhas que podem ajudar ou dificultar o apicultor, sendo o resultado final um neg\u00F3cio altamente lucrativo se o detentor for esperto e estiver atento ao bem-estar de seus encargos. Para aproveitar ao m\u00E1ximo as abelhas, \u00E9 preciso estar disposto a fazer experi\u00EAncias.\n
+ Misturar e combinar esp\u00E9cies acasalando uma rainha com um tipo diferente de zang\u00E3o pode melhorar substancialmente a pot\u00EAncia da prole daquela rainha. Algumas abelhas preferem certos ambientes, horas do dia e locais. Outras detestam outras fam\u00EDlias de abelhas, o que significa que voc\u00EA pode precisar cuidar do que est\u00E1 criando em seus api\u00E1rios. Tenha isso em mente.
+
+   ^orange;Necessidades das abelhas^reset;\n\n
+ H\u00E1 v\u00E1rias coisas que s\u00E3o necess\u00E1rias para que qualquer colmeia se aninhe e produza bens. A primeira e mais \u00F3bvia \u00E9 um api\u00E1rio para que elas possam habitar. Construa voc\u00EA mesmo um destes para come\u00E7ar (eu recomendaria um de tamanho maior assim que voc\u00EA puder!). Uma vez montado o api\u00E1rio, o pr\u00F3ximo passo (e o mais importante) \u00E9 encontrar algumas abelhas. Vagueie pelos bosques do universo e fique de olho. Quando voc\u00EA vir insetos, puxe uma rede de insetos de confian\u00E7a e comece a captur\u00E1-los. Se voc\u00EA tiver sorte, vai encontrar uma Rainha ou um Zang\u00E3o! Voc\u00EA precisar\u00E1 tanto de uma Rainha quanto de um Zang\u00E3o para conseguir que um api\u00E1rio funcione!\n
+ A seguir, voc\u00EA vai precisar de flores. As abelhas s\u00E3o polinizadores, o que significa que elas procurar\u00E3o e recolher\u00E3o o p\u00F3len das plantas antes de avan\u00E7ar e espalhar esse p\u00F3len para outras plantas. Mais plantas (as flores s\u00E3o um favorito comum para a maioria das abelhas) significa mais produ\u00E7\u00E3o para suas colmeias. Alguns tipos de flores e plantas s\u00E3o mais atraentes para certas ra\u00E7as de abelhas do que para outras. Isto significa que pode ser necess\u00E1ria alguma tentativa e erro para obter o m\u00E1ximo absoluto de qualquer tipo de abelha. A maioria n\u00E3o \u00E9 incrivelmente exigente, portanto, qualquer flor ou planta geralmente o far\u00E1 se voc\u00EA n\u00E3o conhecer suas favoritas.\n
+ Uma vez que voc\u00EA tenha o api\u00E1rio, a rainha, o zang\u00E3o e as flores, h\u00E1 mais uma pe\u00E7a chave necess\u00E1ria. Os pain\u00E9ss s\u00E3o bastante \u00FAteis, atuando como uma plataforma para as abelhas viverem e constru\u00EDrem sua colm\u00E9ia ao redor e sobre ela. N\u00F3s, como apicultores, somos capazes de produzir v\u00E1rios tipos de pain\u00E9s atrav\u00E9s da aplica\u00E7\u00E3o criativa de recursos. Grandes pain\u00E9ss podem ter um impacto bastante grande na qualidade de suas abelhas, especialmente quando se trata de reproduzi-las e melhorar sua capacidade gen\u00E9tica! N\u00E3o deixe de investigar os muitos tipos potenciais de pain\u00E9ss dispon\u00EDveis e combin\u00E1-los com as necessidades e fraquezas de suas colmeias para maximizar a produ\u00E7\u00E3o!\n
+ E finalmente, o local e a hora do dia podem causar um enorme impacto em uma colmeia. Algumas abelhas detestam certos ambientes (ou podem ser mortas por elas!) enquanto prosperam em outros. \u00C9 seu dever como guardi\u00E3o aprender quais ambientes resultar\u00E3o em seus api\u00E1rios pr\u00F3speros. Algumas abelhas s\u00E3o ativas apenas durante o dia (Diurno), outras s\u00E3o ativas apenas \u00E0 noite (Noturno). Algumas poucas s\u00E3o capazes de operar a qualquer momento.\n
+ A \u00FAltima coisa a ter em mente s\u00E3o os rivais: Algumas abelhas ca\u00E7ar\u00E3o determinadas subesp\u00E9cies e as matar\u00E3o em uma rivalidade feroz. Estas abelhas nunca prosperar\u00E3o quando perto de outra colm\u00E9ia que contenha seus rivais. Elas simplesmente se matar\u00E3o umas \u00E0s outras.\n\n
+
+   ^orange;Microsc\u00F3pios^reset;\n\n
+ Verificando em um microsc\u00F3pio \u00E9 poss\u00EDvel identificar a subesp\u00E9cie de qualquer abelha, permitindo que voc\u00EA adquira conhecimentos sobre as estat\u00EDsticas das abelhas para ajudar nos processos de cria\u00E7\u00E3o e sele\u00E7\u00E3o. Cada camada do microsc\u00F3pio tem um desempenho ligeiramente melhor do que a camada anterior. O maior tipo dispon\u00EDvel \u00E9 o Electron Microscope.\n\n
+
+   ^orange;Cria\u00E7\u00E3o e Produ\u00E7\u00E3o de Abelhas^reset;\n\n
+ Coloque sua rainha no primeiro slot do api\u00E1rio. \u00C9 para l\u00E1 que ela vai. O zang\u00E3o vai no segundo slot. Note que em um grande api\u00E1rio, voc\u00EA ter\u00E1 dois slots para zang\u00F5es. Isto permite que voc\u00EA coloque dois zang\u00F5es *diferentes*, adicionando varia\u00E7\u00E3o gen\u00E9tica para o processo de sele\u00E7\u00E3o das rainhas companheiras. O outro slot do lado esquerdo \u00E9 para sua arma\u00E7\u00E3o (dois, se estiver usando um grande api\u00E1rio). Uma vez preenchidas esses slots, desde que as abelhas que ali vivem tenham suas necessidades atendidas, elas come\u00E7ar\u00E3o a produzir. Quando essas necessidades n\u00E3o forem atendidas, suas abelhas ser\u00E3o incapazes de acasalar. Portanto, se voc\u00EA acrescentou tudo o que deveria ser necess\u00E1rio e nada est\u00E1 acontecendo, \u00E9 hora de verificar o que pode estar acontecendo.\n
+ A primeira coisa a ser verificada \u00E9 se outros tipos de abelhas produzem exatamente a mesma coisa. Se as abelhas de mel funcionam bem e as abelhas orqu\u00EDdeas n\u00E3o, ent\u00E3o pode ser a hora do dia, ou o bioma, ou os rivais pr\u00F3ximos que impedem suas abelhas "quebradas" de prosperar. Uma vez atendidas as necessidades, suas abelhas come\u00E7ar\u00E3o a produzir recursos! Isto acontecer\u00E1 gradualmente, ao longo do tempo, esteja voc\u00EA presente ou n\u00E3o. Se voc\u00EA estiver fora do mundo, o api\u00E1rio 'simular\u00E1' o trabalho que suas abelhas teriam feito enquanto estavam fora e o aplicar\u00E1 no seu retorno. Isto \u00E9 tanto um benef\u00EDcio quanto uma penalidade, por\u00E9m, pois tamb\u00E9m aplica os mesmos dados \u00E0 idade da rainha e aos \u00E1caros (mais sobre isto mais tarde), e ambos podem matar uma colm\u00E9ia se n\u00E3o prestarem aten\u00E7\u00E3o. As rainhas t\u00EAm uma vida \u00FAtil limitada, e morrer\u00E3o no final desse tempo. Quando uma rainha morre, os zang\u00F5es t\u00EAm aproximadamente 60 segundos de seguran\u00E7a, ap\u00F3s os quais come\u00E7ar\u00E3o a morrer lentamente sem ela para gui\u00E1-los. Isto leva ao colapso inevit\u00E1vel de toda a colm\u00E9ia. Assim, a import\u00E2ncia da cria\u00E7\u00E3o torna-se clara.\n\n
+
+ Para criar abelhas, voc\u00EA vai precisar: Uma rainha, um zang\u00E3o, um api\u00E1rio e paci\u00EAncia. H\u00E1 algumas peculiaridades a serem levadas em conta na cria\u00E7\u00E3o: Se uma nova rainha e um zang\u00E3o s\u00E3o colocados em um api\u00E1rio vazio com uma arma\u00E7\u00E3o, a rainha s\u00F3 acasalar\u00E1 com o PRIMEIRO zang\u00E3o adicionado ao api\u00E1rio. Este \u00E9 um processo de reprodu\u00E7\u00E3o seletiva. Uma vez acasalada com o zang\u00E3o, ela ent\u00E3o come\u00E7ar\u00E1 a produzir seu pr\u00F3prio estoque de zang\u00F5es que se tornar\u00E3o sua ninhada. O(s) velho(s) zang\u00E3o(s) ser\u00E1(\u00E3o) morto(s), sendo agora de estoque inferior. Este novo estoque de zang\u00F5es ir\u00E1 imitar o genoma das rainhas de forma id\u00EAntica, produzindo constantemente. Ocasionalmente, uma rainha dar\u00E1 \u00E0 luz uma jovem rainha. Estas s\u00E3o, por assim dizer, a sua mina de ouro. Fa\u00E7a um microsc\u00F3pio das rainhas jovens, e mantenha seu melhor estoque para reprodu\u00E7\u00E3o. O resto, venda no Bee Refuge para obter um lucro f\u00E1cil.\n
+ Cada nova gera\u00E7\u00E3o de abelhas tem a chance de se transformar em uma ra\u00E7a superior. A chance de sofrer a muta\u00E7\u00E3o \u00E9 influenciada por sua esp\u00E9cie, bioma, estrutura e sorte. Quando ocorre uma muta\u00E7\u00E3o, o benef\u00EDcio \u00E9 um b\u00F4nus aleat\u00F3rio para pelo menos um status. Este b\u00F4nus \u00E9 geralmente significativo. Atrav\u00E9s da cria\u00E7\u00E3o seletiva, voc\u00EA pode guiar suas abelhas para uma forma altamente mutativa capaz de passar para as novas gera\u00E7\u00F5es. Com um planejamento cuidadoso, isso pode levar a enormes lucros.\n\n
+
+   ^orange;\u00C1caros^reset;\n\n
+ O perigo das abelhas e do apicultor \u00E9 a amea\u00E7a dos \u00E1caros. Estes bastardos nojentos infestam as colmeias, retardando a produ\u00E7\u00E3o e eventualmente matando zang\u00F5es. Se todos os zang\u00F5es forem erradicados por uma infec\u00E7\u00E3o por \u00E1caros, a rainha ser\u00E1 morta logo em seguida. Os \u00E1caros infestam gradualmente, causando ligeiras diminui\u00E7\u00F5es na produ\u00E7\u00E3o at\u00E9 o momento em que sua popula\u00E7\u00E3o se descontrola. Neste ponto, eles come\u00E7ar\u00E3o rapidamente a se alimentar de seu estoque de zang\u00F5es. Quando isto acontecer, seu api\u00E1rio mudar\u00E1 de cor para uma vers\u00E3o de telhado vermelho, de lado marrom, que exibe um \u00EDcone de inseto para que n\u00E3o haja engano no que aconteceu. Os \u00E1caros podem ser uma amea\u00E7a, mas, felizmente, s\u00E3o bastante simples de se lidar. Os pain\u00E9is anti-\u00E1caros far\u00E3o um trabalho curto (especialmente nas vers\u00F5es de camada mais alta), e como os pain\u00E9is podem ser empilhados voc\u00EA pode melhorar a resist\u00EAncia a estas pragas diretamente. Uma vez que os \u00E1caros sejam tratados, seu api\u00E1rio voltar\u00E1 a sua apar\u00EAncia anterior e suas abelhas retomar\u00E3o o trabalho.",
+    "path": "/longContentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]
