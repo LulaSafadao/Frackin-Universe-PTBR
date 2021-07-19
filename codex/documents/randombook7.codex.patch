@@ -1,6 +1,7 @@
 [
   {
-    "value": "Segredos ocultos"
+    "value": "Segredos ocultos",
+    "path": "/title",
     "op": "replace"
   },
   {
@@ -14,7 +15,7 @@
     "op": "replace"
   },
   {
-    "value": "Felizmente, a maioria dos estudiosos n\u00E3o sou eu. Encontrei uma ru\u00EDna... Vou manter o segredo da localiza\u00E7\u00E3o por enquanto. Sasha ... voc\u00EA n\u00E3o vai acreditar! Uma biblioteca. Uma biblioteca enorme, bem preservada e em pleno funcionamento. A informa\u00E7\u00E3o aqui contida \u00E9, sem d\u00FAvida, o achado arqueol\u00F3gico mais significativo da hist\u00F3ria de todo o cosmos. Tudo o que preciso fazer \u00E9 chegar \u00E0 reuni\u00E3o na Terra e apresentar minhas descobertas ap\u00F3s a c\u00FApula de emerg\u00EAncia do Protetorado.",
+    "value": "Felizmente, a maioria dos estudiosos n\u00E3o sou eu. Encontrei uma ru\u00EDna... Vou manter o segredo da localiza\u00E7\u00E3o por enquanto. Sasha... voc\u00EA n\u00E3o vai acreditar! Uma biblioteca. Uma biblioteca enorme, bem preservada e em pleno funcionamento. A informa\u00E7\u00E3o aqui contida \u00E9, sem d\u00FAvida, o achado arqueol\u00F3gico mais significativo da hist\u00F3ria de todo o cosmos. Tudo o que preciso fazer \u00E9 chegar \u00E0 reuni\u00E3o na Terra e apresentar minhas descobertas ap\u00F3s a c\u00FApula de emerg\u00EAncia do Protetorado.",
     "path": "/contentPages/1",
     "op": "replace"
   },
