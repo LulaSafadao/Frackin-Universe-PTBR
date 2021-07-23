@@ -61,7 +61,7 @@ bees1.codex ADICIONADO/TRADUZIDO (ATUALIZADO 15/07/2021)
 
 bees2.codex ADICIONADO/TRADUZIDO (ATUALIZADO 17/07/2021)
 
-ffguidebattle.codex
+ffguidebattle.codex ADICIONADO/TRADUZIDO (ATUALIZADO 22/07/2021)
 
 networkguide.codex
 
