@@ -1,0 +1,237 @@
+[
+  {
+    "value": "^#ffea00;Guia FU^reset;: Combate",
+    "path": "/title",
+    "op": "replace"
+  },
+  {
+    "value": "Mudan\u00E7as nas Armas e no Combate em FU.",
+    "path": "/description",
+    "op": "replace"
+  },
+  {
+    "value": "Para ler este codex, use o seu ^orange;Personal Tricorder^reset; e clique no \u00EDcone que parece um livro.",
+    "path": "/contentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Resist\u00EAncias dos monstros^reset;
+------------------------
+Alguns monstros resistem, ou s\u00E3o completamente imunes a certos tipos de danos. 
+
+Para combater estas amea\u00E7as voc\u00EA vai precisar de armas de ^green;diferentes tipos de elementos^reset; a qualquer momento. Tente usar ^green;pelo menos 2 a 3^reset; dos mais de 8 tipos dispon\u00EDveis, para que voc\u00EA esteja pronto para qualquer desafio. 
+
+
+^blue;--------------------------------------------------^reset;
+
+
+^orange;Armas e Combate^reset;
+---------------------
+As armas de dist\u00E2ncia e corpo a corpo comportam-se de forma um pouco diferente no Frackin Universe. As mudan\u00E7as mais importantes est\u00E3o listadas neste codex.
+
+
+^orange;Chance Cr\u00EDtico e Dano Cr\u00EDtico^reset;
+--------------------------------
+As armas t\u00EAm novos \u00EDcones. Os dois da esquerda (ao passar o mouse em cima) apresentam o b\u00F4nus Chance Cr\u00EDtico e o b\u00F4nus Dano Cr\u00EDtico.
+
+
+^orange;Muni\u00E7\u00E3o e Velocidade da recarga^reset;
+--------------------------------------
+A muni\u00E7\u00E3o e a velocidade de recarga s\u00E3o representadas pelos \u00EDcones do lado direito.
+
+Itens com um '--' representando um valor em qualquer uma das estat\u00EDsticas acima significa que n\u00E3o se aplica a eles. Este \u00E9 o caso das armas modificadas, ou armas de energia (sem muni\u00E7\u00E3o), principalmente.
+
+
+
+^orange;Maestria^reset;
+---------------
+
+Ocasionalmente, voc\u00EA ver\u00E1 tra\u00E7os de maestria aplicados em equipamentos equip\u00E1veis, ou em B\u00F4nus Raciais. Isto implica que voc\u00EA tem maior capacidade em um determinado tipo de arma. Em geral, ^yellow;maestria^reset; simplesmente ^cyan;melhora os benef\u00EDcios das armas j\u00E1 existentes^reset;, incluindo b\u00F4nus tecnol\u00F3gicos. Em um pr\u00F3ximo t\u00F3pico abaixo, voc\u00EA ver\u00E1 v\u00E1rias armas listadas junto com as v\u00E1rias capacidades que cada uma traz consigo. Todos estes benef\u00EDcios listados ser\u00E3o melhorados atrav\u00E9s da ^yellow;maestria^reset;.
+
+Um exemplo: Quando empunhado individualmente, uma Rapieira fornecer\u00E1 um aumento de Chance Cr\u00EDtico quando o tempo atingir cuidadosamente (at\u00E9 um m\u00E1ximo de 5). O valor do b\u00F4nus aplicado \u00E9 maior pelo valor listado em sua ^yellow;maestria^reset;. A 100%, isto significaria um m\u00E1ximo de 10 de chance cr\u00EDtico.
+
+A quantidade de benef\u00EDcios obtidos pode variar de arma para arma. Em alguns casos voc\u00EA receber\u00E1 um modificador baseado diretamente em seu tra\u00E7o de ^yellow;maestria^reset;, enquanto outros reduzir\u00E3o esse valor pela metade, um quarto, um oitavo ou outras fra\u00E7\u00F5es semelhantes.
+
+
+
+^blue;--------------------------------------------------^reset;
+
+
+^green;\u00C1 Dist\u00E2ncia^reset;
+
+^orange;Armas que usam muni\u00E7\u00F5es^reset;
+-------------------------
+Algumas armas agora usam muni\u00E7\u00E3o. N\u00E3o se preocupe, voc\u00EA n\u00E3o precisar\u00E1 carregar recursos com voc\u00EA para reabastec\u00EA-las. Estas armas simplesmente usam muito, muito menos energia em troca do impulso de mobilidade proporcionado por ter energia extra! Note que se superaquecer a arma ir\u00E1 usar a energia, independentemente do superaquecimento.
+
+Voc\u00EA pode recarregar estas armas manualmente segurando a tecla SHIFT e clicando no bot\u00E3o do mouse. Se o carregador for esvaziado atrav\u00E9s de disparos, a recarga tamb\u00E9m ser\u00E1 ativada automaticamente.
+
+^orange;Mestre das Muni\u00E7\u00F5es^reset;
+------------------
+Esta maestria \u00E9 bastante simples: Sua avalia\u00E7\u00E3o em mestre das muni\u00E7\u00F5es corresponde diretamente \u00E0 % reduzida de seu Tempo de Recarga, assim como os $ de muni\u00E7\u00E3o obtida por carregador.
+
+
+^blue;--------------------------------------------------^reset;
+^green;Corpo a Corpo^reset;
+
+^orange;Combos^reset;
+---------------
+Cada golpe de um combo, quer atinja ou n\u00E3o um alvo, consome 1% de sua energia. Fique atento, as t\u00E1ticas que envolvem atordoar e bloquear os inimigos n\u00E3o s\u00E3o mais t\u00E3o vi\u00E1veis.
+
+Muitas armas com combos fornecem b\u00F4nus adicionais quando se ataca com estes combos.
+
+^#555555;--------------------------------------------------^reset;
+^orange;Golpe de Escudo^reset;
+---------------
+Bloqueio com escudos nos inimigos tem uma chance de dar golpe de escudo. Certas marchas podem aumentar as chances do golpe de escudo.
+
+O golpe de escudo pode danificar os inimigos, e mand\u00E1-los para tr\u00E1s. Em caso de bloqueio perfeito, h\u00E1 50% de chance de atordoar os inimigos que s\u00E3o esmagados com sucesso. Quando n\u00E3o houver um bloqueio perfeito, tenha cuidado: H\u00E1 uma chance - voc\u00EA - de ficar atordoado com um bloqueio mal programado.
+
+^#555555;--------------------------------------------------^reset;
+^orange;Martelo^reset;
+---------------
+Quanto mais tempo voc\u00EA segurar a carga deste tipo de arma de combate corpo a corpo, maior ser\u00E1 sua chance de ser Cr\u00EDtico e Atordoante (at\u00E9 um m\u00E1ximo de ^green;100^reset;%).
+
+Um martelo carregado acima de ^green;75%^reset; causar\u00E1 uma enorme erup\u00E7\u00E3o de b\u00F4nus capaz de impressionar e lan\u00E7ar inimigos ao ar.
+
+O sobrecarregamento do martelo ao passar ^green;100%^reset; cancelar\u00E1 automaticamente o b\u00F4nus.
+
+^#555555;--------------------------------------------------^reset;
+^orange;Machado de Guerra^reset;
+---------------
+Quanto mais tempo voc\u00EA segurar a carga deste tipo de arma de combate corpo a corpo, mais alta ser\u00E1 sua chance cr\u00EDtica e o dano cr\u00EDtico (at\u00E9 um m\u00E1ximo de ^green;100%^reset;).
+
+Um machado de guerra carregado acima de ^green;75%^reset; causar\u00E1 uma enorme erup\u00E7\u00E3o de b\u00F4nus capaz de sangrar e jogar os inimigos ao ar livre.
+
+O sobrecarregamento do machado de guerra ao passar ^green;100%^reset; cancelar\u00E1 automaticamente o b\u00F4nus.
+
+^#555555;--------------------------------------------------^reset;
+^orange;Machado^reset;
+---------------
+Cada morte consecutiva feita com um machado aumenta seu dano m\u00E1ximo em ^green;1%^reset;, para um m\u00E1ximo de ^green;50%^reset;.
+
+Se sua sa\u00FAde for reduzida abaixo de ^red;20%^reset;, este b\u00F4nus \u00E9 cancelado.
+
+Cada batida consecutiva em uma fila com o machado aumenta a Chance Cr\u00EDtica em ^green;3%^reset;, (para um m\u00E1ximo de ^green;15%^reset;).
+
+^#555555;--------------------------------------------------^reset;
+^orange;Adaga^reset;
+---------------
+Mortes r\u00E1pidas consecutivas aumentam temporariamente os danos
+
+Esquiva Tech Efici\u00EAncia ^green;+25%^reset;
+
+Combo Strikes aumenta a Prote\u00E7\u00E3o e Chance Cr\u00EDtico a cada ataque. O b\u00F4nus de prote\u00E7\u00E3o \u00E9 maior no primeiro ataque, e reduz cada ataque em seguida.
+
+^cyan;Usando duas adagas aumenta a^reset;: velocidade de movimento em: ^green;+5%^reset;
+
+
+^#555555;--------------------------------------------------^reset;
+^orange;Espada Curta^reset;
+---------------
+Tem +1 Combo strike (era, 2 agora 3)
+
+Cada golpe combinado aumenta bastante seu dano cr\u00EDtico 
+
+^green;+1%^reset; Chance Cr\u00EDtica por Combo Strike
+
+Primeiro Combo strike faz ^green;+15%^reset; Dano Cr\u00EDtico. Segundo golpe faz ^green;+25%^reset; Dano Cr\u00EDtico.
+
+^#555555;--------------------------------------------------^reset;
+^orange;Espada larga^reset;
+---------------
+Mortes feitas em sequ\u00EAncia r\u00E1pida aumentam a defesa por um curto per\u00EDodo
+
+^green;+1%^reset; Chance Cr\u00EDtica por Combo Strike
+
+Primeiro Combo strike faz ^green;+15%^reset; Dano Cr\u00EDtico. Segundo golpe faz ^green;+25%^reset; Dano Cr\u00EDtico.
+
+^#555555;--------------------------------------------------^reset;
+^orange;Foice^reset;
+---------------
+^green;+1%^reset; Chance Cr\u00EDtica por Combo Strike
+
+Primeiro Combo strike faz ^green;+15%^reset; Dano Cr\u00EDtico. Segundo golpe faz ^green;+25%^reset; Dano Cr\u00EDtico.
+
+^#555555;--------------------------------------------------^reset;
+^orange;Espada Comprida^reset;
+---------------
+No terceiro Combo Strike faz +^green;15^reset;% Dano Cr\u00EDtico
+
+^cyan;Espada Comprida^reset;: ter\u00E1 uma espera de combar: ^green;-30%^reset; 
+
+^cyan;Espada Comprida + Escudo^reset;: Golpe de escudo ^green;+4%^reset;, Dist\u00E2ncia do empurr\u00E3o do golpe de escudo ^green;+1%^reset;, Cura Tech Efici\u00EAncia ^green;+15%^reset;, Defesa Tech Efici\u00EAncia ^green;+25%^reset;
+
+^cyan;Espada Comprida + Qualquer Arma^reset;: Defesa x^red;0.8^reset;, +^green;5^reset;% Velocidade de Movimento
+
+^#555555;--------------------------------------------------^reset;
+^orange;Rapieira^reset;
+---------------
+Quando usar uma rapieira e esperar um tempo antes de dar uma sequ\u00EAncia de golpes, maior \u00E9 sua chance de ataque cr\u00EDtico (at\u00E9 no m\u00E1ximo 5). O ataque reinicia este b\u00F4nus.
+
+^cyan;Rapieira^reset;: Dano Cr\u00EDtico ^green;+15%^reset;, Esquiva e Arrancada Tech Efici\u00EAncia ^green;+35%^reset;
+
+^cyan;Rapieira + Adaga^reset;: Prote\u00E7\u00E3o x^green;1.12^reset;, Esquiva e Arrancada Tech Efici\u00EAncia +^green;15%^reset;,
+
+^#555555;--------------------------------------------------^reset;
+^orange;Lan\u00E7a Curta^reset;
+---------------
+^cyan;Lan\u00E7a Curta^reset;: Dano Cr\u00EDtico ^green;+30%^reset;
+
+^cyan;lan\u00E7a Curta + Escudo^reset;: Golpe de escudo ^green;+10%^reset;, Dist\u00E2ncia do empurr\u00E3o do golpe de escudo ^green;+2%^reset;, Regenera\u00E7\u00E3o do escudo x^green;1.2^reset;, Defesa Tech Efici\u00EAncia ^green;+50%^reset;
+
+^cyan;Lan\u00E7a Curta + Lan\u00E7a Curta^reset;: Defesa x^red;0.8^reset;, B\u00F4nus de Chance Cr\u00EDtico x^red;0.5^reset;
+
+^#555555;--------------------------------------------------^reset;
+^orange;Bast\u00E3o^reset;
+---------------
+Cada golpe no combo aumenta sua Defesa.
+
+^#555555;--------------------------------------------------^reset;
+^orange;Ma\u00E7a^reset;
+---------------
+Combo Strikes aumenta a chance de atordoamento em ^green;2%^reset; a cada golpe.
+
+^cyan;Ma\u00E7a^reset;: Chance de atordoamento ^green;+2%^reset;
+
+^cyan;Ma\u00E7a + Escudo^reset;: Golpe de escudo ^green;+3%^reset;, Dist\u00E2ncia do empurr\u00E3o do golpe de escudo ^green;+1%^reset;, Defesa x^green;1.1^reset;
+
+^cyan;Ma\u00E7a + Qualquer Arma^reset;: B\u00F4nus de Chance Cr\u00EDtico x^red;0.85^reset;, B\u00F4nus de chance de atordoamento x^red;0.5^reset;, Velocidade de Movimento ^green;+5%^reset;
+
+^#555555;--------------------------------------------------^reset;
+^orange;Katana^reset; 
+---------------
+Cada golpe concede um b\u00F4nus de velocidade de movimento de ^green;1 + (por combo / 10)^reset;%
+
+Os golpes do Combo aumentam o impacto dos golpes.
+
+^cyan;Katana^reset;: Defesa Tech Efici\u00EAncia: ^green;+15%^reset;
+
+^cyan;Katana + Corpo a Corpo Pesado^reset;: Dano x^red;0.8^reset;, Defesa x^red;0.9^reset;
+
+^cyan;Katana + Corpo a Corpo Leve^reset;: Energia x^green;1.15^reset;, Dano Cr\u00EDtico ^green;+20%^reset;, Esquiva e Arrancada Tech Efici\u00EAncia ^green;+25%^reset;
+
+^#555555;--------------------------------------------------^reset;
+^orange;Punhos^reset;
+---------------
+
+Os ataques normais consomem ^red;3% de energia^reset; por ataque. Ao manter o bot\u00E3o pressionado, este modo ser\u00E1 ativado.
+
+Combos requerem tempo: segurar ou tocar o bot\u00E3o muito rapidamente utilizar\u00E1 um ataque normal.
+
+Combo strikes aumenta a Chance Cr\u00EDtica em  ^green;1%^reset;, Chance de Atordoamento em ^green;4%^reset;, e prote\u00E7\u00E3o ^green;+1^reset; por strike. Ao atacar usar\u00E1 ^red;1%^reset; de energia.
+
+Alt/Finisher \u00E9 ativado com ^cyan;[Shift + Click]^reset;. Al\u00E9m do combo, isto utilizar\u00E1 ^red;15%^reset; energia. Ao completar um combo como \u00FAltimo ataque, ele n\u00E3o consumir\u00E1 nenhum.
+
+^#555555;--------------------------------------------------^reset;
+^orange;Aviso^reset;
+---------------
+B\u00F4nus de Chance Cr\u00EDtico/Atordoamento de Armas referem-se a estat\u00EDsticas que n\u00E3o s\u00E3o inerentes \u00E0s armas em si, tais como de armaduras ou itens de consumo.",
+    "path": "/longContentPages/0",
+    "op": "replace"
+  },
+  {
+    "value": "/items/buildscripts/build_ptbr_item.lua",
+    "path": "/itemConfig/builder",
+    "op": "add"
+  }
+]
