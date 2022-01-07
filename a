@@ -7,95 +7,325 @@ RadioWavs.soundCache = {}
 
 RadioWavs.files = {}
 
-RadioWavs.files[1] = "Nofundodagrota"
-RadioWavs.files[2] = "Viravira"
-RadioWavs.files[3] = "Mundoanimal"
-RadioWavs.files[4] = "Peladosemsantos"
-RadioWavs.files[5] = "Chopiscentis"
-RadioWavs.files[6] = "Umaarlindamulher"
-RadioWavs.files[7] = "Robocopgay"
-RadioWavs.files[8] = "1406"
-RadioWavs.files[9] = "Lavemoalemao"
-RadioWavs.files[10] = "Boisdontcry"
-RadioWavs.files[11] = "Jumentocelestino"
-RadioWavs.files[12] = "Daquelafoda"
-RadioWavs.files[13] = "Metraiucomumburro"
-RadioWavs.files[14] = "Apresentacao1"
-RadioWavs.files[15] = "Apresentacao2"
-RadioWavs.files[16] = "Feiticeira"
-RadioWavs.files[17] = "Minhaputa"
-RadioWavs.files[18] = "Bundao"
-RadioWavs.files[19] = "Dasemdo"
-RadioWavs.files[20] = "Esqueceessabichona"
-RadioWavs.files[21] = "Estupradora"
-RadioWavs.files[22] = "Eusoufudido"
-RadioWavs.files[23] = "Filhodebuceteiro"
-RadioWavs.files[24] = "Fiodepentelho"
-RadioWavs.files[25] = "Garanhao"
-RadioWavs.files[26] = "Mulherpeidona"
-RadioWavs.files[27] = "Naoquismedar"
-RadioWavs.files[28] = "Cuazul"
-RadioWavs.files[29] = "Sooscornossabem"
-RadioWavs.files[30] = "Eissoai"
-RadioWavs.files[31] = "Essavacaeubeijo"
-RadioWavs.files[32] = "Comlagrimaseutecomi"
-RadioWavs.files[33] = "Avelhaeokadett"
-RadioWavs.files[34] = "Encheumeupaudebosta"
-RadioWavs.files[35] = "Lambemeuovoesquerdo"
-RadioWavs.files[36] = "Quemnaoquersoueu"
-RadioWavs.files[37] = "Amigadaminhamulher"
-RadioWavs.files[38] = "Burguesinha"
-RadioWavs.files[39] = "Carolina"
-RadioWavs.files[40] = "Felicidade"
-RadioWavs.files[41] = "Saogonca"
-RadioWavs.files[42] = "Seuolhar"
-RadioWavs.files[43] = "Tiverazao"
-RadioWavs.files[44] = "Minadocondominio"
-RadioWavs.files[45] = "Cerolnamao"
-RadioWavs.files[46] = "Donagigi"
-RadioWavs.files[47] = "Eusoqueroeserfeliz"
-RadioWavs.files[48] = "Erasomaisumsilva"
-RadioWavs.files[49] = "Glamurosa"
-RadioWavs.files[50] = "Clubedochifre"
-RadioWavs.files[51] = "Cornomoderno"
-RadioWavs.files[52] = "Semmulhernaodar"
-RadioWavs.files[53] = "Chicopunheteiro"
-RadioWavs.files[54] = "Milongadowebnamoro"
-RadioWavs.files[55] = "Sossega"
-RadioWavs.files[56] = "Rapdasarmas"
-RadioWavs.files[57] = "Rapdosolitario"
-RadioWavs.files[58] = "Lugaraosol"
-RadioWavs.files[59] = "Tamoainaatividade"
-RadioWavs.files[60] = "Lutarpeloqueemeu"
-RadioWavs.files[61] = "Naousosapato"
-RadioWavs.files[62] = "Aquelapaz"
-RadioWavs.files[63] = "Diasdeluta"
-RadioWavs.files[64] = "Elavaivoltar"
-RadioWavs.files[65] = "Viciosevirtudes"
-RadioWavs.files[66] = "Livreparavoar"
-RadioWavs.files[67] = "Deusdeisrael"
-RadioWavs.files[68] = "Naovireascostaspramim"
-RadioWavs.files[69] = "Senhordotempo"
-RadioWavs.files[70] = "Televar"
-RadioWavs.files[71] = "Boquinhadelata"
-RadioWavs.files[72] = "Boiolamadeinbrazil"
-RadioWavs.files[73] = "Sentei"
-RadioWavs.files[74] = "Jeitodeboneca"
-RadioWavs.files[75] = "Matutinha"
-RadioWavs.files[76] = "Caminhoneiro"
-RadioWavs.files[77] = "Vaisentando"
-RadioWavs.files[78] = "Orgiadetraveco"
-RadioWavs.files[79] = "Danadadavizinha"
-RadioWavs.files[80] = "Trepadaemcuiaba"
-RadioWavs.files[81] = "Ragatanga"
-RadioWavs.files[82] = "Toctoc"
-RadioWavs.files[83] = "Absoluto"
-RadioWavs.files[84] = "Deusnaoteesqueceu"
-RadioWavs.files[85] = "Sorrisosretornam"
-RadioWavs.files[86] = "Horadevencer"
+RadioWavs.files[1] = "ZenitramJrMuricanaNumber"
+RadioWavs.files[2] = "GonersUKCrashingIn"
+RadioWavs.files[3] = "BattleStationsTheDenialist"
+RadioWavs.files[4] = "DeathTrophyInferno"
+RadioWavs.files[5] = "GonersUKHarveyMilk"
+RadioWavs.files[6] = "BattleStationsStMartinsBlues"
+RadioWavs.files[7] = "PopViolenceLateToWork"
+RadioWavs.files[8] = "BattleStationsIfThisSongHadAName"
+RadioWavs.files[9] = "GonersUKPowerGlove"
+RadioWavs.files[10] = "PopViolenceCutMeLoose"
+RadioWavs.files[11] = "Azakaela_Umbra-01"
+RadioWavs.files[12] = "Azakaela_Umbra-02"
+RadioWavs.files[13] = "Azakaela_Umbra-03"
+RadioWavs.files[14] = "Azakaela_Umbra-04"
+RadioWavs.files[15] = "Azakaela_Umbra-05"
+RadioWavs.files[16] = "Azakaela_Umbra-06"
+RadioWavs.files[17] = "Azakaela_Umbra-07"
+RadioWavs.files[18] = "Azakaela_Umbra-08"
+RadioWavs.files[19] = "Azakaela_Umbra-09"
+RadioWavs.files[20] = "Azakaela_Umbra-10"
+RadioWavs.files[21] = "Azakaela_Umbra-11"
+RadioWavs.files[22] = "Azakaela_Umbra-12"
+RadioWavs.files[23] = "Azakaela_Umbra-13"
+RadioWavs.files[24] = "HalleysReturnLucy"
+RadioWavs.files[25] = "HalleysReturnHairofTheDog"
+RadioWavs.files[26] = "ZenitramJrRealDrugs"
+RadioWavs.files[27] = "GonersUKGrindKing"
+RadioWavs.files[28] = "DeathTrophyCrimePays"
+RadioWavs.files[29] = "ShotStereoOffTheGrid"
+RadioWavs.files[30] = "LiquidColorsCocoPah"
+RadioWavs.files[31] = "PopViolenceHappyDoomsday"
+RadioWavs.files[32] = "BattleStationsDistinguishingMarks"
+RadioWavs.files[33] = "ShotStereoHurricane"
+RadioWavs.files[34] = "CweneMarySadSackofCash"
+RadioWavs.files[35] = "CweneMary1959"
+RadioWavs.files[36] = "Azakaela_Umbra-14"
+RadioWavs.files[37] = "TheMaltLiqourShitzHoleInTheEarth"
+RadioWavs.files[38] = "CannibalisticVivisectionsSickInTheSink"
+RadioWavs.files[39] = "SolidarityServicePolkaDotBow"
+RadioWavs.files[40] = "HalleysReturnLady"
+RadioWavs.files[41] = "HollowtopsShitBox"
+RadioWavs.files[42] = "VincentPalafoxMountainDew"
+RadioWavs.files[43] = "ShotStereo109"
+RadioWavs.files[44] = "CweneMaryGraveyardShift"
+RadioWavs.files[45] = "TheRandallScottExperienceBlackWater"
+RadioWavs.files[46] = "CweneMaryTheTree"
+RadioWavs.files[47] = "PantherCarNonpareil"
+RadioWavs.files[48] = "HalleysReturnCausenFX"
+RadioWavs.files[49] = "KannabyssMoody"
+RadioWavs.files[50] = "Aza_Rimshot"
+RadioWavs.files[51] = "xxx"
+RadioWavs.files[52] = "custom1"
+RadioWavs.files[53] = "custom2"
+RadioWavs.files[54] = "custom3"
+RadioWavs.files[55] = "custom4"
+RadioWavs.files[56] = "custom5"
+RadioWavs.files[57] = "custom6"
+RadioWavs.files[58] = "custom7"
+RadioWavs.files[59] = "custom8"
+RadioWavs.files[60] = "custom9"
+RadioWavs.files[61] = "custom10"
+RadioWavs.files[62] = "custom11"
+RadioWavs.files[63] = "custom12"
+RadioWavs.files[64] = "custom13"
+RadioWavs.files[65] = "custom14"
+RadioWavs.files[66] = "xxx"
+RadioWavs.files[67] = "ZenitramJrSickAssCrystal"
+RadioWavs.files[68] = "HalleysReturnChaseTheSunGetOut"
+RadioWavs.files[69] = "HollowtopsSunshine"
+RadioWavs.files[70] = "ThePermiansHated"
+RadioWavs.files[71] = "3Miles2ClydeTrooper"
+RadioWavs.files[72] = "HollowtopsItsNothing"
+RadioWavs.files[73] = "GonersUKNewForeignPolicy"
+RadioWavs.files[74] = "BearSprayAkimboTheBloodSong"
+RadioWavs.files[75] = "VincentPalafoxGone"
+RadioWavs.files[76] = "TimmyAndTheTourettesSyndromeTheDitch"
+RadioWavs.files[77] = "TheDirtyDirtyTheDirtyDirty"
+RadioWavs.files[78] = "TheDirtyDirty7LayerDip"
+RadioWavs.files[79] = "AnacondaViseAlwaysGoOutOnBottomPart1"
+RadioWavs.files[80] = "TheDirtyDirtyRex"
+RadioWavs.files[81] = "BearSprayAkimboFleeting Baby"
+RadioWavs.files[82] = "ModernSonsCatapillerBlood"
+RadioWavs.files[83] = "ThePermiansWendigo"
+RadioWavs.files[84] = "HalleysReturnChaseTheSun"
+RadioWavs.files[85] = "LeafblowerParapraxis"
+RadioWavs.files[86] = "SATASeaMyth"
+RadioWavs.files[87] = "TheDirtyDirtyBirthofWhiskey"
+RadioWavs.files[88] = "LiquidColorsHannah"
+RadioWavs.files[89] = "ThePermiansRoom13"
+RadioWavs.files[90] = "HalleysReturnBloom"
+RadioWavs.files[91] = "LiquidColorsWolfstrokeCantBelieve"
+RadioWavs.files[92] = "Rev01"
+RadioWavs.files[93] = "Rev02"
+RadioWavs.files[94] = "Rev03"
+RadioWavs.files[95] = "Rev04"
+RadioWavs.files[96] = "Rev05"
+RadioWavs.files[97] = "Rev06"
+RadioWavs.files[98] = "Rev07"
+RadioWavs.files[99] = "Rev08"
+RadioWavs.files[100] = "Rev09"
+RadioWavs.files[101] = "Rev10"
+RadioWavs.files[102] = "xxx"
+RadioWavs.files[103] = "xxx"
+RadioWavs.files[104] = "xxx"
+RadioWavs.files[105] = "xxx"
+RadioWavs.files[106] = "xxx"
+RadioWavs.files[107] = "xxx"
+RadioWavs.files[108] = "xxx"
+RadioWavs.files[109] = "XXXX"
+RadioWavs.files[110] = "MoonlightSonata"
+RadioWavs.files[111] = "xxx"
+RadioWavs.files[112] = "WELCOMETOTVM"
+RadioWavs.files[113] = "azaFMP2_scene1_OutWest"
+RadioWavs.files[114] = "azaFMP2_town_Frontier"
+RadioWavs.files[115] = "azaFMP2_field3_OutForJustice"
+RadioWavs.files[116] = "azaFMP2_field1_SecretHorizon"
+RadioWavs.files[117] = "azaFMP2_field2_LawlessCountry"
+RadioWavs.files[118] = "azaFMP2_field7_Tumbleweeds"
+RadioWavs.files[119] = "azaFMP2_bossbattle1_Gunset"
+RadioWavs.files[120] = "azaFMP2_battle2_WeightInGold"
+RadioWavs.files[121] = "azaFMP2_scene6_CatAndMouse"
+RadioWavs.files[122] = "azaFMP2_town2_HoleInTheWall"
+RadioWavs.files[123] = "TheMiracle-01"
+RadioWavs.files[124] = "TheMiracle-02"
+RadioWavs.files[125] = "TheMiracle-03"
+RadioWavs.files[126] = "TheMiracle-04"
+RadioWavs.files[127] = "TheMiracle-05"
+RadioWavs.files[128] = "TheMiracle-06"
+RadioWavs.files[129] = "TheMiracle-07"
+RadioWavs.files[130] = "TheMiracle-08"
+RadioWavs.files[131] = "TheMiracle-09"
+RadioWavs.files[132] = "CftD01"
+RadioWavs.files[133] = "CftD02"
+RadioWavs.files[134] = "CftD03"
+RadioWavs.files[135] = "CftD04"
+RadioWavs.files[136] = "CftD05"
+RadioWavs.files[137] = "CftD06"
+RadioWavs.files[138] = "CftD07"
+RadioWavs.files[139] = "CftD08"
+RadioWavs.files[140] = "CftD09"
+RadioWavs.files[141] = "CftD10"
+RadioWavs.files[142] = "CftD11"
+RadioWavs.files[143] = "CftD12"
+RadioWavs.files[144] = "CftD13"
+RadioWavs.files[145] = "CftD14"
+RadioWavs.files[146] = "CftD15"
+RadioWavs.files[147] = "CftD16"
+RadioWavs.files[148] = "CftD17"
+RadioWavs.files[149] = "CftD18"
+RadioWavs.files[150] = "CftD19"
+RadioWavs.files[151] = "CftD20"
+RadioWavs.files[152] = "CftD21"
+RadioWavs.files[153] = "CftD22"
+RadioWavs.files[154] = "CftD23"
+RadioWavs.files[155] = "Abracadabra"
+RadioWavs.files[156] = "Africa"
+RadioWavs.files[157] = "Alive"
+RadioWavs.files[158] = "American Woman"
+RadioWavs.files[159] = "AmericanJesus"
+RadioWavs.files[160] = "CarryOnMyWaywardSon"
+RadioWavs.files[161] = "ComeAsYouAre"
+RadioWavs.files[162] = "CrazyOnYou"
+RadioWavs.files[163] = "Creep"
+RadioWavs.files[164] = "DangerZone"
+RadioWavs.files[165] = "DemonCleaner"
+RadioWavs.files[166] = "DontWorryBeHappy"
+RadioWavs.files[167] = "DoubleVision"
+RadioWavs.files[168] = "EnterSandman"
+RadioWavs.files[169] = "EyeOfTheTiger"
+RadioWavs.files[170] = "FarBehind"
+RadioWavs.files[171] = "FourtyOuncesToFreedom"
+RadioWavs.files[172] = "Frankenstein"
+RadioWavs.files[173] = "GimmeTheLoot"
+RadioWavs.files[174] = "HotelCalifornia"
+RadioWavs.files[175] = "HouseOfTheRisingSun"
+RadioWavs.files[176] = "HungryLikeTheWolf"
+RadioWavs.files[177] = "IHeardItThroughTheGrapevine"
+RadioWavs.files[178] = "IRan"
+RadioWavs.files[179] = "Kashmir"
+RadioWavs.files[180] = "LiveAndLetDie"
+RadioWavs.files[181] = "LosingMyReligion"
+RadioWavs.files[182] = "LowRider"
+RadioWavs.files[183] = "MamaSaidKnockYouOut"
+RadioWavs.files[184] = "ManInTheBox"
+RadioWavs.files[185] = "NimrodsSon"
+RadioWavs.files[186] = "Paranoid"
+RadioWavs.files[187] = "PersonalJesus"
+RadioWavs.files[188] = "RadarLove"
+RadioWavs.files[189] = "RebelYell"
+RadioWavs.files[190] = "RollWithIt"
+RadioWavs.files[191] = "Rooster"
+RadioWavs.files[192] = "Roxanne"
+RadioWavs.files[193] = "SafeFromHarm"
+RadioWavs.files[194] = "SeperateWays"
+RadioWavs.files[195] = "Shout"
+RadioWavs.files[196] = "SmokeOnTheWater"
+RadioWavs.files[197] = "Sober"
+RadioWavs.files[198] = "SomebodyToLove"
+RadioWavs.files[199] = "SundayBloodySunday"
+RadioWavs.files[200] = "SunglassesAtNight"
+RadioWavs.files[201] = "Superstition"
+RadioWavs.files[202] = "TaintedLove"
+RadioWavs.files[203] = "ThePot"
+RadioWavs.files[204] = "TodayWasAGoodDay"
+RadioWavs.files[205] = "TurnMeLoose"
+RadioWavs.files[206] = "Urgent"
+RadioWavs.files[207] = "War"
+RadioWavs.files[208] = "WarPigs"
+RadioWavs.files[209] = "WhereIsMyMind"
+RadioWavs.files[210] = "WholeLottaLove"
+RadioWavs.files[211] = "WishYouWereHere"
+RadioWavs.files[212] = "YouSpinMeRound"
+RadioWavs.files[213] = "FortunateSon"
+RadioWavs.files[214] = "SpiritInTheSkye"
+RadioWavs.files[215] = "Tarot1"
+RadioWavs.files[216] = "Tarot2"
+RadioWavs.files[217] = "Tarot3"
+RadioWavs.files[218] = "Tarot4"
+RadioWavs.files[219] = "Tarot5"
+RadioWavs.files[220] = "Tarot6"
+RadioWavs.files[221] = "Tarot7"
+RadioWavs.files[222] = "Tarot8"
+RadioWavs.files[223] = "Tarot9"
+RadioWavs.files[224] = "Tarot10"
+RadioWavs.files[225] = "Tarot11"
+RadioWavs.files[226] = "Tarot12"
+RadioWavs.files[227] = "Tarot13"
+RadioWavs.files[228] = "Tarot14"
+RadioWavs.files[229] = "Tarot15"
+RadioWavs.files[230] = "Tarot16"
+RadioWavs.files[231] = "Tarot17"
+RadioWavs.files[232] = "Tarot18"
+RadioWavs.files[233] = "Tarot19"
+RadioWavs.files[234] = "Tarot20"
+RadioWavs.files[235] = "Tarot21"
+RadioWavs.files[236] = "Tarot22"
+RadioWavs.files[237] = "Tarot23"
+RadioWavs.files[238] = "Tarot24"
+RadioWavs.files[239] = "Tarot25"
+RadioWavs.files[240] = "Tarot26"
+RadioWavs.files[241] = "CountryRoads"
+RadioWavs.files[242] = "FolsomPrisonBlues"
+RadioWavs.files[243] = "FriendsInLowPlaces"
+RadioWavs.files[244] = "Highwayman"
+RadioWavs.files[245] = "IfYouveGotTheMoney"
+RadioWavs.files[246] = "ItWontBeLong"
+RadioWavs.files[247] = "IWalkTheLine"
+RadioWavs.files[248] = "Jolene"
+RadioWavs.files[249] = "LoneStar"
+RadioWavs.files[250] = "ManOfConstantSorrow"
+RadioWavs.files[251] = "RunThroughTheJungle"
+RadioWavs.files[252] = "TheGambler"
+RadioWavs.files[253] = "WalkinAfterMidnight"
+RadioWavs.files[254] = "WhiskeyRiver"
+RadioWavs.files[255] = "YourCheatinHeart"
+RadioWavs.files[256] = "16Tons"
+RadioWavs.files[257] = "ABoyNamedSue"
+RadioWavs.files[258] = "Convoy"
+RadioWavs.files[259] = "CopperheadRoad"
+RadioWavs.files[260] = "CountryBoy"
+RadioWavs.files[261] = "DaddySangBass"
+RadioWavs.files[262] = "HonkyTonkMan"
+RadioWavs.files[263] = "MammasCowboys"
+RadioWavs.files[264] = "ManInBlack"
+RadioWavs.files[265] = "SimpleMan"
+RadioWavs.files[266] = "TheDevilWentDownToGeorgia"
+RadioWavs.files[267] = "TheGeneralLee"
+RadioWavs.files[268] = "WhiskeyBentAndHellBound"
+RadioWavs.files[269] = "BigBadJohn"
+RadioWavs.files[270] = "Cocaine_Blues"
+RadioWavs.files[271] = "Dont_Take_Your_Guns_to_Town"
+RadioWavs.files[272] = "Free_Bird"
+RadioWavs.files[273] = "Galveston"
+RadioWavs.files[274] = "Ghost_Riders_in_the_Sky"
+RadioWavs.files[275] = "Lonesome_Onry_and_Mean"
+RadioWavs.files[276] = "Mama_Tried"
+RadioWavs.files[277] = "My_Rifle_My_Pony_And_Me"
+RadioWavs.files[278] = "Simple_Man"
+RadioWavs.files[279] = "Smoke_Smoke_Smoke_That_Cigarette"
+RadioWavs.files[280] = "Southern_Nights"
+RadioWavs.files[281] = "Erin_01"
+RadioWavs.files[282] = "Erin_02"
+RadioWavs.files[283] = "Erin_03"
+RadioWavs.files[284] = "Erin_04"
+RadioWavs.files[285] = "Erin_05"
+RadioWavs.files[286] = "Erin_06"
+RadioWavs.files[287] = "Erin_07"
+RadioWavs.files[288] = "Erin_08"
+RadioWavs.files[289] = "Erin_09"
+RadioWavs.files[290] = "Erin_10"
+RadioWavs.files[291] = "Erin_11"
+RadioWavs.files[292] = "Erin_12"
+RadioWavs.files[293] = "Erin_13"
+RadioWavs.files[294] = "Erin_14"
+RadioWavs.files[295] = "Erin_15"
+RadioWavs.files[296] = "Erin_16"
+RadioWavs.files[297] = "Erin_17"
+RadioWavs.files[298] = "Erin_18"
+RadioWavs.files[299] = "Erin_19"
+RadioWavs.files[300] = "Erin_20"
+RadioWavs.files[301] = "Erin_21"
+RadioWavs.files[302] = "Erin_22"
+RadioWavs.files[303] = "Erin_23"
+RadioWavs.files[304] = "ErinSignOff"
+RadioWavs.files[305] = "Echo_01"
+RadioWavs.files[306] = "Echo_02"
+RadioWavs.files[307] = "Echo_03"
+RadioWavs.files[308] = "Echo_04"
+RadioWavs.files[309] = "Echo_05"
+RadioWavs.files[310] = "Echo_06"
+RadioWavs.files[311] = "Echo_07"
+RadioWavs.files[312] = "Echo_08"
+RadioWavs.files[313] = "Echo_09"
+RadioWavs.files[314] = "Echo_10"
+RadioWavs.files[315] = "KyleDeath"
+RadioWavs.files[316] = "CTFD_Secret"
 
-RadioWavs.stopSoundNumber = -1		-- number that triggers sounds to stop
-RadioWavs.cacheSize = 10;			-- sound id's to keep in cache
+RadioWavs.cacheSize = 10			-- number of devices to keep in cache
+
 
 ------------------------------------------------------------------------------------
 -- PLAY NEW SONG
@@ -144,11 +374,13 @@ function RadioWavs.PlaySound(number, device)
     sound:play( RadioWavs.files[number] )
 
 
-    local t = {}
+    t = t or {}
     t.device = device
     t.deviceData = deviceData
     t.channel = deviceData:getChannel()
     t.sound = sound
+
+    tickCounter2 = 200
 
     table.insert( RadioWavs.soundCache, 1, t )
     if #RadioWavs.soundCache>RadioWavs.cacheSize then
@@ -203,7 +435,7 @@ function RadioWavs.AddOverrides()
             if t.deviceData:getIsTurnedOn() and t.deviceData:getChannel() == t.channel then
                 t.muted = false
             else
-                t.muted = true -- mute radio instead of stopping it, so we turn it back on
+                t.muted = true -- mute sound instead of stopping it, so we can turn it back on
             end
             RadioWavs.updateVolume(t)
         end
@@ -213,10 +445,10 @@ function RadioWavs.AddOverrides()
     function ISRadioAction:performSetChannel()
         local t = RadioWavs.getData(self.deviceData)
         if t then
-            if t.channel == self.secondaryItem then -- switching back to chanel
+            if t.channel == self.secondaryItem then -- switching back to saved channel
                 t.muted = false
             else
-                t.muted = true -- mute radio instead of stopping it, so we switch back to the channel
+                t.muted = true -- mute sound instead of stopping it, so we can switch back to the channel
             end
             RadioWavs.updateVolume(t)
         end
@@ -262,12 +494,13 @@ Events.OnGameStart.Add(RadioWavs.AddOverrides)
 
 
 ------------------------------------------------------------------------------------
--- ADJUST SOUND VOLUMES BASED ON DISTANCE
+-- ADJUST SOUNDS BASED ON DISTANCE/STATE
 ------------------------------------------------------------------------------------
 
 
 local minRange = 5
 local maxRange = 50
+local p = nil
 local X = 0
 local Y = 0
 local vehicleEmitter = nil
@@ -275,22 +508,25 @@ local dropoffRange = 0
 local volumeModifier = 0
 local distanceToRadio = 0
 local finalVolume = 0
-local highestVolume = 0
 local tickCounter1 = 0
 local tickCounter2 = 0
 
-function RadioWavs.adjustSoundRanges()
-    if tickCounter2 < 20 then 
-        tickCounter2=tickCounter2+1 
+function RadioWavs.adjustSounds()
+    -- TODO: tickrates depend on framerate. find something time-based instead
+    if tickCounter2 < 1000 then 
+        tickCounter2=tickCounter2+1
     else
+        p = getPlayer()
+        X = p:getX()
+        Y = p:getY()
+        --attract zombies
         for _,t in ipairs(RadioWavs.soundCache) do
-            if RadioWavs.isPlaying(t) and t.deviceData:getHeadphoneType() ~= -1 then
-                local range = t.deviceData:getDeviceVolume() * t.sound.volumeModifier * maxRange
-                if t.deviceData:isInventoryDevice() then
-                    local p = getPlayer()
-                    addSound(p, p:getX(), p:getY(), p:getZ(), range/2, range)
+            if RadioWavs.isPlaying(t) and t.deviceData:getHeadphoneType() == -1 and t.device == t.deviceData:getParent() then
+                local range = t.deviceData:getDeviceVolume() * t.sound.volumeModifier*2.5 * maxRange
+                if t.deviceData:isInventoryDevice() or t.deviceData:isVehicleDevice() then
+                    addSound(p, X, Y, p:getZ(), range/4, range/2)
                 else
-                    addSound(t.device, t.device:getX(), t.device:getY(), t.device:getZ(), range/2, range) 
+                    addSound(t.device, t.device:getX()+0.5, t.device:getY()+0.5, t.device:getZ(), range/4, range/2) 
                 end
             end
         end
@@ -299,12 +535,36 @@ function RadioWavs.adjustSoundRanges()
     if tickCounter1 < 5 then tickCounter1=tickCounter1+1 return end
     tickCounter1 = 0
 
-    X = getPlayer():getX()
-    Y = getPlayer():getY()
-    vehicleEmitter = nil 
+
+    p = getPlayer()
+    X = p:getX()
+    Y = p:getY()
     highestVolume = 0
-    if getPlayer():getVehicle() then vehicleEmitter = getPlayer():getVehicle():getEmitter() end
-    for _,t in ipairs(RadioWavs.soundCache) do
+    for _,t in ipairs(RadioWavs.soundCache) do        
+        -- sync states
+        if t.sound and t.sound:isPlaying() then
+            if not t.deviceData:isVehicleDevice() and t.device ~= t.deviceData:getParent() then 
+                -- device object changed, this happens when the player picks up or places objects. no idea what's up with car radios
+                t.device = t.deviceData:getParent() -- update our device reference
+                if t.deviceData:isInventoryDevice() then
+                    t.sound:set3D(false)
+                else
+                    t.sound:setPosAtObject(t.device)
+                end
+            end
+            if t.deviceData:isInventoryDevice() and t.deviceData:getIsTurnedOn() and t.device:getType() ~= "CDplayer" then -- make an exception for CDplayer
+                if t.device ~= p:getPrimaryHandItem() and t.device ~= p:getSecondaryHandItem() then -- devices only work if equipped & should be switched off otherwise
+                    t.deviceData:setIsTurnedOn(false) -- turn device off in case zomboid didn't do so
+                elseif t.deviceData:getIsTelevision() then
+                    t.deviceData:setIsTurnedOn(false) -- always turn off tele because it's unplugged
+                end
+            end
+            if not t.deviceData:getIsTurnedOn() and not t.muted then -- device was switched off without player action
+                t.muted = true -- sync sound accordingly
+                RadioWavs.updateVolume(t)
+            end
+        end
+        --adjust volume based on distance
         if RadioWavs.isPlaying(t) then
             if t.deviceData:isInventoryDevice() then
                 highestVolume = 1
@@ -321,14 +581,20 @@ function RadioWavs.adjustSoundRanges()
             end
         end
     end
+    --adjust Zomboid music volume
     local optionsVolume = getCore():getOptionMusicVolume()/10
-    local optionsVolumeModified = optionsVolume - optionsVolume*highestVolume*5
+    local optionsVolumeModified = optionsVolume - optionsVolume*highestVolume*10
     if optionsVolumeModified < 0 then optionsVolumeModified = 0 end
     getSoundManager():setMusicVolume(optionsVolumeModified)
 end
-Events.OnTick.Add( RadioWavs.adjustSoundRanges )
+Events.OnTick.Add( RadioWavs.adjustSounds )
 
 
+function RadioWavs.OnMainMenuEnter()
+    --reset Zomboid music volume again
+    getSoundManager():setMusicVolume( getCore():getOptionMusicVolume()/10 )
+end
+Events.OnMainMenuEnter.Add( RadioWavs.OnMainMenuEnter )
 
 ------------------------------------------------------------------------------------
 -- VARIOUS
