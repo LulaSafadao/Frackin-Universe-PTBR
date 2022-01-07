@@ -34,20 +34,19 @@ function SoundFX:play(sound)
     local gameSound = GameSounds.getSound(sound)
     local gameSoundClip = gameSound:getRandomClip()
     self.id = self.emitter:playClip(gameSoundClip, nil)
-    if not hadId then
-        self.emitter:setVolume(self.id, self.volume * self.volumeModifier)
-        self.emitter:set3D(self.id, self.sound3D)
-    end
+    self.emitter:setVolume(self.id, self.volume * self.volumeModifier)
+    self.emitter:set3D(self.id, self.sound3D)
     self.emitter:tick()
 end
 function SoundFX:stop()
-    if self.emitter then
-        self.emitter:stopAll()
+    if self.emitter and self.id then
+        self.emitter:stopSound(self.id)
     end
     self.id = nil
 end
 
 function SoundFX:isPlaying()
+    if not self.id then return false end
     return self.emitter and self.emitter:isPlaying(self.id)
 end
 
