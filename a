@@ -1,0 +1,367 @@
+require "SoundFX/SoundFX"
+
+
+RadioWavs = {}
+
+RadioWavs.soundCache = {}
+
+RadioWavs.files = {}
+
+RadioWavs.files[1] = "Nofundodagrota"
+RadioWavs.files[2] = "Viravira"
+RadioWavs.files[3] = "Mundoanimal"
+RadioWavs.files[4] = "Peladosemsantos"
+RadioWavs.files[5] = "Chopiscentis"
+RadioWavs.files[6] = "Umaarlindamulher"
+RadioWavs.files[7] = "Robocopgay"
+RadioWavs.files[8] = "1406"
+RadioWavs.files[9] = "Lavemoalemao"
+RadioWavs.files[10] = "Boisdontcry"
+RadioWavs.files[11] = "Jumentocelestino"
+RadioWavs.files[12] = "Daquelafoda"
+RadioWavs.files[13] = "Metraiucomumburro"
+RadioWavs.files[14] = "Apresentacao1"
+RadioWavs.files[15] = "Apresentacao2"
+RadioWavs.files[16] = "Feiticeira"
+RadioWavs.files[17] = "Minhaputa"
+RadioWavs.files[18] = "Bundao"
+RadioWavs.files[19] = "Dasemdo"
+RadioWavs.files[20] = "Esqueceessabichona"
+RadioWavs.files[21] = "Estupradora"
+RadioWavs.files[22] = "Eusoufudido"
+RadioWavs.files[23] = "Filhodebuceteiro"
+RadioWavs.files[24] = "Fiodepentelho"
+RadioWavs.files[25] = "Garanhao"
+RadioWavs.files[26] = "Mulherpeidona"
+RadioWavs.files[27] = "Naoquismedar"
+RadioWavs.files[28] = "Cuazul"
+RadioWavs.files[29] = "Sooscornossabem"
+RadioWavs.files[30] = "Eissoai"
+RadioWavs.files[31] = "Essavacaeubeijo"
+RadioWavs.files[32] = "Comlagrimaseutecomi"
+RadioWavs.files[33] = "Avelhaeokadett"
+RadioWavs.files[34] = "Encheumeupaudebosta"
+RadioWavs.files[35] = "Lambemeuovoesquerdo"
+RadioWavs.files[36] = "Quemnaoquersoueu"
+RadioWavs.files[37] = "Amigadaminhamulher"
+RadioWavs.files[38] = "Burguesinha"
+RadioWavs.files[39] = "Carolina"
+RadioWavs.files[40] = "Felicidade"
+RadioWavs.files[41] = "Saogonca"
+RadioWavs.files[42] = "Seuolhar"
+RadioWavs.files[43] = "Tiverazao"
+RadioWavs.files[44] = "Minadocondominio"
+RadioWavs.files[45] = "Cerolnamao"
+RadioWavs.files[46] = "Donagigi"
+RadioWavs.files[47] = "Eusoqueroeserfeliz"
+RadioWavs.files[48] = "Erasomaisumsilva"
+RadioWavs.files[49] = "Glamurosa"
+RadioWavs.files[50] = "Clubedochifre"
+RadioWavs.files[51] = "Cornomoderno"
+RadioWavs.files[52] = "Semmulhernaodar"
+RadioWavs.files[53] = "Chicopunheteiro"
+RadioWavs.files[54] = "Milongadowebnamoro"
+RadioWavs.files[55] = "Sossega"
+RadioWavs.files[56] = "Rapdasarmas"
+RadioWavs.files[57] = "Rapdosolitario"
+RadioWavs.files[58] = "Lugaraosol"
+RadioWavs.files[59] = "Tamoainaatividade"
+RadioWavs.files[60] = "Lutarpeloqueemeu"
+RadioWavs.files[61] = "Naousosapato"
+RadioWavs.files[62] = "Aquelapaz"
+RadioWavs.files[63] = "Diasdeluta"
+RadioWavs.files[64] = "Elavaivoltar"
+RadioWavs.files[65] = "Viciosevirtudes"
+RadioWavs.files[66] = "Livreparavoar"
+RadioWavs.files[67] = "Deusdeisrael"
+RadioWavs.files[68] = "Naovireascostaspramim"
+RadioWavs.files[69] = "Senhordotempo"
+RadioWavs.files[70] = "Televar"
+RadioWavs.files[71] = "Boquinhadelata"
+RadioWavs.files[72] = "Boiolamadeinbrazil"
+RadioWavs.files[73] = "Sentei"
+RadioWavs.files[74] = "Jeitodeboneca"
+RadioWavs.files[75] = "Matutinha"
+RadioWavs.files[76] = "Caminhoneiro"
+RadioWavs.files[77] = "Vaisentando"
+RadioWavs.files[78] = "Orgiadetraveco"
+RadioWavs.files[79] = "Danadadavizinha"
+RadioWavs.files[80] = "Trepadaemcuiaba"
+RadioWavs.files[81] = "Ragatanga"
+RadioWavs.files[82] = "Toctoc"
+RadioWavs.files[83] = "Absoluto"
+RadioWavs.files[84] = "Deusnaoteesqueceu"
+RadioWavs.files[85] = "Sorrisosretornam"
+RadioWavs.files[86] = "Horadevencer"
+
+RadioWavs.stopSoundNumber = -1		-- number that triggers sounds to stop
+RadioWavs.cacheSize = 10;			-- sound id's to keep in cache
+
+------------------------------------------------------------------------------------
+-- PLAY NEW SONG
+------------------------------------------------------------------------------------
+
+
+function RadioWavs.PlaySound(number, device)
+    if not RadioWavs.files[number] then
+        print("RadioWavs mod ERROR: sound number "..number.." not found!")
+        return
+    end
+
+    local deviceData = device:getDeviceData()
+    local sound = nil
+    local t = RadioWavs.getData(deviceData)
+    if t then
+        sound = t.sound
+    else
+        sound = SoundFX:new()
+    end
+
+    if deviceData:isInventoryDevice() then
+        sound:set3D(false)
+        sound:setVolumeModifier(0.4)
+    elseif deviceData:isIsoDevice() then
+        sound:setPosAtObject(device)
+        sound:setVolumeModifier(0.4)
+    elseif deviceData:isVehicleDevice() then
+        local vehiclePart = deviceData:getParent()
+        if vehiclePart then
+            local vehicle = vehiclePart:getVehicle()
+            if vehicle then
+                sound:setEmitter( vehicle:getEmitter() ) -- use car's emitter, car radios don't have one
+                if vehicle == getPlayer():getVehicle() then -- player is in the car
+                    sound:set3D(false)
+                    sound:setVolumeModifier(0.4)
+                else
+                    sound:set3D(true)
+                    sound:setVolumeModifier(0.1)
+                end
+            end
+        end
+    end
+
+    sound:setVolume( deviceData:getDeviceVolume() )
+    sound:play( RadioWavs.files[number] )
+
+
+    local t = {}
+    t.device = device
+    t.deviceData = deviceData
+    t.channel = deviceData:getChannel()
+    t.sound = sound
+
+    table.insert( RadioWavs.soundCache, 1, t )
+    if #RadioWavs.soundCache>RadioWavs.cacheSize then
+        for i=RadioWavs.cacheSize+1,#RadioWavs.soundCache do
+            table.remove(RadioWavs.soundCache,i)
+        end
+    end
+
+    return t
+end
+
+
+function RadioWavs.split(str,sep)
+    local sep, fields = sep or ":", {}
+    local pattern = string.format("([^%s]+)", sep)
+    str:gsub(pattern, function(c) fields[#fields+1] = c end)
+    return fields
+end
+function RadioWavs.OnDeviceText(_interactCodes, _x, _y, _z, _line, _source)
+	local codes = RadioWavs.split(_interactCodes, ",")
+    local rData = _source:getDeviceData()
+    for _,_v in ipairs(codes) do
+        if _v:len() > 4 then
+            local code = string.sub(_v, 1, 3)
+            local op = string.sub(_v, 4, 4)
+            local amount = tonumber(string.sub(_v, 5, _v:len()))
+            if op=="-" then
+            	amount = -amount
+        	end
+            if amount ~= nil and amount > 0 and code=="DRU" then
+                RadioWavs.PlaySound(amount, _source)
+            end
+        end
+    end
+end
+Events.OnDeviceText.Add( RadioWavs.OnDeviceText )
+
+
+
+------------------------------------------------------------------------------------
+-- INTERACTION OVERRIDES
+------------------------------------------------------------------------------------
+
+
+function RadioWavs.AddOverrides()
+
+    local ISRadioAction_performToggleOnOff = ISRadioAction.performToggleOnOff
+    function ISRadioAction:performToggleOnOff()
+        ISRadioAction_performToggleOnOff(self)
+        local t = RadioWavs.getData(self.deviceData)
+        if t then
+            if t.deviceData:getIsTurnedOn() and t.deviceData:getChannel() == t.channel then
+                t.muted = false
+            else
+                t.muted = true -- mute radio instead of stopping it, so we turn it back on
+            end
+            RadioWavs.updateVolume(t)
+        end
+    end
+    
+    local ISRadioAction_performSetChannel = ISRadioAction.performSetChannel
+    function ISRadioAction:performSetChannel()
+        local t = RadioWavs.getData(self.deviceData)
+        if t then
+            if t.channel == self.secondaryItem then -- switching back to chanel
+                t.muted = false
+            else
+                t.muted = true -- mute radio instead of stopping it, so we switch back to the channel
+            end
+            RadioWavs.updateVolume(t)
+        end
+        ISRadioAction_performSetChannel(self)
+    end
+    
+    local ISRadioAction_performSetVolume = ISRadioAction.performSetVolume
+    function ISRadioAction:performSetVolume()
+        if self:isValidSetVolume() then
+            ISRadioAction_performSetVolume(self)
+            local t = RadioWavs.getData(self.deviceData)
+            if t then
+                RadioWavs.updateVolume(t)
+            end
+        end
+    end
+
+
+    local ISEnterVehicle_perform = ISEnterVehicle.perform
+    function ISEnterVehicle:perform()
+        ISEnterVehicle_perform(self)
+        local t = RadioWavs.getEmitter( self.character:getVehicle():getEmitter() )
+        if t then
+            t.sound:setVolumeModifier(0.4)
+            t.sound:set3D(false) -- no 3d sound while in car, it sounds glitchy
+            RadioWavs.updateVolume(t)
+        end
+    end
+    
+    local ISExitVehicle_perform = ISExitVehicle.perform
+    function ISExitVehicle:perform()
+        local t = RadioWavs.getEmitter( self.character:getVehicle():getEmitter() )
+        if t then
+            t.sound:setVolumeModifier(0.1)
+            t.sound:set3D(true)
+            RadioWavs.updateVolume(t)
+        end
+        ISExitVehicle_perform(self)
+    end
+end
+Events.OnGameStart.Add(RadioWavs.AddOverrides)
+
+
+
+------------------------------------------------------------------------------------
+-- ADJUST SOUND VOLUMES BASED ON DISTANCE
+------------------------------------------------------------------------------------
+
+
+local minRange = 5
+local maxRange = 50
+local X = 0
+local Y = 0
+local vehicleEmitter = nil
+local dropoffRange = 0
+local volumeModifier = 0
+local distanceToRadio = 0
+local finalVolume = 0
+local highestVolume = 0
+local tickCounter1 = 0
+local tickCounter2 = 0
+
+function RadioWavs.adjustSoundRanges()
+    if tickCounter2 < 20 then 
+        tickCounter2=tickCounter2+1 
+    else
+        for _,t in ipairs(RadioWavs.soundCache) do
+            if RadioWavs.isPlaying(t) and t.deviceData:getHeadphoneType() ~= -1 then
+                local range = t.deviceData:getDeviceVolume() * t.sound.volumeModifier * maxRange
+                if t.deviceData:isInventoryDevice() then
+                    local p = getPlayer()
+                    addSound(p, p:getX(), p:getY(), p:getZ(), range/2, range)
+                else
+                    addSound(t.device, t.device:getX(), t.device:getY(), t.device:getZ(), range/2, range) 
+                end
+            end
+        end
+        tickCounter2 = 0
+    end
+    if tickCounter1 < 5 then tickCounter1=tickCounter1+1 return end
+    tickCounter1 = 0
+
+    X = getPlayer():getX()
+    Y = getPlayer():getY()
+    vehicleEmitter = nil 
+    highestVolume = 0
+    if getPlayer():getVehicle() then vehicleEmitter = getPlayer():getVehicle():getEmitter() end
+    for _,t in ipairs(RadioWavs.soundCache) do
+        if RadioWavs.isPlaying(t) then
+            if t.deviceData:isInventoryDevice() then
+                highestVolume = 1
+            else
+                distanceToRadio = IsoUtils.DistanceManhatten(t.device:getX(), t.device:getY(), X, Y)
+                if distanceToRadio < maxRange then
+                    dropoffRange = (maxRange-minRange)*0.2 + t.deviceData:getDeviceVolume() * t.sound.volumeModifier*2.5 * (maxRange-minRange)*0.8
+                    volumeModifier = (minRange + dropoffRange - distanceToRadio) / dropoffRange
+                    if volumeModifier < 0 then volumeModifier = 0 end
+                    t.sound:setVolume(t.deviceData:getDeviceVolume() * volumeModifier)
+                    finalVolume = t.deviceData:getDeviceVolume() * t.sound.volumeModifier * volumeModifier
+                    if finalVolume > highestVolume then highestVolume = finalVolume end
+                end
+            end
+        end
+    end
+    local optionsVolume = getCore():getOptionMusicVolume()/10
+    local optionsVolumeModified = optionsVolume - optionsVolume*highestVolume*5
+    if optionsVolumeModified < 0 then optionsVolumeModified = 0 end
+    getSoundManager():setMusicVolume(optionsVolumeModified)
+end
+Events.OnTick.Add( RadioWavs.adjustSoundRanges )
+
+
+
+------------------------------------------------------------------------------------
+-- VARIOUS
+------------------------------------------------------------------------------------
+
+
+function RadioWavs.updateVolume(t)
+    if not t.muted then
+        t.sound:setVolume( t.deviceData:getDeviceVolume() )
+    else
+        t.sound:setVolume(0)
+    end
+end
+
+function RadioWavs.isPlaying(t)
+    if not t.deviceData:getIsTurnedOn() then return false end
+    if t.muted then return false end
+    if t.sound and t.sound:isPlaying() then return true end
+
+    return false
+end
+
+function RadioWavs.getData(deviceData)
+    for _,t in ipairs(RadioWavs.soundCache) do
+        if t.deviceData == deviceData then
+            return t
+        end
+    end
+end
+function RadioWavs.getEmitter(emitter)
+    for _,t in ipairs(RadioWavs.soundCache) do
+        if t.sound.emitter == emitter then
+            return t
+        end
+    end
+end
