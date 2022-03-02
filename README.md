@@ -1,7 +1,7 @@
 # Frackin-Universe-PTBR
 Tradução do Frackin Universe
 
-6.1.362
+6.1.34
 
 ATUALIZAR:
 
