@@ -169,6 +169,69 @@
     "path": "/ffbiomeheatcavern/text",
     "op": "replace"
   },
-
-
+  {
+    "value": "^red;WARNING! RADIATION DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "path": "/ffbiomedeadlyheat/text",
+    "op": "replace"
+  },
+  {
+    "value": "It may be worth noting that this celestial body has no atmosphere and you will die without some sort of oxygen source.",
+    "path": "/biomeairless/text",
+    "op": "replace"
+  },
+  {
+    "value": "^red;WARNING! RADIATION DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "path": "/ffbiomeradiation/text",
+    "op": "replace"
+  },
+  {
+    "value": "^red;WARNING! EXTREME COLD DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "path": "/ffbiomecold/text",
+    "op": "replace"
+  },
+  {
+    "value": "^red;WARNING! EXTREME HEAT DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "path": "/ffbiomeheat/text",
+    "op": "replace"
+  },
+  {
+    "value": "^red;WARNING! POISON ATMOSPHERE DETECTED ^reset;! With ^green;Proto-Poison protection^reset; you'll be fine. Otherwise, Proto poison slowly drains your vitality. Poison resistance reduces or nullifies the effects.",
+    "path": "/ffbiomeproto/text",
+    "op": "replace"
+  },
+  {
+    "value": "^red;WARNING! SULPHURIC ATMOSPHERE DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "path": "/ffbiomesulphuric/text",
+    "op": "replace"
+  },
+  {
+    "value": "^red;WARNING! SULPHURIC STORM^reset;! A deadly Sulphuric storm is brewing! Get to shelter as soon as possible unless you have protection against Sulphuric Acid. You will otherwise die rather rapidly.",
+    "path": "/ffbiomesulphuricstorm/text",
+    "op": "replace"
+  },
+  {
+    "value": "^red;WARNING! COSMIC ENERGY DETECTED ^reset;! Some sort of protection from cosmic damage would help a great deal. This energy appears to decrease energy regeneration rates.",
+    "path": "/ffbiomeaether/text",
+    "op": "replace"
+  },
+  {
+    "value": "As night falls, the effects of the cosmic energy permeating this planet seem to increase in severity. Somehow, the sun holds the worst of these effects at bay.",
+    "path": "/ffbiomeaethernight/text",
+    "op": "replace"
+  },
+  {
+    "value": "^green;Excellent^reset;! You have remembered how to spawn X'i Bulbs. With them you can craft many things in your [C] menu, or use them for other purposes unique to the X'i.",
+    "path": "/radienmsg/text",
+    "op": "replace"
+  },
+  {
+    "value": "^red;TOXINS DETECTED ^reset;: While I am sure that *looked* delicious, I regret to inform you that this type of food ^orange;cannot be digested by your physiology^reset;. Avoid foods like this in the future.",
+    "path": "/foodtype/text",
+    "op": "replace"
+  },
+  {
+    "value": "^red;RADIOACTIVE MATERIAL DETECTED ^reset;: You just ate potentially lethal radioactive isotopes. Your chance of painful death has increased by 99.72%.",
+    "path": "/foodtyperad/text",
+    "op": "replace"
+  }
 ]
