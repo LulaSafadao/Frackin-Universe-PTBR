@@ -5,22 +5,22 @@
 {"path":"/techconsole/text","value":"O console nesta sala esta configurado para alterar as Tecnologias das habilidades que voc\u00ea tem equipado. Interagindo com ele ir\u00e1 permitir que voc\u00ea instale uma nova Tecnologia.","op":"replace"},
 
   {
-    "value": "In ^blue;Frackin Universe^reset;, nearly everything you can make on an anvil can also be made with an ^orange;Armorworks^reset;. The anvil is still great for decoration though!",
+    "value": "Em ^blue;Frackin Universe^reset;, quase tudo que voc\u00EA pode fazer em uma anvil tamb\u00E9m poder\u00E1 ser feito com a ^orange;Armorworks^reset;. Mas a anvil ainda \u00E9 \u00F3tima para decora\u00E7\u00E3o!",
     "path": "/pickupAnvil/text",
     "op": "replace"
   },
   {
-    "value": "Wood is absolutely essential to your early survival. You'll be able to craft ^orange;Basic Weapons^reset; and gear with your bare hands. I recommend a ^green;Primitive Spear^reset; to start with. ^orange;Research^reset; other uses for wood in your ^orange;Personal Tricorder^reset;.",
+    "value": "A madeira \u00E9 essencial para sua sobreviv\u00EAncia. Voc\u00EA ser\u00E1 capaz de fabricar ^orange;Armas B\u00E1sicas^reset; e equipamentos com suas pr\u00F3prias m\u00E3os. Eu recomendo criar ^green;Primitive Spear^reset; no come\u00E7o do jogo. ^orange;Pesquise^reset; outros recursos para a madeira no seu ^orange;Personal Tricorder^reset;.",
     "path": "/pickupWood/text",
     "op": "replace"
   },
   {
-    "value": "Shields are a useful defensive tool. If you time blocks well, you can ^orange;Shield Bash^reset; (^green;stuns, knocks back enemies and does damage^reset;). Some species get great bonuses for ^orange;perfectly timed blocks^reset;, too.",
+    "value": "Os escudos s\u00E3o \u00FAteis pra te proteger. Se voc\u00EA bloquear bem a tempo, voc\u00EA pode dar ^orange;Shield Bash^reset; (^green;atordoa, derruba inimigos e recebem dano^reset;). Algumas esp\u00E9cies recebem grandes b\u00F4nus por ^orange;bloquear no tempo perfeito^reset;, tamb\u00E9m.",
     "path": "/pickupshield/text",
     "op": "replace"
   },
   {
-    "value": "^red;Remember:^reset; You can't heal like carbon-based life does. You're going to need to rely on your natural abilities, ^green;edible isotopes^reset; and ^green;reactive gels^reset;. You will need access to ^green;Algae^reset; in order to make these gels. Build a ^orange;Greenhouse^reset; to get started.",
+    "value": "^red;Lembre-se:^reset; Voc\u00EA n\u00E3o pode se curar s\u00F3 com isso. Voc\u00EA vai precisar confiar em suas habilidades naturais, ^green;is\u00F3topos comest\u00EDveis^reset; e ^green;reactive gels^reset;. Voc\u00EA precisar\u00E1 pesquisar a ^green;Alga^reset; para fazer estes g\u00E9is. Construa uma ^orange;Greenhouse^reset; para come\u00E7ar.",
     "path": "/radienhealing/text",
     "op": "replace"
   },
