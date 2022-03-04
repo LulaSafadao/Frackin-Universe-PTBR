@@ -10,7 +10,7 @@
     "op": "replace"
   },
   {
-    "value": "A madeira \u00E9 essencial para sua sobreviv\u00EAncia. Voc\u00EA ser\u00E1 capaz de fabricar ^orange;Armas B\u00E1sicas^reset; e equipamentos com suas pr\u00F3prias m\u00E3os. Eu recomendo criar ^green;Primitive Spear^reset; no come\u00E7o do jogo. ^orange;Pesquise^reset; outros recursos para a madeira no seu ^orange;Personal Tricorder^reset;.",
+    "value": "A madeira \u00E9 essencial para sua sobreviv\u00EAencia. Voc\u00EA ser\u00E1 capaz de fabricar ^orange;Armas B\u00E1sicas^reset; e equipamentos com suas pr\u00F3prias m\u00E3os. Eu recomendo criar ^green;Primitive Spear^reset; no come\u00E7o do jogo. ^orange;Pesquise^reset; outros recursos para a madeira no seu ^orange;Personal Tricorder^reset;.",
     "path": "/pickupWood/text",
     "op": "replace"
   },
@@ -25,62 +25,62 @@
     "op": "replace"
   },
   {
-    "value": "^red;WARNING: PIRATE SIGNAL DETECTED ^reset;! This appears to be a raiding ship under the control of the Wrexor Nar. These vicious cyborgs are among the most feared of raider factions in the galaxy. Tread carefully.",
+    "value": "^red;AVISO: SINAL PIRATA DETECTADO ^reset;! Essa parece ser uma nave invasora sob controle de Wrexor Nar. Esses ciborgues cruéis estão entre as facções de invasores mais temidas da galáxia. Tenha cuidado",
     "path": "/wrexornar/text",
     "op": "replace"
   },
   {
-    "value": "^red;WARNING: HEAT WAVE ^reset;! The climate is spiking in temperature, resulting in extra exertion from movement. You'll be hungry a bit faster, and gradually lose health.",
+    "value": "^red;AVISO: ONDE DE CALOR ^reset;! O clima está aumentando de temperatura, resultando em esforço extra na movimentação. Você ficará faminto mais rápido, e gradualmente perderá vida.",
     "path": "/ffbiomegenericheat/text",
     "op": "replace"
   },
   {
-    "value": "^red;WARNING: FREEZING ^reset;! It suddenly got exceptionally cold! Be careful, and keep warm!",
+    "value": "^red;AVISO: CONGELANDO ^reset;! De repente ficou excepcionalmente frio! tenha cuidado, e mantenha-se aquecido!",
     "path": "/ffbiomegenericcold/text",
     "op": "replace"
   },
   {
-    "value": "^red;WARNING: POISONOUS CLOUDS ^reset;! Poisonous clouds are blowing in the wind, which will weaken and eventually kill you. Seek shelter or find some measure of protection.",
+    "value": "^red;AVISO: NUVENS VENENOSAS ^reset;! Nuvens venenosas estão soprando no vento, que irá enfraquecer e, eventualmente, matá-lo. busque abrigo ou encontre alguma medida de segurança.",
     "path": "/ffbiomegenericpoison/text",
     "op": "replace"
   },
   {
-    "value": "^red;WARNING: ELECTRICAL STORM ^reset;! A sudden electrical storm has broken out, which will affect your energy supply. There's also the threat of being struck by a blast. Take shelter underground.",
+    "value": "^red;AVISO: TEMPESTADE ELETRICA ^reset;! uma tempestade eletrica repentina chegou, a qual afetará seu suprimento de energia. há também o risco de ser atingido por uma descarga. abrigue-se no subsolo.",
     "path": "/ffbiomegenericelectric/text",
     "op": "replace"
   },
   {
-    "value": "^red;WARNING: RADIATION STORM ^reset;! Sudden winds have blown in a radiation cloud from somewhere else on this world. Take precautions.",
+    "value": "^red;AVISO: TEMPESTADE RADIOATIVA ^reset;! Ventos repentinos sopraram numa nuvem de radiação de algum outro lugar deste mundo. Tome precauções.",
     "path": "/ffbiomegenericradiation/text",
     "op": "replace"
   },
   {
-    "value": "^red;WARNING: COLD ^reset;! While not absolutely freezing, this world is chilly and brisk. Nights are colder, and water could be dangerous to swim in. Wear cold protection.",
+    "value": "^red;AVISO: FRIO ^reset;! Embora não seja absolutamente congelante, este mundo é frio e vivo. As noites são mais frias e a água pode ser perigosa para nadar. Use proteção contra o frio.",
     "path": "/ffbiomegenericmildcold/text",
     "op": "replace"
   },
   {
-    "value": "^red;WARNING: ELECTRICAL STORM ^reset;! A nasty electric storm is picking up. The charge in the air will interfere with your energy supply and could cause dangerous overloads. I advise you to find shelter immediately.",
+    "value": "^red;AVISO: TEMPESTADE ELETRICA ^reset;! Uma tempestade elétrica desagradável está começando. A carga no ar interferirá no fornecimento de energia e poderá causar sobrecargas perigosas. Eu aconselho você a encontrar abrigo imediatamente.",
     "path": "/ffbiomeelectric/text",
     "op": "replace"
   },
   {
-    "value": "Lightning storms are significantly stronger when you are outside. Perhaps head underground where you are grounded and cannot be struck by lightning.",
+    "value": "Tempestades de raios são significativamente mais fortes quando você está ao ar livre. Talvez ir para o subsolo onde você estará aterrado e não poderá ser atingido por um raio.",
     "path": "/ffbiomeelectricsurface/text",
     "op": "replace"
   },
   {
-    "value": "I must advise you against swimming in liquid during a lightning storm. I hope that I do not need to explain what will happen if lightning strikes you now.",
+    "value": "Eu devo advertir contra nadar em liquidos durante uma tempestade de raios. Eu espero não ter que explicar oque acontecerá se um raio o atingir agora.",
     "path": "/ffbiomeelectricwater/text",
     "op": "replace"
   },
   {
-    "value": "^red;WARNING! RADIATION DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;AVISO! RADIAÇÃO DETECTADA ^reset;! Você não deve tentar explorar mais sem equipamento de proteção adequado!",
     "path": "/biomeradiation/text",
     "op": "replace"
   },
   {
-    "value": "^red;WARNING: DESERT HEAT ^reset;! The climate here is exceptionally warm during the day. Water will help you cool off, if you can find it. Fire Resistance will help a great deal. Night is cool but tolerable.",
+    "value": "^red;AVISO: CALOR DO DESERTO ^reset;! O clima aqui é excepcionalmente quente durante o dia. A água irá ajudá-lo a se refrescar, se você puder encontrá-la. A resistência ao fogo ajudará muito. A noite é fria, mas tolerável.",
     "path": "/ffbiomedesert/text",
     "op": "replace"
   },
