@@ -1,4 +1,6 @@
-[{"path":"/cultistmission06b/senderName","value":"Asra Nox","op":"replace"},
+[{"path":"/cultistmission06a/senderName","value":"???","op":"replace"},
+
+{"path":"/cultistmission06b/senderName","value":"Asra Nox","op":"replace"},
  
 {"path":"/cultistmission09a/senderName","value":"Asra Nox","op":"replace"},
  
