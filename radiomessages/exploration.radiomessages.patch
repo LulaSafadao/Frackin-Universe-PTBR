@@ -25,92 +25,92 @@
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: SINAL PIRATA DETECTADO ^reset;! Essa parece ser uma nave invasora sob controle de Wrexor Nar. Esses ciborgues cruéis estão entre as facções de invasores mais temidas da galáxia. Tenha cuidado",
+    "value": "^red;AVISO: SINAL PIRATA DETECTADO^reset;! Essa parece ser uma nave invasora sob controle de Wrexor Nar. Esses ciborgues cru\u00E9is est\u00E3o entre as fac\u00E7\u00F5es de invasores mais temidas da gal\u00E1xia. Tenha cuidado",
     "path": "/wrexornar/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: ONDA DE CALOR ^reset;! O clima está aumentando de temperatura, resultando em esforço extra na movimentação. Você ficará faminto mais rápido, perderá vida gradualmente.",
+    "value": "^red;AVISO: ONDA DE CALOR^reset;! O clima est\u00E1 aumentando de temperatura, resultando em esfor\u00E7o extra na movimenta\u00E7\u00E3o. Voc\u00EA ficar\u00E1 faminto mais r\u00E1pido, perder\u00E1 vida gradualmente.",
     "path": "/ffbiomegenericheat/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: CONGELANDO ^reset;! De repente ficou muito frio! tenha cuidado, e mantenha-se aquecido!",
+    "value": "^red;AVISO: CONGELANDO^reset;! De repente ficou muito frio! tenha cuidado, e mantenha-se aquecido!",
     "path": "/ffbiomegenericcold/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: NUVENS VENENOSAS ^reset;! Nuvens venenosas estão se formando, oque irá enfraquecer e, eventualmente, matá-lo. busque abrigo ou encontre alguma medida de segurança.",
+    "value": "^red;AVISO: NUVENS VENENOSAS^reset;! Nuvens venenosas est\u00E3o se formando, oque ir\u00E1 enfraquecer e, eventualmente, mat\u00E1-lo. busque abrigo ou encontre alguma medida de seguran\u00E7a.",
     "path": "/ffbiomegenericpoison/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: TEMPESTADE ELÉTRICA ^reset;! Uma tempestade elétrica repentina chegou, a qual afetará sua energia. há também o risco de ser atingido por uma descarga. abrigue-se no subsolo.",
+    "value": "^red;AVISO: TEMPESTADE EL\u00C9TRICA^reset;! Uma tempestade el\u00E9trica repentina chegou, a qual afetar\u00E1 sua energia. h\u00E1 tamb\u00E9m o risco de ser atingido por uma descarga. abrigue-se no subsolo.",
     "path": "/ffbiomegenericelectric/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: TEMPESTADE RADIOATIVA ^reset;! Ventos fortes com nuvens radioativas que vieram de algum lugar deste mundo. Tome precauções.",
+    "value": "^red;AVISO: TEMPESTADE RADIOATIVA^reset;! Ventos fortes com nuvens radioativas que vieram de algum lugar deste mundo. Tome precau\u00E7\u00F5es.",
     "path": "/ffbiomegenericradiation/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: FRIO ^reset;! Embora não seja absurdamente congelante, este mundo é frio e vivo. As noites são mais frias e a água pode ser perigosa para nadar. Use proteção contra o frio.",
+    "value": "^red;AVISO: FRIO^reset;! Embora n\u00E3o seja absurdamente congelante, este mundo \u00E9 frio e vivo. As noites s\u00E3o mais frias e a \u00E1gua pode ser perigosa para nadar. Use prote\u00E7\u00E3o contra o frio.",
     "path": "/ffbiomegenericmildcold/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: TEMPESTADE ELÉTRICA ^reset;! Uma tempestade elétrica desagradável está começando. A carga no ar interferirá na sua energia e poderá causar sobrecargas perigosas. Eu aconselho você a encontrar abrigo imediatamente.",
+    "value": "^red;AVISO: TEMPESTADE EL\u00C9TRICA^reset;! Uma tempestade el\u00E9trica desagrad\u00E1vel est\u00E1 come\u00E7ando. A carga no ar interferir\u00E1 na sua energia e poder\u00E1 causar sobrecargas perigosas. Eu aconselho voc\u00EA a encontrar abrigo imediatamente.",
     "path": "/ffbiomeelectric/text",
     "op": "replace"
   },
   {
-    "value": "Tempestades de raios são significativamente mais fortes quando você está ao ar livre. Tente ir para o subsolo onde você estará aterrado e consequentemente não poderá ser atingido por um raio.",
+    "value": "Tempestades de raios s\u00E3o significativamente mais fortes quando voc\u00EA est\u00E1 ao ar livre. Tente ir para o subsolo onde voc\u00EA estar\u00E1 aterrado e consequentemente n\u00E3o poder\u00E1 ser atingido por um raio.",
     "path": "/ffbiomeelectricsurface/text",
     "op": "replace"
   },
   {
-    "value": "Eu devo advertir contra nadar em liquidos durante uma tempestade de raios. Eu espero não ter que explicar oque acontecerá se um raio o atingir agora.",
+    "value": "Eu devo advertir contra nadar em liquidos durante uma tempestade de raios. Eu espero n\u00E3o ter que explicar oque acontecer\u00E1 se um raio o atingir agora.",
     "path": "/ffbiomeelectricwater/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! RADIAÇÃO DETECTADA ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado!",
+    "value": "^red;AVISO! RADIA\u00C7\u00C3O DETECTADA^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado!",
     "path": "/biomeradiation/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: CALOR DO DESERTO ^reset;! O clima aqui é excepcionalmente quente durante o dia. A água irá ajudá-lo a se refrescar, se você puder encontrá-la. A resistência contra fogo ajudará muito. A noite é fria, mas tolerável.",
+    "value": "^red;AVISO: CALOR^reset;! O clima aqui \u00E9 excepcionalmente quente durante o dia. A \u00E1gua ir\u00E1 ajud\u00E1-lo a se refrescar, se voc\u00EA puder encontr\u00E1-la. A resist\u00EAncia contra fogo ajudar\u00E1 muito. A noite \u00E9 fria, mas toler\u00E1vel.",
     "path": "/ffbiomedesert/text",
     "op": "replace"
   },
   {
-    "value": "Você conseguiu refrescar-se nessa maravilhosa fonte de água. Agora se sente menos desconfortável!",
+    "value": "Voc\u00EA conseguiu refrescar-se nessa maravilhosa fonte de \u00E1gua. Agora se sente menos desconfort\u00E1vel!",
     "path": "/ffbiomedesertwater/text",
     "op": "replace"
   },
   {
-    "value": "Indo para o subsolo? Não é uma má ideia. O efeito do calor da superfície é bastante reduzido aqui em baixo.",
+    "value": "Indo para o subsolo? N\u00E3o \u00E9 uma m\u00E1 ideia. O efeito do calor da superf\u00EDcie \u00E9 bastante reduzido aqui em baixo.",
     "path": "/ffbiomedesertunderground/text",
     "op": "replace"
   },
   {
-    "value": "O sol se pôs, e a temperatura baixou alegremente para níveis toleráveis. Deve estar relativamente confortável até ao amanhecer do dia.",
+    "value": "O sol se p\u00F4s, e a temperatura baixou alegremente para n\u00EDveis toler\u00E1veis. Deve estar relativamente confort\u00E1vel at\u00E9 ao amanhecer do dia.",
     "path": "/ffbiomedesertnight/text",
     "op": "replace"
   },
   {
-    "value": "O sol está nascendo, trazendo mais um dia quente. Tome cuidado, e esteja ciente de que quanto mais brilhante ele ficar, pior as coisas se tornarão.",
+    "value": "O sol est\u00E1 nascendo, trazendo mais um dia quente. Tome cuidado, e esteja ciente de que quanto mais brilhante ele ficar, pior as coisas se tornar\u00E3o.",
     "path": "/ffbiomedesertsunrise/text",
     "op": "replace"
   },
   {
-    "value": "Em seu ponto mais brilhante, o sol aqui é extremamente desconfortável. Até que chegue à tarde, espere sofrer um pouco mais.",
+    "value": "Em seu ponto mais brilhante, o sol aqui \u00E9 extremamente desconfort\u00E1vel. At\u00E9 que chegue \u00E0 tarde, espere sofrer um pouco mais.",
     "path": "/ffbiomedesertnoon/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO: CALOR TROPICAL ^reset;! O clima aqui é muito quente, o que pode levar ao desconforto se não tomar cuidado. A água o ajudará a esfriar, se você puder encontrá-la. A resistência física também ajudará.",
+    "value": "^red;AVISO: CALOR^reset;! O clima aqui \u00E9 muito quente, o que pode levar ao desconforto se n\u00E3o tomar cuidado. A \u00E1gua o ajudar\u00E1 a esfriar, se voc\u00EA puder encontr\u00E1-la. A resist\u00EAncia f\u00EDsica tamb\u00E9m ajudar\u00E1.",
     "path": "/ffbiomejungle/text",
     "op": "replace"
   },
@@ -120,117 +120,117 @@
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! RADIAÇÃO DETECTADA ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado!",
+    "value": "^red;AVISO! RADIA\u00C7\u00C3O DETECTADA^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado!",
     "path": "/ffbiomeradiationsevere/text",
     "op": "replace"
   },
   {
-    "value": "Sugiro tomar cuidado, já que um vento forte está trazendo chuva radioativa direto para sua posição.!",
+    "value": "Sugiro tomar cuidado, j\u00E1 que um vento forte est\u00E1 trazendo chuva radioativa direto para sua posi\u00E7\u00E3o!",
     "path": "/ffbiomeradiationwind/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! AR VENENOSO DETECTADO ^reset;! Estas toxinas podem atravessar a pele e pequenas aberturas. Você está ficando mais fraco. Isto vai piorar quanto mais doente você ficar..",
+    "value": "^red;AVISO! AR VENENOSO DETECTADO^reset;! Estas toxinas podem atravessar a pele e pequenas aberturas. Voc\u00EA est\u00E1 ficando mais fraco. Isto vai piorar quanto mais doente voc\u00EA ficar..",
     "path": "/ffbiomepoison/text",
     "op": "replace"
   },
   {
-    "value": "Esta brisa está realmente produzindo gases venenosos. O nível de perigo aumentou.",
+    "value": "Esta brisa est\u00E1 realmente produzindo gases venenosos. O n\u00EDvel de perigo aumentou.",
     "path": "/ffbiomepoisonwind/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! FRIO EXTREMO DETECTADO ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado!",
+    "value": "^red;AVISO! FRIO EXTREMO DETECTADO^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado!",
     "path": "/biomecold/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! RADIAÇÃO DETECTADA ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado. A radiação irá drenar sua saúde e energia, e deixá-lo doente!",
+    "value": "^red;AVISO! RADIA\u00C7\u00C3O DETECTADA^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado. A radia\u00E7\u00E3o ir\u00E1 drenar sua sa\u00FAde e energia, e deix\u00E1-lo doente!",
     "path": "/ffbiomedeadlycold/text",
     "op": "replace"
   },
   {
-    "value": "À medida que a noite cai, a temperatura vai baixando. Isto fará com que qualquer efeito que você sinta do frio seja ainda mais mortal para você. Sugiro encontrar aquecimento, e logo.",
+    "value": "\u00C0 medida que a noite cai, a temperatura vai baixando. Isto far\u00E1 com que qualquer efeito que voc\u00EA sinta do frio seja ainda mais mortal para voc\u00EA. Sugiro encontrar aquecimento, e logo.",
     "path": "/ffbiomecoldnight/text",
     "op": "replace"
   },
   {
-    "value": "Você caiu na água. Em um mundo gelado. Bom trabalho, idiota! Agora você vai congelar até a morte ^red;duas vezes mais rapido^reset;!",
+    "value": "Voc\u00EA caiu na \u00E1gua. Em um mundo gelado. Bom trabalho, idiota! Agora voc\u00EA vai congelar at\u00E9 a morte ^red;duas vezes mais rapido^reset;!",
     "path": "/ffbiomecoldwater/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! CALOR EXTREMO DETECTADO ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado!",
+    "value": "^red;AVISO! CALOR EXTREMO DETECTADO^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado!",
     "path": "/biomeheat/text",
     "op": "replace"
   },
   {
-    "value": "Você se sentirá muito mais quente nas cavernas, graças ao calor que está preso dentro delas. Se mantenha refrescado, ou você estará morto.^reset;!",
+    "value": "Voc\u00EA se sentir\u00E1 muito mais quente nas cavernas, gra\u00E7as ao calor que est\u00E1 preso dentro delas. Se mantenha refrescado, ou voc\u00EA estar\u00E1 morto.^reset;!",
     "path": "/ffbiomeheatcavern/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! RADIAÇÃO DETECTADA ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado!",
+    "value": "^red;AVISO! RADIA\u00C7\u00C3O DETECTADA^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado!",
     "path": "/ffbiomedeadlyheat/text",
     "op": "replace"
   },
   {
-    "value": "Talvez valha a pena notar que este corpo celeste não tem atmosfera e você morrerá sem algum tipo de fonte de oxigênio.",
+    "value": "Talvez valha a pena notar que este corpo celeste n\u00E3o tem atmosfera e voc\u00EA morrer\u00E1 sem algum tipo de fonte de oxig\u00EAnio.",
     "path": "/biomeairless/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! RADIAÇÃO DETECTADA ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado!",
+    "value": "^red;AVISO! RADIA\u00C7\u00C3O DETECTADA^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado!",
     "path": "/ffbiomeradiation/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! FRIO EXTREMO DETECTADO ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado!",
+    "value": "^red;AVISO! FRIO EXTREMO DETECTADO^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado!",
     "path": "/ffbiomecold/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! CALOR EXTREMO DETECTADO ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado!",
+    "value": "^red;AVISO! CALOR EXTREMO DETECTADO^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado!",
     "path": "/ffbiomeheat/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! ATMOSFERA VENENOSA DETECTADA ^reset;! Com ^green; Proteção Anti-Proto Veneno^reset; você vai ficar bem. Caso contrário, o veneno Proto drena lentamente sua vitalidade. A resistência ao veneno reduz ou anula os efeitos.",
+    "value": "^red;AVISO! ATMOSFERA VENENOSA DETECTADA^reset;! Com ^green; Prote\u00E7\u00E3o Anti-Proto Veneno^reset; voc\u00EA vai ficar bem. Caso contr\u00E1rio, o veneno Proto drena lentamente sua vitalidade. A resist\u00EAncia ao veneno reduz ou anula os efeitos.",
     "path": "/ffbiomeproto/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! ATMOSFERA SULFÚRICA DETECTADA ^reset;! Você não deve tentar explorar sem equipamento de proteção adequado!",
+    "value": "^red;AVISO! ATMOSFERA SULF\u00DARICA DETECTADA^reset;! Voc\u00EA n\u00E3o deve tentar explorar sem equipamento de prote\u00E7\u00E3o adequado!",
     "path": "/ffbiomesulphuric/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! TEMPESTATE SULFÚRICA^reset;! Uma mortífera tempestade sulfúrica está se formando! Abrigue-se o mais rápido possível, a menos que você tenha proteção contra o ácido sulfúrico. Caso contrário, você morrerá rapidamente.",
+    "value": "^red;AVISO! TEMPESTATE SULF\u00DARICA^reset;! Uma mort\u00EDfera tempestade sulf\u00FArica est\u00E1 se formando! Abrigue-se o mais r\u00E1pido poss\u00EDvel, a menos que voc\u00EA tenha prote\u00E7\u00E3o contra o \u00E1cido sulf\u00FArico. Caso contr\u00E1rio, voc\u00EA morrer\u00E1 rapidamente.",
     "path": "/ffbiomesulphuricstorm/text",
     "op": "replace"
   },
   {
-    "value": "^red;AVISO! ENERGIA CÓSMICA DETECTADA ^reset;! Algum tipo de proteção contra danos cósmicos ajudaria muito. Esta energia parece diminuir as taxas de regeneração de energia.",
+    "value": "^red;AVISO! ENERGIA C\u00D3SMICA DETECTADA^reset;! Algum tipo de prote\u00E7\u00E3o contra danos c\u00F3smicos ajudaria muito. Esta energia parece diminuir as taxas de regenera\u00E7\u00E3o de energia.",
     "path": "/ffbiomeaether/text",
     "op": "replace"
   },
   {
-    "value": "À medida que a noite cai, os efeitos da energia cósmica que permeia este planeta parecem aumentar drasticamente. De alguma forma, o sol afasta o pior desses efeitos..",
+    "value": "\u00C0 medida que a noite cai, os efeitos da energia c\u00F3smica que permeia este planeta parecem aumentar drasticamente. De alguma forma, o sol afasta o pior desses efeitos...",
     "path": "/ffbiomeaethernight/text",
     "op": "replace"
   },
   {
-    "value": "^green;Excelente^reset;! Você se lembrou como gerar X'i Bulbs. Com eles você pode criar muitas coisas em seu menu [C], ou usá-las para outros propósitos exclusivos dos X'i.",
+    "value": "^green;Excelente^reset;! Voc\u00EA se lembrou como gerar X'i Bulbs. Com eles voc\u00EA pode criar muitas coisas em seu menu [C], ou us\u00E1-las para outros prop\u00F3sitos exclusivos dos X'i.",
     "path": "/radienmsg/text",
     "op": "replace"
   },
   {
-    "value": "^red;TOXINAS DETECTADAS ^reset;: Embora eu esteja certo de que *pareceu* delicioso, lamento informar que este tipo de alimento ^orange;não pode ser digerido por sua fisiologia^reset;. Evite alimentos como este futuramente.",
+    "value": "^red;TOXINAS DETECTADAS^reset;: Embora eu esteja certo de que *pareceu* delicioso, lamento informar que este tipo de alimento ^orange;n\u00E3o pode ser digerido por sua fisiologia^reset;. Evite alimentos como este futuramente.",
     "path": "/foodtype/text",
     "op": "replace"
   },
   {
-    "value": "^red;MATERIAL RADIOATIVO DETECTADO ^reset;: Você acabou de comer isótopos radioativos potencialmente letais. Sua chance de morte dolorosa aumentou em 99.72%.",
+    "value": "^red;MATERIAL RADIOATIVO DETECTADO^reset;: Voc\u00EA acabou de comer is\u00F3topos radioativos potencialmente letais. Sua chance de morte dolorosa aumentou em 99.72%.",
     "path": "/foodtyperad/text",
     "op": "replace"
   }
