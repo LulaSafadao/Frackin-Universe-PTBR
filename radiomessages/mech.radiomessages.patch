@@ -1,1 +1,142 @@
-[{"path":"/spaceencounter01/text","value":"Estou recebendo algumas assinaturas biol\u00f3gicas incomuns nesta nave. Precau\u00e7\u00e3o suficiente \u00e9 recomendada.","op":"replace"},{"path":"/testdrive08/text","value":"As varreduras ambientais iniciais indicam que esta \u00e1rea \u00e9 particularmente perigosa, mesmo quando em um mecha. Aconselha-se precau\u00e7\u00e3o.","op":"replace"},{"path":"/testdrive06/text","value":"O mecha \u00e9 muito grande para continuar por esta \u00e1rea. ^#71f2f6;Pressione E para entrar e sair do mecha^white; - Eu aconselho que voc\u00ea prossiga a p\u00e9.","op":"replace"},{"path":"/testdrive02/text","value":"Esses alvos podem ser destru\u00eddos com a arma principal do seu mecha. Minha matriz de probabilidade concluiu que destru\u00ed-los pode permitir voc\u00ea progredir.","op":"replace"},{"path":"/spaceencounter02/text","value":"Isso parece ser uma antiga Instala\u00e7\u00e3o de Armazenamento do Protetorado Terreno. Nenhum lugar assim existe nos meus registros.","op":"replace"},{"path":"/testdrive09/text","value":"Este teletransportador indica que ^green;voc\u00ea completou a pista de teste avan\u00e7ada do Dr. Akaggy ^white;. Voc\u00ea deve informar para ele.","op":"replace"},{"path":"/testdrive01/text","value":"Agora voc\u00ea est\u00e1 em um ambiente de gravidade zero. O mecha que voc\u00ea est\u00e1 pilotando \u00e9 projetado para viajar pelo espa\u00e7o - Eu recomendaria fortemente que voc\u00ea n\u00e3o tente sair do ve\u00edculo por enquanto.","op":"replace"},{"path":"/testdrive03/text","value":"O seu mecha muda para uma configura\u00e7\u00e3o de movimento no ch\u00e3o quando est\u00e1 um ambiente com gravidade. Eu recomendaria que voc\u00ea continue a prosseguir no seu mecha.","op":"replace"},{"path":"/testdrive07/text","value":"^green;Voc\u00ea parece ter conclu\u00eddo a pista de teste do Dr. Akaggy^white;. Devo declarar que tenho curiosidade em saber como uma nave t\u00e3o grande veio a ser abandonada, mas meus registros n\u00e3o apresentam conclus\u00e3o.","op":"replace"}]
+[{"path":"/spaceencounter01/text","value":"Estou recebendo algumas assinaturas biol\u00f3gicas incomuns nesta nave. Precau\u00e7\u00e3o suficiente \u00e9 recomendada.","op":"replace"},
+ 
+{"path":"/testdrive08/text","value":"As varreduras ambientais iniciais indicam que esta \u00e1rea \u00e9 particularmente perigosa, mesmo quando em um mecha. Aconselha-se precau\u00e7\u00e3o.","op":"replace"},
+ 
+{"path":"/testdrive06/text","value":"O mecha \u00e9 muito grande para continuar por esta \u00e1rea. ^#71f2f6;Pressione E para entrar e sair do mecha^white; - Eu aconselho que voc\u00ea prossiga a p\u00e9.","op":"replace"},
+ 
+{"path":"/testdrive02/text","value":"Esses alvos podem ser destru\u00eddos com a arma principal do seu mecha. Minha matriz de probabilidade concluiu que destru\u00ed-los pode permitir voc\u00ea progredir.","op":"replace"},
+ 
+{"path":"/spaceencounter02/text","value":"Isso parece ser uma antiga Instala\u00e7\u00e3o de Armazenamento do Protetorado Terreno. Nenhum lugar assim existe nos meus registros.","op":"replace"},
+ 
+{"path":"/testdrive09/text","value":"Este teletransportador indica que ^green;voc\u00ea completou a pista de teste avan\u00e7ada do Dr. Akaggy ^white;. Voc\u00ea deve informar para ele.","op":"replace"},
+ 
+{"path":"/testdrive01/text","value":"Agora voc\u00ea est\u00e1 em um ambiente de gravidade zero. O mecha que voc\u00ea est\u00e1 pilotando \u00e9 projetado para viajar pelo espa\u00e7o - Eu recomendaria fortemente que voc\u00ea n\u00e3o tente sair do ve\u00edculo por enquanto.","op":"replace"},
+ 
+{"path":"/testdrive03/text","value":"O seu mecha muda para uma configura\u00e7\u00e3o de movimento no ch\u00e3o quando est\u00e1 um ambiente com gravidade. Eu recomendaria que voc\u00ea continue a prosseguir no seu mecha.","op":"replace"},
+ 
+{"path":"/testdrive07/text","value":"^green;Voc\u00ea parece ter conclu\u00eddo a pista de teste do Dr. Akaggy^white;. Devo declarar que tenho curiosidade em saber como uma nave t\u00e3o grande veio a ser abandonada, mas meus registros n\u00e3o apresentam conclus\u00e3o.","op":"replace"},
+{
+    "value": "Welcome to your Mech Training Course. You can exit and enter your Mech with ^#FF1493;[E]^reset;.",
+    "path": "/futestdrive00/text",
+    "op": "replace"
+  },
+  {
+    "value": "The ^#orange;Tricorder^reset; can help you ^orange;equip^reset; and ^orange;refuel^reset; your mech. Fuel is important, so keep your mech topped up. Press the corresponding buttons on the tricorder after this mission to check it out. ^#Red;(If you see 'unauthorized user' restart the mission.)",
+    "path": "/futestdrive01/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your mech can ^#FF1493;duck by pressing ^#FF1493;[DOWN]^reset;, or ^#FF1493;sprint with a ^#FF1493;[double-tap]^reset; in the direction you are walking.",
+    "path": "/futestdrive02/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your mech will auto-crouch to fit into areas that it can pass, should the need arise. Such as at the top of this passage.",
+    "path": "/futestdrive03/text",
+    "op": "replace"
+  },
+  {
+    "value": "Remember, you can create a ^orange;Mech Repair tool^reset; at your ^orange;Tinker Table^reset; and upgrade it to be more effective using your ^orange;Tricorder's upgrade menu^reset;.",
+    "path": "/testdrive04/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your mech switches to a ground-movement configuration when in an environment with gravity, you can manually switch from ground-movement to flight-mode by ^#FF1493;double tapping the [UP] key^reset;, even on planets. Do so now to continue.",
+    "path": "/futestdrive03b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Please be aware of your mech's ^#bf2fe2;fuel^white; and ^#1d8e25;health^white; reserves, visualised respectively as the ^green;colored bars you can see above your vehicle^reset;. The ^#bf2fe2;fuel^white; will deplete over time and the ^#1d8e25;health^white; bar will deplete when the mech takes damage.",
+    "path": "/futestdrive03c/text",
+    "op": "replace"
+  },
+  {
+    "value": "Zero gravity combat is a bit trickier than on flat ground. Accuracy is important, so you'll need to learn to lead your targets properly.",
+    "path": "/futestdrive04/text",
+    "op": "replace"
+  },
+  {
+    "value": "Hostile entities also exist in zero-gravity environments. My cosmonautical records indicate that defeating them may result in obtaining an erchius battery, which your mech can absorb to replenish health and fuel.",
+    "path": "/testdrive05/text",
+    "op": "replace"
+  },
+  {
+    "value": "Now try throwing your mass around. Try to ^#FF1493;leap and ^#FF1493;stomp^reset; on the creatures ahead.",
+    "path": "/futestdrive05/text",
+    "op": "replace"
+  },
+  {
+    "value": "WARNING: Your vehicle is not certified \nfor this ^#FF1493;weird^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "path": "/biomeplaceholder_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "WARNING: Your vehicle is not certified \nfor this ^#A0522D;high pressure^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "path": "/biomepressure_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "WARNING: Your vehicle is not certified \nfor this ^#9ACD32;proto^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "path": "/biomeproto_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "WARNING: Your vehicle is not certified \nfor this ^#6A5ACD;electrically-charged^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "path": "/biomeelectric_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "WARNING: Your vehicle is not certified \nfor this ^#32CD32;poisonous^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "path": "/biomepoison_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "WARNING: Your vehicle is not certified \nfor this ^#00FF00;radioactive^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "path": "/biomeradiation_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "WARNING: Your vehicle is not certified \nfor this ^#00BFFF;cold^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "path": "/biomecold_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "WARNING: Your vehicle is not certified \nfor this ^#FF4500;hot^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "path": "/biomeheat_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "DANGER! This fluid is rapidly shorting out every system on board the mech. We should leave this liquid soon or risk death.",
+    "path": "/aether_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "Curious. This liquid appears to be restoring your mechs energy, rather than causing negative effects.",
+    "path": "/proto_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "DANGER! Your mech's temperature control systems are failing! Evacuate immediately!",
+    "path": "/lava_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "DANGER! This poisonous water seems to seep into your mechs components and cause serious issues. You should get out sooner than later.",
+    "path": "/darkwater_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "DANGER! Your mechs servos and components are rapidly freezing within the liquid nitrogen. That isn't a good thing. Evacuate soon or you will know regret.",
+    "path": "/nitrogen_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "DANGER! Sulphuric acid has compromised your mech plating. I suggest leaving the liquid immediately.",
+    "path": "/acid_mech/text",
+    "op": "replace"
+  },
+  {
+    "value": "DANGER! Essentia Obscura is rapidly turning your mech into pudding! Get out swiftly!",
+    "path": "/elder_mech/text",
+    "op": "replace"
+  }]
