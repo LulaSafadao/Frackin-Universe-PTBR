@@ -76,7 +76,7 @@
     "op": "replace"
   },
   {
-    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ambiente ^#9ACD32;prot\u00F3tipo^reset;!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
+    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ambiente ^#9ACD32;proto^reset;!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
     "path": "/biomeproto_mech/text",
     "op": "replace"
   },
