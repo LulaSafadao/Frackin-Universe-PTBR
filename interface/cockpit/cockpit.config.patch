@@ -351,12 +351,12 @@
   },
   {
     "op": "replace",
-    "value": "Um ^#517f51;mundo prot\u00F3tipo^reset;. Flora mutante e sinais de vida incomuns detectados. Os scanners tamb\u00E9m localizaram caches de ^#e2ef55;min\u00E9rio de Protocite^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra Veneno Prot\u00F3tipo^reset;",
+    "value": "Um ^#517f51;mundo proto^reset;. Flora mutante e sinais de vida incomuns detectados. Os scanners tamb\u00E9m localizaram caches de ^#e2ef55;min\u00E9rio de Protocite^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra Veneno Prot\u00F3tipo^reset;",
     "path": "/visitableTypeDescription/protoworld/0"
   },
   {
     "op": "replace",
-    "value": "Um ^#517f51;mundo prot\u00F3tipo^reset;. Flora mutante e sinais de vida incomuns detectados. Os scanners tamb\u00E9m localizaram caches de ^#e2ef55;min\u00E9rio de Protocite^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra Veneno Prot\u00F3tipo^reset;",
+    "value": "Um ^#517f51;mundo proto^reset;. Flora mutante e sinais de vida incomuns detectados. Os scanners tamb\u00E9m localizaram caches de ^#e2ef55;min\u00E9rio de Protocite^reset;. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra Veneno Prot\u00F3tipo^reset;",
     "path": "/visitableTypeDescription/protoworlddark/0"
   },
   {
@@ -1206,12 +1206,12 @@
   },
   {
     "op": "replace",
-    "value": "Estou detectando sinais de vida incomuns neste ^#517f51;mundo prot\u00F3tipo^reset;. Parece que essas vidas foi propositalmente mutada. ^#e2ef55;Min\u00E9rios incomuns^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra venenos prot\u00F3tipos^reset;",
+    "value": "Estou detectando sinais de vida incomuns neste ^#517f51;mundo proto^reset;. Parece que essas vidas foi propositalmente mutada. ^#e2ef55;Min\u00E9rios incomuns^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra venenos prot\u00F3tipos^reset;",
     "path": "/visitableTypeDescription/protoworld/1"
   },
   {
     "op": "replace",
-    "value": "Estou detectando sinais de vida incomuns neste ^#517f51;mundo prot\u00F3tipo^reset;. Parece que essas vidas foi propositalmente mutada. ^#e2ef55;Min\u00E9rios incomuns^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra venenos prot\u00F3tipos^reset;",
+    "value": "Estou detectando sinais de vida incomuns neste ^#517f51;mundo proto^reset;. Parece que essas vidas foi propositalmente mutada. ^#e2ef55;Min\u00E9rios incomuns^reset; detectados. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra venenos prot\u00F3tipos^reset;",
     "path": "/visitableTypeDescription/protoworlddark/1"
   },
   {
@@ -1421,12 +1421,12 @@
   },
   {
     "op": "replace",
-    "value": "A vida mutante corre aqui de forma desenfreada neste ^#517f51;mundo prot\u00F3tipo^reset;. ^#e2ef55;protocite^reset; valioso \u00E9 encontrado com abund\u00E2ncia. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra protuber\u00E2ncias^reset;",
+    "value": "A vida mutante corre aqui de forma desenfreada neste ^#517f51;mundo proto^reset;. ^#e2ef55;protocite^reset; valioso \u00E9 encontrado com abund\u00E2ncia. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra protuber\u00E2ncias^reset;",
     "path": "/visitableTypeDescription/protoworld/2"
   },
   {
     "op": "replace",
-    "value": "A vida mutante corre aqui de forma desenfreada neste ^#517f51;mundo prot\u00F3tipo^reset;. ^#e2ef55;protocite^reset; valioso \u00E9 encontrado com abund\u00E2ncia. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra protuber\u00E2ncias^reset;",
+    "value": "A vida mutante corre aqui de forma desenfreada neste ^#517f51;mundo proto^reset;. ^#e2ef55;protocite^reset; valioso \u00E9 encontrado com abund\u00E2ncia. ^cyan;Recomenda\u00E7\u00E3o: Prote\u00E7\u00E3o contra protuber\u00E2ncias^reset;",
     "path": "/visitableTypeDescription/protoworlddark/2"
   },
   {
@@ -1536,7 +1536,7 @@
   },
   {
     "op": "replace",
-    "value": "Mundo prot\u00F3tipo",
+    "value": "Mundo proto",
     "path": "/planetTypeNames/protoworld"
   },
   {
@@ -1756,7 +1756,7 @@
   },
   {
     "op": "replace",
-    "value": "Mundo prot\u00F3tipo sombr.",
+    "value": "Mundo proto sombrio",
     "path": "/planetTypeNames/protoworlddark"
   },
   {
