@@ -28,7 +28,7 @@
  
 {"path":"/protectorateLoungeTutorial/text","value":"Seu uniforme est\u00e1 dento de seu arm\u00e1rio pessoal... \u00c9 bem impressionante que voc\u00ea consiga ficar t\u00e3o calmo quando est\u00e1 atrasado. Muito bom da sua parte.","op":"replace"},
   {
-    "value": "Oh no! You overslept! There's only a few minutes until the Emergency Session begins! You'd better not keep them waiting, Protector. ^#71f2f6;Press A or D to get out of bed^white;.",
+    "value": "Acorda dorminhoco! Voc\u00EA dormiu demais! Faltam alguns minutos para o in\u00EDcio da Sess\u00E3o! \u00C9 melhor n\u00E3o deix\u00E1-los esperando, Protetor. ^#71f2f6;Pressione A ou D para sair da cama^white;.",
     "path": "/protectorateExitBedPester/text",
     "op": "replace"
   }]
