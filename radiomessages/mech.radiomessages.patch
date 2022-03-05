@@ -66,77 +66,77 @@
     "op": "replace"
   },
   {
-    "value": "WARNING: Your vehicle is not certified \nfor this ^#FF1493;weird^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ^#FF1493;estranho^reset; ambiente!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
     "path": "/biomeplaceholder_mech/text",
     "op": "replace"
   },
   {
-    "value": "WARNING: Your vehicle is not certified \nfor this ^#A0522D;high pressure^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ambiente com ^#A0522D;press\u00E3o alta^reset;!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
     "path": "/biomepressure_mech/text",
     "op": "replace"
   },
   {
-    "value": "WARNING: Your vehicle is not certified \nfor this ^#9ACD32;proto^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ambiente ^#9ACD32;prot\u00F3tipo^reset;!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
     "path": "/biomeproto_mech/text",
     "op": "replace"
   },
   {
-    "value": "WARNING: Your vehicle is not certified \nfor this ^#6A5ACD;electrically-charged^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ambiente com ^#6A5ACD;cargas el\u00E9tricas^reset;!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
     "path": "/biomeelectric_mech/text",
     "op": "replace"
   },
   {
-    "value": "WARNING: Your vehicle is not certified \nfor this ^#32CD32;poisonous^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ambiente ^#32CD32;venenoso^reset;!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
     "path": "/biomepoison_mech/text",
     "op": "replace"
   },
   {
-    "value": "WARNING: Your vehicle is not certified \nfor this ^#00FF00;radioactive^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ambiente ^#00FF00;radioativo^reset;!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
     "path": "/biomeradiation_mech/text",
     "op": "replace"
   },
   {
-    "value": "WARNING: Your vehicle is not certified \nfor this ^#00BFFF;cold^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ambiente ^#00BFFF;frio^reset;!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
     "path": "/biomecold_mech/text",
     "op": "replace"
   },
   {
-    "value": "WARNING: Your vehicle is not certified \nfor this ^#FF4500;hot^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "AVISO: Seu ve\u00EDculo n\u00E3o est\u00E1 certificado \npara este ambiente ^#FF4500;quente^reset;!\nDesconsiderar este aviso pode causar a morte do piloto e/ou a invalida\u00E7\u00E3o da garantia do ve\u00EDculo.",
     "path": "/biomeheat_mech/text",
     "op": "replace"
   },
   {
-    "value": "DANGER! This fluid is rapidly shorting out every system on board the mech. We should leave this liquid soon or risk death.",
+    "value": "PERIGO! Este flu\u00EDdo est\u00E1 diminuindo rapidamente todo sistema do mecha. Devemos deixar este l\u00EDquido agora ou arriscar a morte.",
     "path": "/aether_mech/text",
     "op": "replace"
   },
   {
-    "value": "Curious. This liquid appears to be restoring your mechs energy, rather than causing negative effects.",
+    "value": "Curioso. Este l\u00EDquido parece estar restaurando a energia do seu mecha, em vez de causar efeitos negativos.",
     "path": "/proto_mech/text",
     "op": "replace"
   },
   {
-    "value": "DANGER! Your mech's temperature control systems are failing! Evacuate immediately!",
+    "value": "PERIGO! Os sistemas de controle de temperatura do seu mecha est\u00E3o falhando! Saia imediatamente!",
     "path": "/lava_mech/text",
     "op": "replace"
   },
   {
-    "value": "DANGER! This poisonous water seems to seep into your mechs components and cause serious issues. You should get out sooner than later.",
+    "value": "PERIGO! Esta \u00E1gua venenosa parece estar infiltrando dentro de seus componentes mec\u00E2nicos e est\u00E1 causando s\u00E9rios problemas. Voc\u00EA deve sair o mais r\u00E1pido poss\u00EDvel.",
     "path": "/darkwater_mech/text",
     "op": "replace"
   },
   {
-    "value": "DANGER! Your mechs servos and components are rapidly freezing within the liquid nitrogen. That isn't a good thing. Evacuate soon or you will know regret.",
+    "value": "PERIGO! Seus componentes est\u00E3o congelando rapidamente dentro do nitrog\u00EAnio. Isso n\u00E3o \u00E9 uma coisa boa. Saia imediatamente ou voc\u00EA estar\u00E1 arrependido.",
     "path": "/nitrogen_mech/text",
     "op": "replace"
   },
   {
-    "value": "DANGER! Sulphuric acid has compromised your mech plating. I suggest leaving the liquid immediately.",
+    "value": "PERIGO! O \u00E1cido sulf\u00FArico est\u00E1 prejudicando seu mecha. Sugiro sair do l\u00EDquido imediatamente.",
     "path": "/acid_mech/text",
     "op": "replace"
   },
   {
-    "value": "DANGER! Essentia Obscura is rapidly turning your mech into pudding! Get out swiftly!",
+    "value": "PERIGO! A Essentia Obscura est\u00E1 rapidamente transformando seu mecha em pudim! Saia depressa!",
     "path": "/elder_mech/text",
     "op": "replace"
   }]
