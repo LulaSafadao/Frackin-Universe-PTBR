@@ -1,1 +1,37 @@
-[{"path":"/gaterepair-gateFound1b/senderName","value":"???","op":"replace"},{"path":"/gaterepair-gateOpened2/senderName","value":"???","op":"replace"},{"path":"/gaterepair-gateOpened1/text","value":"Parece que voc\u00ea ativou o portal com sucesso. E parece que h\u00e1 outra ^orange;mensagem^reset; vindo.","op":"replace"},{"path":"/gaterepair-gateOpened2/text","value":"^green;Por favor venha^reset;. Eu preciso urgentemente de ajuda; o universo depende disto. ^orange;Use este Portal Antigo e me encontre nas ru\u00ednas Ark, logo ap\u00f3s o Posto Avan\u00e7ado^reset;.","op":"replace"}]
+[{"path":"/gaterepair-gateFound1b/senderName","value":"???","op":"replace"},
+ 
+{"path":"/gaterepair-gateOpened2/senderName","value":"???","op":"replace"},
+ 
+{"path":"/gaterepair-gateOpened1/text","value":"Parece que voc\u00ea ativou o portal com sucesso. E parece que h\u00e1 outra ^orange;mensagem^reset; vindo.","op":"replace"},
+ 
+{"path":"/gaterepair-gateOpened2/text","value":"^green;Por favor venha^reset;. Eu preciso urgentemente de ajuda; o universo depende disto. ^orange;Use este Portal Antigo e me encontre nas ru\u00ednas Ark, logo ap\u00f3s o Posto Avan\u00e7ado^reset;.","op":"replace"},
+  {
+    "value": "My scans indicate there is some kind of ^orange;Welcome Beacon^reset; on this planet. I estimate a ^green;82% chance that it is worth investigating^reset;, and a 98% chance that you have nothing better to do.",
+    "path": "/gaterepair-findGate/text",
+    "op": "replace"
+  },
+  {
+    "value": "add",
+    "path": "/gaterepair-gateFound1/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "^orange;Welcome^reset; to my Mobile Lab, traveller! Come on in and visit! I've got a big comfy couch and a medical bay if you have any nasty injuries to heal up!",
+    "path": "/gaterepair-gateFound1/text",
+    "op": "replace"
+  },
+  {
+    "value": "If you've picked up this message, you must be near an ^orange;Ancient Gateway^reset; - please activate it to come and find me. ^green;You can power up the Gate with ^orange;Core Fragments^reset; and a ^orange;Tricorder^reset;.",
+    "path": "/gaterepair-gateFound1b/text",
+    "op": "replace"
+  },
+  {
+    "value": "add",
+    "path": "/gaterepair-gateFound2/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "In order to fix your ship you'll need to complete ^orange;several tasks^reset;. ^green;Speak to me^reset; to begin.",
+    "path": "/gaterepair-gateFound2/text",
+    "op": "replace"
+  }]
