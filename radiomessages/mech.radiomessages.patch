@@ -16,52 +16,52 @@
  
 {"path":"/testdrive07/text","value":"^green;Voc\u00ea parece ter conclu\u00eddo a pista de teste do Dr. Akaggy^white;. Devo declarar que tenho curiosidade em saber como uma nave t\u00e3o grande veio a ser abandonada, mas meus registros n\u00e3o apresentam conclus\u00e3o.","op":"replace"},
 {
-    "value": "Welcome to your Mech Training Course. You can exit and enter your Mech with ^#FF1493;[E]^reset;.",
+    "value": "Bem-vindo ao Curso de Treinamento Mecha. Voc\u00EA pode sair e entrar em seu Mecha com a tecla ^#FF1493;[E]^reset;.",
     "path": "/futestdrive00/text",
     "op": "replace"
   },
   {
-    "value": "The ^#orange;Tricorder^reset; can help you ^orange;equip^reset; and ^orange;refuel^reset; your mech. Fuel is important, so keep your mech topped up. Press the corresponding buttons on the tricorder after this mission to check it out. ^#Red;(If you see 'unauthorized user' restart the mission.)",
+    "value": "O ^#orange;Tricorder^reset; pode te ajudar a ^orange;reabastecer^reset; o seu mecha, basta ^orange;equipa-lo^reset; e acessar o \u00EDcone que se parece com um l\u00EDquido. A gasolina \u00E9 importante, portanto, mantenha seu mech abastecido. Pressione os bot\u00F5es correspondentes na descri\u00E7\u00E3o do tricorder ap\u00F3s esta miss\u00E3o para verificar. ^#Red;(Se voc\u00EA ver 'usu\u00E1rio n\u00E3o autorizado' reinicia a miss\u00E3o).",
     "path": "/futestdrive01/text",
     "op": "replace"
   },
   {
-    "value": "Your mech can ^#FF1493;duck by pressing ^#FF1493;[DOWN]^reset;, or ^#FF1493;sprint with a ^#FF1493;[double-tap]^reset; in the direction you are walking.",
+    "value": "Seu mecha pode ^#FF1493;ficar rebaixado pressionando a tecla de ^#FF1493;[ABAIXAR]^reset;, ou pode ^#FF1493;correr com um ^#FF1493;[toque duplo]^reset; na dire\u00E7\u00E3o em que voc\u00EA est\u00E1 caminhando.",
     "path": "/futestdrive02/text",
     "op": "replace"
   },
   {
-    "value": "Your mech will auto-crouch to fit into areas that it can pass, should the need arise. Such as at the top of this passage.",
+    "value": "Seu mecha ir\u00E1 se abaixar automaticamente para caber em \u00E1reas que possa passar, caso seja necess\u00E1rio. Tal como no topo desta passagem.",
     "path": "/futestdrive03/text",
     "op": "replace"
   },
   {
-    "value": "Remember, you can create a ^orange;Mech Repair tool^reset; at your ^orange;Tinker Table^reset; and upgrade it to be more effective using your ^orange;Tricorder's upgrade menu^reset;.",
+    "value": "Lembre-se, voc\u00EA pode criar uma ^orange;Mech Repair tool^reset; em sua ^orange;Tinker Table^reset; e pode atualiz\u00E1-la para ser mais eficaz usando no menu de upgrade do seu ^orange;Tricorder^reset;.",
     "path": "/testdrive04/text",
     "op": "replace"
   },
   {
-    "value": "Your mech switches to a ground-movement configuration when in an environment with gravity, you can manually switch from ground-movement to flight-mode by ^#FF1493;double tapping the [UP] key^reset;, even on planets. Do so now to continue.",
+    "value": "Seu mecha muda seu estilo de movimento quando estar em um ambiente com gravidade, voc\u00EA pode mudar manualmente para modo v\u00F4o em ^#FF1493;tocando duas vezes a tecla de [CIMA]^reset;, mesmo estando em planetas. Fa\u00E7a agora para prosseguir.",
     "path": "/futestdrive03b/text",
     "op": "replace"
   },
   {
-    "value": "Please be aware of your mech's ^#bf2fe2;fuel^white; and ^#1d8e25;health^white; reserves, visualised respectively as the ^green;colored bars you can see above your vehicle^reset;. The ^#bf2fe2;fuel^white; will deplete over time and the ^#1d8e25;health^white; bar will deplete when the mech takes damage.",
+    "value": "Por favor, esteja ciente das barras de ^#bf2fe2;gasolina^white; e ^#1d8e25;sa\u00FAde^white; s\u00E3o visualizadas em ^green;barras coloridas que voc\u00EA pode ver acima do seu ve\u00EDculo^reset;. A ^#bf2fe2;gasolina^white; se esgotar\u00E1 com o tempo e a barra de ^#1d8e25;sa\u00FAde^white; se esgotar\u00E1 quando o mecha sofrer danos.",
     "path": "/futestdrive03c/text",
     "op": "replace"
   },
   {
-    "value": "Zero gravity combat is a bit trickier than on flat ground. Accuracy is important, so you'll need to learn to lead your targets properly.",
+    "value": "O combate na gravidade zero \u00E9 um pouco mais complicado do que em terra firme. A precis\u00E3o \u00E9 importante, portanto voc\u00EA precisar\u00E1 aprender a liderar seus alvos corretamente.",
     "path": "/futestdrive04/text",
     "op": "replace"
   },
   {
-    "value": "Hostile entities also exist in zero-gravity environments. My cosmonautical records indicate that defeating them may result in obtaining an erchius battery, which your mech can absorb to replenish health and fuel.",
+    "value": "Entidades hostis tamb\u00E9m existem em ambientes com gravidade zero. Meus registros cosmon\u00E1uticos indicam que derrot\u00E1-los pode ter como resultado a obter uma bateria erchius, que seu mecha pode absorver para repor a sa\u00FAde e o gasolina.",
     "path": "/testdrive05/text",
     "op": "replace"
   },
   {
-    "value": "Now try throwing your mass around. Try to ^#FF1493;leap and ^#FF1493;stomp^reset; on the creatures ahead.",
+    "value": "Agora tente jogar seu mecha por a\u00ED. Tente ^#FF1493;saltar e ^#FF1493;pisar^reset; sobre as criaturas \u00E0 frente.",
     "path": "/futestdrive05/text",
     "op": "replace"
   },
