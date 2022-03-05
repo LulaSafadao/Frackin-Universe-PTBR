@@ -52,4 +52,19 @@
  
 {"path":"/pickupepp/text","value":"Voc\u00ea obteve uma Mochila de Prote\u00e7\u00e3o Ambiental (EPP). Estes dispositivos especializados permitem que o usu\u00e1rio sobreviva em ambientes de outra forma in\u00f3spitos. Voc\u00ea tamb\u00e9m pode aprimorar os EPPs com augments.","op":"replace"},
  
-{"path":"/pickupaugment/text","value":"Voc\u00ea obteve um augment. Estes m\u00f3dulos podem fornecer uma ampla gama de benef\u00edcios. Instale-os em uma Mochila de Prote\u00e7\u00e3o Ambiental (EPP), com o bot\u00e3o direito.","op":"replace"}]
+{"path":"/pickupaugment/text","value":"Voc\u00ea obteve um augment. Estes m\u00f3dulos podem fornecer uma ampla gama de benef\u00edcios. Instale-os em uma Mochila de Prote\u00e7\u00e3o Ambiental (EPP), com o bot\u00e3o direito.","op":"replace"},
+  {
+    "value": "Estou detectando uma variedade de sinais de vida nesta mina. Se voc\u00EA pretende explor\u00E1-la, aconselho ter armas adequadas primeiro.",
+    "path": "/naturalcave1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Se voc\u00EA n\u00E3o estiver confiante em suas habilidades de combate, seria mais adequado construir um equipamento melhor antes de entrar.",
+    "path": "/naturalcave2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Estes aparelhos \u00FAteis s\u00E3o usados para atualizar ^orange;ferramentas^reset;, incluindo seu ^orange;Matter Manipulator^reset;, a partir da interface de atualiza\u00E7\u00E3o no seu ^orange;Personal Tricorder^reset;. Sugiro salvar alguns para contruir um ^green;Mining laser^reset;.",
+    "path": "/pickupmanipulatormodule/text",
+    "op": "replace"
+  }]
