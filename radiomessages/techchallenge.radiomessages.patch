@@ -1,1 +1,18 @@
-[{"path":"/techchallenge_morphball2/text","value":"Parece que voc\u00ea ter\u00e1 que ^#71f2f6;ativar sua ^orange;Esfera de Distor\u00e7\u00e2o^#71f2f6; no meio do pulo^white; para passar por esta passagem.","op":"replace"},{"path":"/techchallenge_dash4/text","value":"Leituras indicam que estes s\u00e3o ^orange;blasters criog\u00eanicos^white;. Eles n\u00e3o s\u00e3o letais, mas qualquer contato ir\u00e1 reduzir significativamente o seu progresso.","op":"replace"},{"path":"/techchallenge_doublejump2/text","value":"A telemetria indica que para fazer este pulo voc\u00ea deveria ^#71f2f6;atrasar usando o ^orange;Pulo de Pulso^white; at\u00e9 que voc\u00ea esteja nivelado com a plataforma alvo.","op":"replace"},{"path":"/techchallenge_dash3/text","value":"Estas portas parecem ficar abertas por um ^orange;tempo muito limitado^white;. \u00c9 louv\u00e1vel que voc\u00ea pretenda perseverar atrav\u00e9s de tais frustra\u00e7\u00f5es.","op":"replace"},{"path":"/techchallenge_dash2/text","value":"Estas portas abrem por pouco tempo. Acredito que voc\u00ea deve ^#71f2f6;se posicionar perto da porta^white; antes ^#71f2f6;de acionar a alavanca e arrancar sobre ela^white;.","op":"replace"},{"path":"/techchallenge_dash1/text","value":"Esta pista de obst\u00e1culos requer o uso da ^orange;Tecnologia de Arrancada^white; que voc\u00ea recebeu. Para usa-la ^#71f2f6;aperte duas vezes A ou D para rapidamente arrancar para a esquerda ou direita^white;.","op":"replace"},{"path":"/techchallenge_doublejump1/text","value":"Para usar a ^orange;Tecnologia de Pulo de Pulso^white; ^#71f2f6;pressione a barra de espa\u00e7o enquanto esta no ar^white;. Fazendo isto ir\u00e1 te dar um pequeno impulso pra cima.","op":"replace"}]
+[{"path":"/techchallenge_morphball2/text","value":"Parece que voc\u00ea ter\u00e1 que ^#71f2f6;ativar sua ^orange;Esfera de Distor\u00e7\u00e2o^#71f2f6; no meio do pulo^white; para passar por esta passagem.","op":"replace"},
+ 
+{"path":"/techchallenge_dash4/text","value":"Leituras indicam que estes s\u00e3o ^orange;blasters criog\u00eanicos^white;. Eles n\u00e3o s\u00e3o letais, mas qualquer contato ir\u00e1 reduzir significativamente o seu progresso.","op":"replace"},
+ 
+{"path":"/techchallenge_doublejump2/text","value":"A telemetria indica que para fazer este pulo voc\u00ea deveria ^#71f2f6;atrasar usando o ^orange;Pulo de Pulso^white; at\u00e9 que voc\u00ea esteja nivelado com a plataforma alvo.","op":"replace"},
+ 
+{"path":"/techchallenge_dash3/text","value":"Estas portas parecem ficar abertas por um ^orange;tempo muito limitado^white;. \u00c9 louv\u00e1vel que voc\u00ea pretenda perseverar atrav\u00e9s de tais frustra\u00e7\u00f5es.","op":"replace"},
+ 
+{"path":"/techchallenge_dash2/text","value":"Estas portas abrem por pouco tempo. Acredito que voc\u00ea deve ^#71f2f6;se posicionar perto da porta^white; antes ^#71f2f6;de acionar a alavanca e arrancar sobre ela^white;.","op":"replace"},
+ 
+{"path":"/techchallenge_dash1/text","value":"Esta pista de obst\u00e1culos requer o uso da ^orange;Tecnologia de Arrancada^white; que voc\u00ea recebeu. Para usa-la ^#71f2f6;aperte duas vezes A ou D para rapidamente arrancar para a esquerda ou direita^white;.","op":"replace"},
+ 
+{"path":"/techchallenge_doublejump1/text","value":"Para usar a ^orange;Tecnologia de Pulo de Pulso^white; ^#71f2f6;pressione a barra de espa\u00e7o enquanto esta no ar^white;. Fazendo isto ir\u00e1 te dar um pequeno impulso pra cima.","op":"replace"},
+  {
+    "value": "^#71f2f6;Pressione F pra usar a ^orange;Distortion Sphere Tech II^white; para se transformar e entrar em lugares mais fechados. Se voc\u00EA estiver bloqueado, pressione o mouse ^orange;[Esquerdo]^reset; para explodir obst\u00E1culos com uma bomba.",
+    "path": "/techchallenge_morphball1/text",
+    "op": "replace"
+  }]
