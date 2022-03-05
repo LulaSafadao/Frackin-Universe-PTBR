@@ -6,32 +6,32 @@
  
 {"path":"/gaterepair-gateOpened2/text","value":"^green;Por favor venha^reset;. Eu preciso urgentemente de ajuda; o universo depende disto. ^orange;Use este Portal Antigo e me encontre nas ru\u00ednas Ark, logo ap\u00f3s o Posto Avan\u00e7ado^reset;.","op":"replace"},
   {
-    "value": "My scans indicate there is some kind of ^orange;Welcome Beacon^reset; on this planet. I estimate a ^green;82% chance that it is worth investigating^reset;, and a 98% chance that you have nothing better to do.",
+    "value": "Minhas leituras indicam que este planeta esta n\u00F3s dando um pedido de ^orange;Boas Vindas!^reset;. Eu estimo ^green;82% de chance de que vale a pena investigar^reset;, e uma chance de 98% de que voc\u00EA n\u00E3o tem nada melhor para fazer.",
     "path": "/gaterepair-findGate/text",
     "op": "replace"
   },
   {
-    "value": "add",
+    "value": "adicionar",
     "path": "/gaterepair-gateFound1/senderName",
     "op": "replace"
   },
   {
-    "value": "^orange;Welcome^reset; to my Mobile Lab, traveller! Come on in and visit! I've got a big comfy couch and a medical bay if you have any nasty injuries to heal up!",
+    "value": "^orange;Bem-vindo^reset; ao meu Laborat\u00F3rio, viajante! Venha me visitar! Eu tenho um sof\u00E1 grande confort\u00E1vel e uma enfermaria caso voc\u00EA estiver ferido para se recuperar!",
     "path": "/gaterepair-gateFound1/text",
     "op": "replace"
   },
   {
-    "value": "If you've picked up this message, you must be near an ^orange;Ancient Gateway^reset; - please activate it to come and find me. ^green;You can power up the Gate with ^orange;Core Fragments^reset; and a ^orange;Tricorder^reset;.",
+    "value": "Se voc\u00EA captou esta mensagem, voc\u00EA deve estar perto de uma ^orange;Portal Antigo^reset; - por favor, ative para me encontrar. ^green;Voc\u00EA pode ligar o Portal com ^orange;Core Fragments^reset; e um ^orange;Tricorder^reset;.",
     "path": "/gaterepair-gateFound1b/text",
     "op": "replace"
   },
   {
-    "value": "add",
+    "value": "adicionar",
     "path": "/gaterepair-gateFound2/senderName",
     "op": "replace"
   },
   {
-    "value": "In order to fix your ship you'll need to complete ^orange;several tasks^reset;. ^green;Speak to me^reset; to begin.",
+    "value": "Para consertar sua nave voc\u00EA precisar\u00E1 completar ^orange;v\u00E1rias tarefas^reset;. ^green;Fale comigo^reset; para come\u00E7ar.",
     "path": "/gaterepair-gateFound2/text",
     "op": "replace"
   }]
