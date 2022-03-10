@@ -281,5 +281,405 @@
     "value": "Voc\u00EA chegou ao que parece ser o centro nervoso neste monstro gigantesco. \u00C9 isto, agora. Destrua a fera ou todos n\u00F3s pereceremos!",
     "path": "/tentaclemission-bossroom/text",
     "op": "replace"
-  }
+  },
+  {
+    "value": "There appears to be some sort of interesting technology suspended above that device. I recommend immediate investigation.",
+    "path": "/precursormissionspecial/text",
+    "op": "replace"
+  },
+  {
+    "value": "I'm not sure where this teleporter has dropped us off. I am, however, detecting unknown signals up ahead somewhere. You should investigate, and find a way out.",
+    "path": "/precursormission1/text",
+    "op": "replace"
+  },
+  {
+    "value": "This is of truly ancient design. The door appears sealed, but might open to sufficient explosive force.",
+    "path": "/precursormission2/text",
+    "op": "replace"
+  },
+  {
+    "value": "It is highly likely that these ruins have not been accessed in thousands of years. I wonder what mysteries await?",
+    "path": "/precursormission3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Ahead I detect several meters of weakened material. You could try digging through and see how that goes.",
+    "path": "/precursormission4/text",
+    "op": "replace"
+  },
+  {
+    "value": "Another red door. Smash it!",
+    "path": "/precursormission5/text",
+    "op": "replace"
+  },
+  {
+    "value": "The door here appears to be triggered remotely by something. I can only faintly read connections to some sort of sensor.",
+    "path": "/precursormission6/text",
+    "op": "replace"
+  },
+  {
+    "value": "Something must trigger this small door. We should probably hunt around elsewhere and see what we can find.",
+    "path": "/precursormission7/text",
+    "op": "replace"
+  },
+  {
+    "value": "This room was painstakingly hidden from casual view. There must be something above worth investigating.",
+    "path": "/precursormission8/text",
+    "op": "replace"
+  },
+  {
+    "value": "It seems we have more to explore! I am detecting numerous hostile IFF readings below your position, so do take precautions.",
+    "path": "/precursormission9/text",
+    "op": "replace"
+  },
+  {
+    "value": "Impossible. This ship is still functioning, albeit at vastly reduced capacity. It is unlikely that it could travel, but we could certainly learn something from its systems!",
+    "path": "/precursormission10/text",
+    "op": "replace"
+  },
+  {
+    "value": "I believe this switch is linked to systems elsewhere in the facility. We should backtrack and see what has opened up once we've activated the console.",
+    "path": "/precursormission11/text",
+    "op": "replace"
+  },
+  {
+    "value": "Readings are scattered here. These machines are likely interfering with the signal. I cannot detect lifesigns or robotic signatures accurately. Extreme caution is advised.",
+    "path": "/precursormission12/text",
+    "op": "replace"
+  },
+  {
+    "value": "While its actual function is somewhat of a mystery, this unusual device appears capable of infusing weapons, armor and other gear with cosmic energies. I imagine with it, one could vastly improve gear quality.",
+    "path": "/precursormission13/text",
+    "op": "replace"
+  },
+  {
+    "value": "We appear to be well and truly trapped. The way back has been blocked. I am also detecting an extremely powerful machine nearby, and it appears to be targetting your specific DNA.",
+    "path": "/precursormission14/text",
+    "op": "replace"
+  },
+  {
+    "value": "To get through here, you're going to need a Distortion Sphere II or Armor Sphere. Otherwise, you'll have a tough time...",
+    "path": "/fuchallengeball1/text",
+    "op": "replace"
+  },
+  {
+    "value": "Press down to drop a bomb and blow this tile up!",
+    "path": "/fuchallengeball2/text",
+    "op": "replace"
+  },
+  {
+    "value": "Now you'll need some fancy timing. Use bombs to launch yourself upwards. Then do it again, and you're through.",
+    "path": "/fuchallengeball3/text",
+    "op": "replace"
+  },
+  {
+    "value": "Excellent. You have activated the Master Manipulator using this Crucible as a power source! Now you can really obliterate matter like a champ! Go!",
+    "path": "/activateMasterManipulator/text",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome to this testing facility. Please do note that in order to participate in the activities therein, you will need to possess a ranged weapon.",
+    "path": "/extrachallengelabs401/text",
+    "op": "replace"
+  },
+  {
+    "value": "Please keep your limbs and personal effects on the platform at all times. The facility is not responsible for any death or loss resulting from your stupidity.",
+    "path": "/extrachallengelabs401a/text",
+    "op": "replace"
+  },
+  {
+    "value": "It is imperative to note that due to the nature of the tests in this facility, you may very well end up stuck through very much fault of your own.",
+    "path": "/extrachallengelabs301/text",
+    "op": "replace"
+  },
+  {
+    "value": "If this happens, please feel free to assume a fetal position, weep at your lack of forethought, and beam out of the facility.",
+    "path": "/extrachallengelabs301a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Contained within the chest ahead is a Personal Spatial Transference Module, or in layman's terms, a Translocator. Please retrieve it. It will be required for testing.",
+    "path": "/extrachallengelabs302/text",
+    "op": "replace"
+  },
+  {
+    "value": "Please note that from this point onwards, your performance will be evaluated. Use your translocator to navigate the tests in an expedient manner.",
+    "path": "/extrachallengelabs303/text",
+    "op": "replace"
+  },
+  {
+    "value": "You will be graded on factors such as time, adroit use of the translocator, attitude, non-vapourisation, and other common test parameters.",
+    "path": "/extrachallengelabs303a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Some like it hot.",
+    "path": "/extrachallengelabs304/text",
+    "op": "replace"
+  },
+  {
+    "value": "Unlike other spatial transference devices, the relocator is pellet-based. Please make use of this advanced physics-compliant property to bounce away from this puzzle.",
+    "path": "/extrachallengelabs305/text",
+    "op": "replace"
+  },
+  {
+    "value": "Being spatially relocated can be disorienting, but I have full faith you will overcome this obstacle. That, or be vapourised.",
+    "path": "/extrachallengelabs306/text",
+    "op": "replace"
+  },
+  {
+    "value": "Thank you for participating in this small test! On behalf of all members of the facility, allow me to congratulate you on a job well done!",
+    "path": "/extrachallengelabs307/text",
+    "op": "replace"
+  },
+  {
+    "value": "You may be pleased to know that you are in the upper quartile who managed to complete this section of the facility without partial or complete vapourisation.",
+    "path": "/extrachallengelabs307a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Please depart via the radar in a calm and orderly fashion. Do remember to take your belongings with you.",
+    "path": "/extrachallengelabs307b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Yellow detectors detect Companion Punchys. Blue detectors detect... well, you.",
+    "path": "/extrachallengelabs201/text",
+    "op": "replace"
+  },
+  {
+    "value": "Keep up!",
+    "path": "/extrachallengelabs202/text",
+    "op": "replace"
+  },
+  {
+    "value": "Relax a while in our fully-equipped pleasure chamber.",
+    "path": "/extrachallengelabs203/text",
+    "op": "replace"
+  },
+  {
+    "value": "It takes two to tango.",
+    "path": "/extrachallengelabs204/text",
+    "op": "replace"
+  },
+  {
+    "value": "Let's see how well you do under pressure.",
+    "path": "/extrachallengelabs205/text",
+    "op": "replace"
+  },
+  {
+    "value": "Partners often switch sides in a dance.",
+    "path": "/extrachallengelabs206/text",
+    "op": "replace"
+  },
+  {
+    "value": "Welcome, <insert subject name here>. You have chosen, or been chosen, to be the next benefactor of our highly advanced testing systems.",
+    "path": "/extrachallengelabs101/text",
+    "op": "replace"
+  },
+  {
+    "value": "My name is Generic Omnipresent Voice, or GOV for short. While you are in the facility, I will be your guiding authority.",
+    "path": "/extrachallengelabs101a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Do note that gravity anomaly fields are in effect on board this facility; while you will still fall, it will not hurt you.",
+    "path": "/extrachallengelabs101b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Have a very safe and educational day.",
+    "path": "/extrachallengelabs101c/text",
+    "op": "replace"
+  },
+  {
+    "value": "Contained within this chest is a Tool For Spatial Transference Of Living Matter, or in layman's terms, a Relocator. Please retrieve it. It will be required for testing.",
+    "path": "/extrachallengelabs102/text",
+    "op": "replace"
+  },
+  {
+    "value": "Please proceed to the button to meet a very special friend.",
+    "path": "/extrachallengelabs103/text",
+    "op": "replace"
+  },
+  {
+    "value": "Friendship with Companion Punchy established and online. Friendship levels detected at 13.3 percent.",
+    "path": "/extrachallengelabs104/text",
+    "op": "replace"
+  },
+  {
+    "value": "Teamwork is mandatory in the testing facility. Non-compliance will not be tolerated and you will be penalised for failure to display a sufficient teamwork exponent.",
+    "path": "/extrachallengelabs104a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Success! Teamwork levels are now non-negligible. Please enjoy a moment in the Comfort Chamber with your Companion Punchy before proceeding.",
+    "path": "/extrachallengelabs105/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your Companion Punchy is more durable than appearances might otherwise suggest. It will bleed, burn, and die for you so that you don't have to.",
+    "path": "/extrachallengelabs106/text",
+    "op": "replace"
+  },
+  {
+    "value": "Your Companion Punchy's loyalty exponent is currently 6. Should it drop to zero, sleep with one eye open.",
+    "path": "/extrachallengelabs106a/text",
+    "op": "replace"
+  },
+  {
+    "value": "These sensors are calibrated to detect only Companion Punchys, greed, faith, and hatred.",
+    "path": "/extrachallengelabs107/text",
+    "op": "replace"
+  },
+  {
+    "value": "Contact with the Steele Tech(TM) energy lances will invariably result in vaporisation.",
+    "path": "/extrachallengelabs108/text",
+    "op": "replace"
+  },
+  {
+    "value": "Happily, Companion Punchys are made of sugar, spice, everything nice, and chemical X, rendering them impervious to vaporisation.",
+    "path": "/extrachallengelabs108a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Entertain me.",
+    "path": "/extrachallengelabs109/text",
+    "op": "replace"
+  },
+  {
+    "value": "Alas, this is the end of a beautiful friendship. Incinerate your Companion Punchy to continue. Only one of you may leave the facility alive.",
+    "path": "/extrachallengelabs110/text",
+    "op": "replace"
+  },
+  {
+    "value": "Yes...I think it's about time for a very palatable reward...for a traitor like you. Enjoy it while you can. GOV out.",
+    "path": "/extrachallengelabs111/text",
+    "op": "replace"
+  },
+  {
+    "value": "Hmm. If you are stuck, examining objects may yield valuable information on how to proceed, even if said objects appear familiar.",
+    "path": "/japaneseruins01/text",
+    "op": "replace"
+  },
+  {
+    "value": "Koichi",
+    "path": "/letheiafacility01/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "The entire facility appears to be surrounded by a jamming signal. I won't be able to get to you once you get any closer, so you'll be on your own.",
+    "path": "/letheiafacility01/text",
+    "op": "replace"
+  },
+  {
+    "value": "Lana Blake",
+    "path": "/letheiafacility01a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Good luck, soldier. I get the feeling you'll need it. Letheia doesn't mess around when it comes to its security.",
+    "path": "/letheiafacility01a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Scans indicate the corporate fleet consists of a battleship, a carrier, a tanker, and numerous other small vessels.",
+    "path": "/letheiafleet01/text",
+    "op": "replace"
+  },
+  {
+    "value": "In order to board the battleship's main segment, you will need to activate IFF signals on the bridges of the carrier and tanker.",
+    "path": "/letheiafleet01a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Due to the size of the fleet, your mech's initial energy reserves may be insufficient, especially if you sustain damage from their defenses.",
+    "path": "/letheiafleet01b/text",
+    "op": "replace"
+  },
+  {
+    "value": "Boarding ships and raiding their energy stores may very well be crucial to your success. Good luck.",
+    "path": "/letheiafleet01c/text",
+    "op": "replace"
+  },
+  {
+    "value": "My scans of the ruins suggest that you'll need the double jump or some iteration thereof to successfully traverse the ruins. Remember to have such equipped.",
+    "path": "/verdantruins01/text",
+    "op": "replace"
+  },
+  {
+    "value": "It may also be prudent to acquire some means of surviving great falls. Perhaps you'll find one if you search nearby?",
+    "path": "/verdantruins02/text",
+    "op": "replace"
+  },
+  {
+    "value": "Lana Blake",
+    "path": "/infiltration01/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Rebel intelligence indicates that you'll need the Micro Spider Sphere or better to effect entry into the facility. We've provided a console for you to swap it in, if you forgot.",
+    "path": "/infiltration01/text",
+    "op": "replace"
+  },
+  {
+    "value": "Lana Blake",
+    "path": "/infiltration01a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Before you do anything else, though, check in with the forward team leader and get further details of the task at hand.",
+    "path": "/infiltration01a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Lana Blake",
+    "path": "/infiltration02/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "There're the remains of earlier Miniknog facilities in the area. They ought to be mostly abandoned... mostly.",
+    "path": "/infiltration02/text",
+    "op": "replace"
+  },
+  {
+    "value": "Lana Blake",
+    "path": "/infiltration02a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "I suppose you could take this path if you wanted to avoid detection... although the old security systems are likely to have gone haywire.",
+    "path": "/infiltration02a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Koichi",
+    "path": "/infiltration03/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "You're not going to eat what you find in that ancient fridge, are you? Who knows how long that's been in there, and in so toxic an environment!",
+    "path": "/infiltration03/text",
+    "op": "replace"
+  },
+  {
+    "value": "Nuru",
+    "path": "/infiltration03a/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "Ssayss the guy who drinkss Letheia Cola.",
+    "path": "/infiltration03a/text",
+    "op": "replace"
+  },
+  {
+    "value": "Koichi",
+    "path": "/infiltration03b/senderName",
+    "op": "replace"
+  },
+  {
+    "value": "That's different!",
+    "path": "/infiltration03b/text",
+    "op": "replace"
+  }  
 ]
