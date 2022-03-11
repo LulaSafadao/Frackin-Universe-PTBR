@@ -283,77 +283,77 @@
     "op": "replace"
   },
   {
-    "value": "There appears to be some sort of interesting technology suspended above that device. I recommend immediate investigation.",
+    "value": "Parece haver algum tipo de tecnologia interessante acima desse dispositivo. Eu recomendo uma investiga\u00E7\u00E3o imediatamente.",
     "path": "/precursormissionspecial/text",
     "op": "replace"
   },
   {
-    "value": "I'm not sure where this teleporter has dropped us off. I am, however, detecting unknown signals up ahead somewhere. You should investigate, and find a way out.",
+    "value": "N\u00E3o tenho certeza de onde este teletransporte nos deixou. No entanto, estou detectando sinais desconhecidos em algum lugar \u00E0 frente. Voc\u00EA deveria investigar, e encontrar uma sa\u00EDda.",
     "path": "/precursormission1/text",
     "op": "replace"
   },
   {
-    "value": "This is of truly ancient design. The door appears sealed, but might open to sufficient explosive force.",
+    "value": "Isto \u00E9 um design antigo. A porta parece selada, mas pode ser aberta \u00E0 for\u00E7a com explosivos.",
     "path": "/precursormission2/text",
     "op": "replace"
   },
   {
-    "value": "It is highly likely that these ruins have not been accessed in thousands of years. I wonder what mysteries await?",
+    "value": "\u00C9 muito prov\u00E1vel que estas ru\u00EDnas n\u00E3o tenham sido acessadas h\u00E1 milhares de anos. O que ser\u00E1 que nos aguarda?",
     "path": "/precursormission3/text",
     "op": "replace"
   },
   {
-    "value": "Ahead I detect several meters of weakened material. You could try digging through and see how that goes.",
+    "value": "A frente, detectei diversos materiais fragilizados. Voc\u00EA poderia tentar escavar e ver oque acontece.",
     "path": "/precursormission4/text",
     "op": "replace"
   },
   {
-    "value": "Another red door. Smash it!",
+    "value": "Outra porta vermelha. Destrua!",
     "path": "/precursormission5/text",
     "op": "replace"
   },
   {
-    "value": "The door here appears to be triggered remotely by something. I can only faintly read connections to some sort of sensor.",
+    "value": "A porta aqui parece ser acionada remotamente por algo. Eu s\u00F3 consigo ler as conex\u00F5es por causa dos sensores.",
     "path": "/precursormission6/text",
     "op": "replace"
   },
   {
-    "value": "Something must trigger this small door. We should probably hunt around elsewhere and see what we can find.",
+    "value": "Alguma coisa deve acionar esta porta pequena. Dever\u00EDamos procurar em algum lugar e ver o que podemos achar.",
     "path": "/precursormission7/text",
     "op": "replace"
   },
   {
-    "value": "This room was painstakingly hidden from casual view. There must be something above worth investigating.",
+    "value": "Esta sala foi cuidadosamente escondida. Deve haver algo em cima que vale a pena investigar.",
     "path": "/precursormission8/text",
     "op": "replace"
   },
   {
-    "value": "It seems we have more to explore! I am detecting numerous hostile IFF readings below your position, so do take precautions.",
+    "value": "Parece que temos que explorar mais! Estou detectando in\u00FAmeras leituras hostis da IFF abaixo de sua posi\u00E7\u00E3o, portanto, tome cuidado.",
     "path": "/precursormission9/text",
     "op": "replace"
   },
   {
-    "value": "Impossible. This ship is still functioning, albeit at vastly reduced capacity. It is unlikely that it could travel, but we could certainly learn something from its systems!",
+    "value": "Imposs\u00EDvel. Esta nave ainda est\u00E1 funcionando, embora com uma capacidade muito reduzida. \u00C9 improv\u00E1vel que possa viajar, mas n\u00F3s poder\u00EDamos aprender algo com seus sistemas!",
     "path": "/precursormission10/text",
     "op": "replace"
   },
   {
-    "value": "I believe this switch is linked to systems elsewhere in the facility. We should backtrack and see what has opened up once we've activated the console.",
+    "value": "Acredito que este interruptor est\u00E1 ligado a sistemas em outro lugar da instala\u00E7\u00E3o. Devemos voltar atr\u00E1s e ver o que foi aberto depois de ativarmos o console.",
     "path": "/precursormission11/text",
     "op": "replace"
   },
   {
-    "value": "Readings are scattered here. These machines are likely interfering with the signal. I cannot detect lifesigns or robotic signatures accurately. Extreme caution is advised.",
+    "value": "As leituras est\u00E3o falhando por aqui. Estas m\u00E1quinas provavelmente est\u00E3o interferindo com o sinal. N\u00E3o consigo detectar os sinais de vida ou sinais rob\u00F3ticos com precis\u00E3o. \u00C9 recomend\u00E1vel ter extrema cautela.",
     "path": "/precursormission12/text",
     "op": "replace"
   },
   {
-    "value": "While its actual function is somewhat of a mystery, this unusual device appears capable of infusing weapons, armor and other gear with cosmic energies. I imagine with it, one could vastly improve gear quality.",
+    "value": "Embora sua fun\u00E7\u00E3o real seja um pouco misteriosa, este dispositivo incomum parece capaz de infundir armas, armaduras e outros equipamentos com energias c\u00F3smicas. Imagino que com ele voc\u00EA poder\u00E1 melhorar bastante a qualidade das armaduras.",
     "path": "/precursormission13/text",
     "op": "replace"
   },
   {
-    "value": "We appear to be well and truly trapped. The way back has been blocked. I am also detecting an extremely powerful machine nearby, and it appears to be targetting your specific DNA.",
+    "value": "Parece que estamos bem presos. O caminho de volta foi bloqueado. Tamb\u00E9m estou detectando uma m\u00E1quina extremamente poderosa nas proximidades.",
     "path": "/precursormission14/text",
     "op": "replace"
   },
