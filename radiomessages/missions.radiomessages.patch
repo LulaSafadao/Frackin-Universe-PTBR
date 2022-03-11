@@ -358,177 +358,177 @@
     "op": "replace"
   },
   {
-    "value": "To get through here, you're going to need a Distortion Sphere II or Armor Sphere. Otherwise, you'll have a tough time...",
+    "value": "Para passar por aqui, voc\u00EA vai precisar de uma Distortion Sphere II ou Armor Sphere. Caso contr\u00E1rio, voc\u00EA n\u00E3o ir\u00E1 progredir...",
     "path": "/fuchallengeball1/text",
     "op": "replace"
   },
   {
-    "value": "Press down to drop a bomb and blow this tile up!",
+    "value": "Pressione para baixo para lan\u00E7ar uma bomba e explodir esta telha!",
     "path": "/fuchallengeball2/text",
     "op": "replace"
   },
   {
-    "value": "Now you'll need some fancy timing. Use bombs to launch yourself upwards. Then do it again, and you're through.",
+    "value": "Agora, voc\u00EA precisar\u00E1 de tempo. Use bombas para se lan\u00E7ar para cima. Depois fa\u00E7a novamente, e voc\u00EA estar\u00E1 pronto.",
     "path": "/fuchallengeball3/text",
     "op": "replace"
   },
   {
-    "value": "Excellent. You have activated the Master Manipulator using this Crucible as a power source! Now you can really obliterate matter like a champ! Go!",
+    "value": "Excelente. Voc\u00EA ativou o Master Manipulator usando este Crucible como uma fonte de energia! Agora voc\u00EA pode realmente obliterar a mat\u00E9ria como um campe\u00E3o!",
     "path": "/activateMasterManipulator/text",
     "op": "replace"
   },
   {
-    "value": "Welcome to this testing facility. Please do note that in order to participate in the activities therein, you will need to possess a ranged weapon.",
+    "value": "Bem-vindo a esta instala\u00E7\u00E3o de testes. Por favor, observe que, para poder participar das atividades ali previstas, voc\u00EA precisar\u00E1 possuir uma arma \u00E0 dist\u00E2ncia.",
     "path": "/extrachallengelabs401/text",
     "op": "replace"
   },
   {
-    "value": "Please keep your limbs and personal effects on the platform at all times. The facility is not responsible for any death or loss resulting from your stupidity.",
+    "value": "Por favor, mantenha seus pertences e objetos pessoais na plataforma o tempo todo. Essa instala\u00E7\u00E3o n\u00E3o \u00E9 respons\u00E1vel por qualquer morte ou perda resultante de sua estupidez.",
     "path": "/extrachallengelabs401a/text",
     "op": "replace"
   },
   {
-    "value": "It is imperative to note that due to the nature of the tests in this facility, you may very well end up stuck through very much fault of your own.",
+    "value": "\u00C9 fundamental observar que, devido \u00E0 natureza dos testes nesta instala\u00E7\u00E3o, voc\u00EA pode muito bem acabar preso.",
     "path": "/extrachallengelabs301/text",
     "op": "replace"
   },
   {
-    "value": "If this happens, please feel free to assume a fetal position, weep at your lack of forethought, and beam out of the facility.",
+    "value": "Se isto acontecer, sinta-se \u00E0 vontade para assumir uma posi\u00E7\u00E3o dos fracassados e chore por sua falta de considera\u00E7\u00E3o e saia da instala\u00E7\u00E3o.",
     "path": "/extrachallengelabs301a/text",
     "op": "replace"
   },
   {
-    "value": "Contained within the chest ahead is a Personal Spatial Transference Module, or in layman's terms, a Translocator. Please retrieve it. It will be required for testing.",
+    "value": "Contido dentro do ba\u00FA \u00E0 frente est\u00E1 um M\u00F3dulo de Transfer\u00EAncia Espacial Pessoal, ou, em termos leigos, um Translocator. Por favor, obtenha-o. Ele ser\u00E1 necess\u00E1rio para testes.",
     "path": "/extrachallengelabs302/text",
     "op": "replace"
   },
   {
-    "value": "Please note that from this point onwards, your performance will be evaluated. Use your translocator to navigate the tests in an expedient manner.",
+    "value": "Favor observar que a partir deste ponto, seu desempenho ser\u00E1 avaliado. Use seu translocator para navegar nos testes de forma conveniente.",
     "path": "/extrachallengelabs303/text",
     "op": "replace"
   },
   {
-    "value": "You will be graded on factors such as time, adroit use of the translocator, attitude, non-vapourisation, and other common test parameters.",
+    "value": "Voc\u00EA ser\u00E1 classificado em fatores como tempo, uso adequado do translocator, atitude e outros par\u00E2metros pra teste.",
     "path": "/extrachallengelabs303a/text",
     "op": "replace"
   },
   {
-    "value": "Some like it hot.",
+    "value": "Alguns gostam disso quente.",
     "path": "/extrachallengelabs304/text",
     "op": "replace"
   },
   {
-    "value": "Unlike other spatial transference devices, the relocator is pellet-based. Please make use of this advanced physics-compliant property to bounce away from this puzzle.",
+    "value": "Ao contr\u00E1rio de outros dispositivos de transfer\u00EAncia espacial, o relocator \u00E9 baseado em pellets. Por favor, fa\u00E7a uso desta propriedade avan\u00E7ada compat\u00EDvel com a f\u00EDsica para se livrar deste quebra-cabe\u00E7a.",
     "path": "/extrachallengelabs305/text",
     "op": "replace"
   },
   {
-    "value": "Being spatially relocated can be disorienting, but I have full faith you will overcome this obstacle. That, or be vapourised.",
+    "value": "Ser espacialmente realocado pode ser perturbador, mas tenho plena confian\u00E7a de que voc\u00EA superar\u00E1 este obst\u00E1culo. Isso ou ser vaporizado.",
     "path": "/extrachallengelabs306/text",
     "op": "replace"
   },
   {
-    "value": "Thank you for participating in this small test! On behalf of all members of the facility, allow me to congratulate you on a job well done!",
+    "value": "Obrigado por participar deste pequeno teste! Em nome de todos os membros das instala\u00E7\u00F5es, permita-me parabeniz\u00E1-lo por um trabalho bem feito!",
     "path": "/extrachallengelabs307/text",
     "op": "replace"
   },
   {
-    "value": "You may be pleased to know that you are in the upper quartile who managed to complete this section of the facility without partial or complete vapourisation.",
+    "value": "Voc\u00EA pode ficar satisfeito em saber que conseguiu completar esta se\u00E7\u00E3o da instala\u00E7\u00E3o sem vaporiza\u00E7\u00E3o parcial ou completa.",
     "path": "/extrachallengelabs307a/text",
     "op": "replace"
   },
   {
-    "value": "Please depart via the radar in a calm and orderly fashion. Do remember to take your belongings with you.",
+    "value": "Por favor, saia atrav\u00E9s do radar de forma calma e ordenada. Lembre-se de levar seus pertences com voc\u00EA.",
     "path": "/extrachallengelabs307b/text",
     "op": "replace"
   },
   {
-    "value": "Yellow detectors detect Companion Punchys. Blue detectors detect... well, you.",
+    "value": "Os detectores amarelos detectam Companion Punchys. Os detectores azuis detectam... bem, voc\u00EA.",
     "path": "/extrachallengelabs201/text",
     "op": "replace"
   },
   {
-    "value": "Keep up!",
+    "value": "Continue!",
     "path": "/extrachallengelabs202/text",
     "op": "replace"
   },
   {
-    "value": "Relax a while in our fully-equipped pleasure chamber.",
+    "value": "Relaxe um pouco em nossa Comfort Chamber totalmente preparada.",
     "path": "/extrachallengelabs203/text",
     "op": "replace"
   },
   {
-    "value": "It takes two to tango.",
+    "value": "S\u00E3o necess\u00E1rios dois para dan\u00E7ar o tango.",
     "path": "/extrachallengelabs204/text",
     "op": "replace"
   },
   {
-    "value": "Let's see how well you do under pressure.",
+    "value": "Vamos ver como voc\u00EA se sai bem sob press\u00E3o.",
     "path": "/extrachallengelabs205/text",
     "op": "replace"
   },
   {
-    "value": "Partners often switch sides in a dance.",
+    "value": "Os parceiros frequentemente trocam de lado em uma dan\u00E7a.",
     "path": "/extrachallengelabs206/text",
     "op": "replace"
   },
   {
-    "value": "Welcome, <insert subject name here>. You have chosen, or been chosen, to be the next benefactor of our highly advanced testing systems.",
+    "value": "Bem-vindo, <inserir nome do assunto aqui>. Voc\u00EA escolheu, ou foi escolhido, para ser o pr\u00F3ximo benfeitor de nossos sistemas de teste altamente avan\u00E7ados.",
     "path": "/extrachallengelabs101/text",
     "op": "replace"
   },
   {
-    "value": "My name is Generic Omnipresent Voice, or GOV for short. While you are in the facility, I will be your guiding authority.",
+    "value": "Meu nome \u00E9 Generic Omnipresent Voice, ou GOV, para abreviar. Enquanto voc\u00EA estiver nas instala\u00E7\u00F5es, eu serei sua orientadora.",
     "path": "/extrachallengelabs101a/text",
     "op": "replace"
   },
   {
-    "value": "Do note that gravity anomaly fields are in effect on board this facility; while you will still fall, it will not hurt you.",
+    "value": "Observe que os campos de anomalias gravitacionais est\u00E3o em vigor a bordo desta instala\u00E7\u00E3o; enquanto voc\u00EA ainda cair, isso n\u00E3o lhe causar\u00E1 danos.",
     "path": "/extrachallengelabs101b/text",
     "op": "replace"
   },
   {
-    "value": "Have a very safe and educational day.",
+    "value": "Tenha um dia muito seguro e educativo.",
     "path": "/extrachallengelabs101c/text",
     "op": "replace"
   },
   {
-    "value": "Contained within this chest is a Tool For Spatial Transference Of Living Matter, or in layman's terms, a Relocator. Please retrieve it. It will be required for testing.",
+    "value": "Contido dentro deste ba\u00FA \u00E9 uma ferramenta para a transfer\u00EAncia espacial de mat\u00E9ria viva, ou em termos leigos, um Relocator. Por favor, obtenha-o. Ele ser\u00E1 necess\u00E1rio para os testes.",
     "path": "/extrachallengelabs102/text",
     "op": "replace"
   },
   {
-    "value": "Please proceed to the button to meet a very special friend.",
+    "value": "Por favor, prossiga para o bot\u00E3o para encontrar um amigo muito especial.",
     "path": "/extrachallengelabs103/text",
     "op": "replace"
   },
   {
-    "value": "Friendship with Companion Punchy established and online. Friendship levels detected at 13.3 percent.",
+    "value": "Amizade com Companion Punchy estabelecida e on-line. N\u00EDveis de amizade detectados em 13,3 por cento.",
     "path": "/extrachallengelabs104/text",
     "op": "replace"
   },
   {
-    "value": "Teamwork is mandatory in the testing facility. Non-compliance will not be tolerated and you will be penalised for failure to display a sufficient teamwork exponent.",
+    "value": "O trabalho em equipe \u00E9 obrigat\u00F3rio nas instala\u00E7\u00F5es de teste. Se n\u00E3o cumprir, n\u00E3o ser\u00E1 tolerado e voc\u00EA ser\u00E1 penalizado por n\u00E3o exibir um expoente de trabalho em equipe suficiente.",
     "path": "/extrachallengelabs104a/text",
     "op": "replace"
   },
   {
-    "value": "Success! Teamwork levels are now non-negligible. Please enjoy a moment in the Comfort Chamber with your Companion Punchy before proceeding.",
+    "value": "Sucesso! Os n\u00EDveis de trabalho em equipe agora n\u00E3o s\u00E3o negligenci\u00E1veis. Por favor, aproveite um momento na Comfort Chamber com seu Companion Punchy antes de prosseguir.",
     "path": "/extrachallengelabs105/text",
     "op": "replace"
   },
   {
-    "value": "Your Companion Punchy is more durable than appearances might otherwise suggest. It will bleed, burn, and die for you so that you don't have to.",
+    "value": "Seu Companion Punchy \u00E9 resistente n\u00E3o se engane com as apar\u00EAncias. Ele sangrar\u00E1, queimar\u00E1 e morrer\u00E1 por voc\u00EA para que voc\u00EA n\u00E3o tenha que se sacrificar.",
     "path": "/extrachallengelabs106/text",
     "op": "replace"
   },
   {
-    "value": "Your Companion Punchy's loyalty exponent is currently 6. Should it drop to zero, sleep with one eye open.",
+    "value": "O expoente de lealdade de seu Companion Punchy \u00E9 atualmente 6. Se ele cair a zero, durma com um olho aberto.",
     "path": "/extrachallengelabs106a/text",
     "op": "replace"
   },
   {
-    "value": "These sensors are calibrated to detect only Companion Punchys, greed, faith, and hatred.",
+    "value": "Estes sensores s\u00E3o calibrados para detectar somente Companion Punchys, a gan\u00E2ncia, a f\u00E9 e o \u00F3dio.",
     "path": "/extrachallengelabs107/text",
     "op": "replace"
   },
