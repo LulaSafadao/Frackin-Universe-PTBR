@@ -443,7 +443,7 @@
     "op": "replace"
   },
   {
-    "value": "Os detectores amarelos detectam Companion Punchys. Os detectores azuis detectam... bem, voc\u00EA.",
+    "value": "Os detectores amarelos detectam Companheiro Punchys. Os detectores azuis detectam... bem, voc\u00EA.",
     "path": "/extrachallengelabs201/text",
     "op": "replace"
   },
@@ -503,7 +503,7 @@
     "op": "replace"
   },
   {
-    "value": "Amizade com Companion Punchy estabelecida e on-line. N\u00EDveis de amizade detectados em 13,3 por cento.",
+    "value": "Amizade com Companheiro Punchy estabelecida e on-line. N\u00EDveis de amizade detectados em 13,3 por cento.",
     "path": "/extrachallengelabs104/text",
     "op": "replace"
   },
@@ -513,52 +513,52 @@
     "op": "replace"
   },
   {
-    "value": "Sucesso! Os n\u00EDveis de trabalho em equipe agora n\u00E3o s\u00E3o negligenci\u00E1veis. Por favor, aproveite um momento na Comfort Chamber com seu Companion Punchy antes de prosseguir.",
+    "value": "Sucesso! Os n\u00EDveis de trabalho em equipe agora n\u00E3o s\u00E3o negligenci\u00E1veis. Por favor, aproveite um momento na Comfort Chamber com seu Companheiro Punchy antes de prosseguir.",
     "path": "/extrachallengelabs105/text",
     "op": "replace"
   },
   {
-    "value": "Seu Companion Punchy \u00E9 resistente n\u00E3o se engane com as apar\u00EAncias. Ele sangrar\u00E1, queimar\u00E1 e morrer\u00E1 por voc\u00EA para que voc\u00EA n\u00E3o tenha que se sacrificar.",
+    "value": "Seu Companheiro Punchy \u00E9 resistente n\u00E3o se engane com as apar\u00EAncias. Ele sangrar\u00E1, queimar\u00E1 e morrer\u00E1 por voc\u00EA para que voc\u00EA n\u00E3o tenha que se sacrificar.",
     "path": "/extrachallengelabs106/text",
     "op": "replace"
   },
   {
-    "value": "O expoente de lealdade de seu Companion Punchy \u00E9 atualmente 6. Se ele cair a zero, durma com um olho aberto.",
+    "value": "O expoente de lealdade de seu Companheiro Punchy \u00E9 atualmente 6. Se ele cair a zero, durma com um olho aberto.",
     "path": "/extrachallengelabs106a/text",
     "op": "replace"
   },
   {
-    "value": "Estes sensores s\u00E3o calibrados para detectar somente Companion Punchys, a gan\u00E2ncia, a f\u00E9 e o \u00F3dio.",
+    "value": "Estes sensores s\u00E3o calibrados para detectar somente Companheiro Punchys, a gan\u00E2ncia, a f\u00E9 e o \u00F3dio.",
     "path": "/extrachallengelabs107/text",
     "op": "replace"
   },
   {
-    "value": "Contact with the Steele Tech(TM) energy lances will invariably result in vaporisation.",
+    "value": "O contato com as lan\u00E7as de energia Steele Tech(TM) resultar\u00E1 sempre em vaporiza\u00E7\u00E3o.",
     "path": "/extrachallengelabs108/text",
     "op": "replace"
   },
   {
-    "value": "Happily, Companion Punchys are made of sugar, spice, everything nice, and chemical X, rendering them impervious to vaporisation.",
+    "value": "Felizmente, Companheiro Punchys s\u00E3o feitos de a\u00E7\u00FAcar, especiarias, tudo de bom e qu\u00EDmico X, tornando-os resistentes \u00E0 vaporiza\u00E7\u00E3o.",
     "path": "/extrachallengelabs108a/text",
     "op": "replace"
   },
   {
-    "value": "Entertain me.",
+    "value": "Me entretenha.",
     "path": "/extrachallengelabs109/text",
     "op": "replace"
   },
   {
-    "value": "Alas, this is the end of a beautiful friendship. Incinerate your Companion Punchy to continue. Only one of you may leave the facility alive.",
+    "value": "Infelizmente, este \u00E9 o fim de uma bela amizade. Incinere o seu Companheiro Punchy pra continuar. Apenas um de voc\u00EAs pode deixar as instala\u00E7\u00F5es com vida.",
     "path": "/extrachallengelabs110/text",
     "op": "replace"
   },
   {
-    "value": "Yes...I think it's about time for a very palatable reward...for a traitor like you. Enjoy it while you can. GOV out.",
+    "value": "\u00C9... Acho que j\u00E1 \u00E9 hora de uma recompensa deveras palat\u00E1vel... para um traidor como voc\u00EA. Aproveite enquanto voc\u00EA pode. GOV saindo.",
     "path": "/extrachallengelabs111/text",
     "op": "replace"
   },
   {
-    "value": "Hmm. If you are stuck, examining objects may yield valuable information on how to proceed, even if said objects appear familiar.",
+    "value": "Hmm. Se voc\u00EA estiver preso, examinar objetos pode fornecer informa\u00E7\u00F5es valiosas sobre como proceder, mesmo que tais objetos pare\u00E7am familiares.",
     "path": "/japaneseruins01/text",
     "op": "replace"
   },
@@ -568,7 +568,7 @@
     "op": "replace"
   },
   {
-    "value": "The entire facility appears to be surrounded by a jamming signal. I won't be able to get to you once you get any closer, so you'll be on your own.",
+    "value": "Toda a instala\u00E7\u00E3o parece estar cercada por um sinal de interfer\u00EAncia. N\u00E3o conseguirei chegar at\u00E9 voc\u00EA se aproximar demais, portanto, voc\u00EA estar\u00E1 por sua conta.",
     "path": "/letheiafacility01/text",
     "op": "replace"
   },
@@ -578,37 +578,37 @@
     "op": "replace"
   },
   {
-    "value": "Good luck, soldier. I get the feeling you'll need it. Letheia doesn't mess around when it comes to its security.",
+    "value": "Boa sorte, soldado. Tenho a sensa\u00E7\u00E3o de que voc\u00EA vai precisar dela. A Letheia n\u00E3o brinca quando se trata de seguran\u00E7a.",
     "path": "/letheiafacility01a/text",
     "op": "replace"
   },
   {
-    "value": "Scans indicate the corporate fleet consists of a battleship, a carrier, a tanker, and numerous other small vessels.",
+    "value": "Os scanners indicam que a frota corporativa consiste de uma nave de batalha, um porta-avi\u00F5es, um petroleiro e v\u00E1rias outras embarca\u00E7\u00F5es pequenas.",
     "path": "/letheiafleet01/text",
     "op": "replace"
   },
   {
-    "value": "In order to board the battleship's main segment, you will need to activate IFF signals on the bridges of the carrier and tanker.",
+    "value": "Para embarcar no segmento principal da nave de batalha, ser\u00E1 necess\u00E1rio ativar os sinais IFF nas pontes do porta-avi\u00F5es e do petroleiro.",
     "path": "/letheiafleet01a/text",
     "op": "replace"
   },
   {
-    "value": "Due to the size of the fleet, your mech's initial energy reserves may be insufficient, especially if you sustain damage from their defenses.",
+    "value": "Devido ao tamanho da frota, as reservas iniciais de energia do seu mecha podem ser insuficientes, especialmente se voc\u00EA sofrer danos por causa das defesas deles.",
     "path": "/letheiafleet01b/text",
     "op": "replace"
   },
   {
-    "value": "Boarding ships and raiding their energy stores may very well be crucial to your success. Good luck.",
+    "value": "Embarcar em naves e invadir seus dep\u00F3sitos de energia pode muito bem ser crucial para o seu sucesso. Boa sorte.",
     "path": "/letheiafleet01c/text",
     "op": "replace"
   },
   {
-    "value": "My scans of the ruins suggest that you'll need the double jump or some iteration thereof to successfully traverse the ruins. Remember to have such equipped.",
+    "value": "Meus scanners sugerem que voc\u00EA precisar\u00E1 do salto duplo ou um semelhante para atravessar as ru\u00EDnas com sucesso. Lembre-se de ficar bem equipado.",
     "path": "/verdantruins01/text",
     "op": "replace"
   },
   {
-    "value": "It may also be prudent to acquire some means of surviving great falls. Perhaps you'll find one if you search nearby?",
+    "value": "Tamb\u00E9m pode ser prudente adquirir alguns meios para sobreviver a grandes quedas. Talvez voc\u00EA encontre um se voc\u00EA procurar nas proximidades?",
     "path": "/verdantruins02/text",
     "op": "replace"
   },
@@ -618,7 +618,7 @@
     "op": "replace"
   },
   {
-    "value": "Rebel intelligence indicates that you'll need the Micro Spider Sphere or better to effect entry into the facility. We've provided a console for you to swap it in, if you forgot.",
+    "value": "A intelig\u00EAncia dos rebeldes indica que voc\u00EA precisar\u00E1 da Micro Spider Sphere ou superior para efetuar a entrada na instala\u00E7\u00E3o. N\u00F3s j\u00E1 forneceu um console que dar pra trocar de tech, se voc\u00EA tiver esquecido.",
     "path": "/infiltration01/text",
     "op": "replace"
   },
@@ -628,7 +628,7 @@
     "op": "replace"
   },
   {
-    "value": "Before you do anything else, though, check in with the forward team leader and get further details of the task at hand.",
+    "value": "Antes de fazer qualquer outra coisa, verifique com o l\u00EDder da equipe de frente e obtenha mais detalhes sobre a tarefa a ser realizada.",
     "path": "/infiltration01a/text",
     "op": "replace"
   },
@@ -638,7 +638,7 @@
     "op": "replace"
   },
   {
-    "value": "There're the remains of earlier Miniknog facilities in the area. They ought to be mostly abandoned... mostly.",
+    "value": "H\u00E1 vest\u00EDgios de instala\u00E7\u00F5es anteriores da Miniknog na \u00E1rea. Devem estar em sua maioria abandonadas... em sua maioria.",
     "path": "/infiltration02/text",
     "op": "replace"
   },
@@ -648,7 +648,7 @@
     "op": "replace"
   },
   {
-    "value": "I suppose you could take this path if you wanted to avoid detection... although the old security systems are likely to have gone haywire.",
+    "value": "Suponho que voc\u00EA poderia seguir este caminho se quisesse evitar a detec\u00E7\u00E3o... embora seja prov\u00E1vel que os antigos sistemas de seguran\u00E7a tenham ficado fora de controle.",
     "path": "/infiltration02a/text",
     "op": "replace"
   },
@@ -658,7 +658,7 @@
     "op": "replace"
   },
   {
-    "value": "You're not going to eat what you find in that ancient fridge, are you? Who knows how long that's been in there, and in so toxic an environment!",
+    "value": "Voc\u00EA n\u00E3o vai comer o que encontra naquela geladeira antiga, vai? Quem sabe h\u00E1 quanto tempo isso est\u00E1 l\u00E1 dentro, e em um ambiente t\u00E3o t\u00F3xico!",
     "path": "/infiltration03/text",
     "op": "replace"
   },
@@ -668,7 +668,7 @@
     "op": "replace"
   },
   {
-    "value": "Ssayss the guy who drinkss Letheia Cola.",
+    "value": "Dizzz o cara que bebe Letheia Cola.",
     "path": "/infiltration03a/text",
     "op": "replace"
   },
@@ -678,7 +678,7 @@
     "op": "replace"
   },
   {
-    "value": "That's different!",
+    "value": "Isso \u00E9 diferente!",
     "path": "/infiltration03b/text",
     "op": "replace"
   }  
