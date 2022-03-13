@@ -1,18 +1,18 @@
 [{"path":"/suffix/45","value":" Caos","op":"replace"},
  
-{"path":"/suffix/44","value":" Dagger","op":"replace"},
+{"path":"/suffix/44","value":" Adaga","op":"replace"},
  
 {"path":"/suffix/34","value":" Escudeiro","op":"replace"},
  
 {"path":"/suffix/35","value":" Cinzento","op":"replace"},
  
-{"path":"/suffix/31","value":" Gruber","op":"replace"},
+{"path":"/suffix/31","value":" Topeira","op":"replace"},
  
-{"path":"/suffix/41","value":" Hackerman","op":"replace"},
+{"path":"/suffix/41","value":" Hacker","op":"replace"},
  
 {"path":"/suffix/29","value":" Martelo","op":"replace"},
  
-{"path":"/suffix/27","value":" Hawkins","op":"replace"},
+{"path":"/suffix/27","value":" Falc\u00E3o","op":"replace"},
  
 {"path":"/suffix/43","value":" Inc\u00f3gnito","op":"replace"},
  
@@ -36,7 +36,7 @@
  
 {"path":"/suffix/40","value":" Lobo","op":"replace"},
  
-{"path":"/suffix/38","value":" Wrench","op":"replace"},
+{"path":"/suffix/38","value":" Chave de Boca ","op":"replace"},
  
 {"path":"/suffix/24","value":" o Craque","op":"replace"},
  
@@ -197,142 +197,142 @@
 {"path":"/prefix/48","value":"Selvagem ","op":"replace",}
 
   {
-    "value": "Vip Borkul ",
+    "value": "Borkul Vip ",
     "path": "/prefix/53",
     "op": "replace"
   },
   {
-    "value": "Aggravating ",
+    "value": "Agravador ",
     "path": "/prefix/54",
     "op": "replace"
   },
   {
-    "value": "Morning Man ",
+    "value": "Matutino ",
     "path": "/prefix/55",
     "op": "replace"
   },
   {
-    "value": "Idiotic ",
+    "value": "Idiota ",
     "path": "/prefix/56",
     "op": "replace"
   },
   {
-    "value": "Stationary ",
+    "value": "Est\u00E1tico ",
     "path": "/prefix/57",
     "op": "replace"
   },
   {
-    "value": "Leprous ",
+    "value": "Leproso ",
     "path": "/prefix/58",
     "op": "replace"
   },
   {
-    "value": "Greg ",
+    "value": "Ot\u00E1rio ",
     "path": "/prefix/59",
     "op": "replace"
   },
   {
-    "value": "Daft ",
+    "value": "Bobo ",
     "path": "/prefix/60",
     "op": "replace"
   },
   {
-    "value": "Stupid ",
+    "value": "Estupido ",
     "path": "/prefix/61",
     "op": "replace"
   },
   {
-    "value": "Thick ",
+    "value": "Roli\u00E7o ",
     "path": "/prefix/62",
     "op": "replace"
   },
   {
-    "value": "Thin ",
+    "value": "Magro ",
     "path": "/prefix/63",
     "op": "replace"
   },
   {
-    "value": "Slim ",
+    "value": "Fininho ",
     "path": "/prefix/64",
     "op": "replace"
   },
   {
-    "value": "Tiny ",
+    "value": "Miudo ",
     "path": "/prefix/65",
     "op": "replace"
   },
   {
-    "value": "Titanic ",
+    "value": "Tit\u00E2nico ",
     "path": "/prefix/66",
     "op": "replace"
   },
   {
-    "value": "Vapid ",
+    "value": "Vaporento ",
     "path": "/prefix/67",
     "op": "replace"
   },
   {
-    "value": "Stoogey ",
+    "value": "Fantoche ",
     "path": "/prefix/68",
     "op": "replace"
   },
   {
-    "value": "Flappy ",
+    "value": "Floquinho ",
     "path": "/prefix/69",
     "op": "replace"
   },
   {
-    "value": "Floppy ",
+    "value": "Plano ",
     "path": "/prefix/70",
     "op": "replace"
   },
   {
-    "value": "Flute-master ",
+    "value": "Mestre-Flautista ",
     "path": "/prefix/71",
     "op": "replace"
   },
   {
-    "value": "Inebriated ",
+    "value": "Inebriado ",
     "path": "/prefix/72",
     "op": "replace"
   },
   {
-    "value": "Awakened ",
+    "value": "Desperto ",
     "path": "/prefix/73",
     "op": "replace"
   },
   {
-    "value": "Sleepy ",
+    "value": "Sonolento ",
     "path": "/prefix/74",
     "op": "replace"
   },
   {
-    "value": "Maddened ",
+    "value": "Enlouquecido ",
     "path": "/prefix/75",
     "op": "replace"
   },
   {
-    "value": "Lustdriven ",
+    "value": "Luxurioso ",
     "path": "/prefix/76",
     "op": "replace"
   },
   {
-    "value": "Jesting ",
+    "value": "Perauta ",
     "path": "/prefix/77",
     "op": "replace"
   },
   {
-    "value": "Hunting ",
+    "value": "Ca\u00E7ador ",
     "path": "/prefix/78",
     "op": "replace"
   },
   {
-    "value": "Gregarious ",
+    "value": "Gregario ",
     "path": "/prefix/79",
     "op": "replace"
   },
   {
-    "value": "Sinister ",
+    "value": "Sinistro ",
     "path": "/prefix/80",
     "op": "replace"
   },
@@ -342,152 +342,152 @@
     "op": "replace"
   },
   {
-    "value": "Super-Duper-Happy ",
+    "value": "Super-Duper-Alegre ",
     "path": "/prefix/82",
     "op": "replace"
   },
   {
-    "value": "Somewhat Annoyed ",
+    "value": "Um pouco irritado ",
     "path": "/prefix/83",
     "op": "replace"
   },
   {
-    "value": " the Sleepwalker",
+    "value": " O Son\u00E2mbulo",
     "path": "/suffix/46",
     "op": "replace"
   },
   {
-    "value": " the Baby-Killer",
+    "value": " o matador de bebes",
     "path": "/suffix/47",
     "op": "replace"
   },
   {
-    "value": " the Flesh Eater",
+    "value": " o comedor de carne",
     "path": "/suffix/48",
     "op": "replace"
   },
   {
-    "value": " the Stab-Master",
+    "value": " o Mestre-Faqueiro",
     "path": "/suffix/49",
     "op": "replace"
   },
   {
-    "value": " the Sandwich Maker",
+    "value": " o Sanduicheiro",
     "path": "/suffix/50",
     "op": "replace"
   },
   {
-    "value": " the Plumbing Technician",
+    "value": " o Tecnico-Encanador",
     "path": "/suffix/51",
     "op": "replace"
   },
   {
-    "value": " the Narcotics Maker",
+    "value": " o Fazedor de drogas",
     "path": "/suffix/52",
     "op": "replace"
   },
   {
-    "value": " the Cook",
+    "value": " o Cozinheiro",
     "path": "/suffix/53",
     "op": "replace"
   },
   {
-    "value": " the Drug Dealer",
+    "value": " o Traficante",
     "path": "/suffix/54",
     "op": "replace"
   },
   {
-    "value": " the Cartel Leader",
+    "value": " o Leder do Cartel",
     "path": "/suffix/55",
     "op": "replace"
   },
   {
-    "value": " the Mastermind",
+    "value": " o Mestre",
     "path": "/suffix/56",
     "op": "replace"
   },
   {
-    "value": " the Large",
+    "value": " o Grande",
     "path": "/suffix/57",
     "op": "replace"
   },
   {
-    "value": " Dork",
+    "value": " Nerd",
     "path": "/suffix/58",
     "op": "replace"
   },
   {
-    "value": " the Serial Killer",
+    "value": " o Serial Killer",
     "path": "/suffix/59",
     "op": "replace"
   },
   {
-    "value": " the Rabid Cannibal",
+    "value": " o Canibal Rabino",
     "path": "/suffix/60",
     "op": "replace"
   },
   {
-    "value": " the Overweight Launderer",
+    "value": " o Lavador pesado",
     "path": "/suffix/61",
     "op": "replace"
   },
   {
-    "value": " the Inebriated Idiot",
+    "value": " o Idiota Inebriado",
     "path": "/suffix/62",
     "op": "replace"
   },
   {
-    "value": " the Logless Idiot",
+    "value": " o Idiota sem Log",
     "path": "/suffix/63",
     "op": "replace"
   },
   {
-    "value": " the Non-Reader",
+    "value": " o Analfabeto",
     "path": "/suffix/64",
     "op": "replace"
   },
   {
-    "value": " the Unintelligent",
+    "value": " o Burro",
     "path": "/suffix/65",
     "op": "replace"
   },
   {
-    "value": " the Fart-Powered",
+    "value": " o Peido-Poderoso",
     "path": "/suffix/66",
     "op": "replace"
   },
   {
-    "value": " the Cleaner",
+    "value": " o Limpador",
     "path": "/suffix/67",
     "op": "replace"
   },
   {
-    "value": " the Wetworks Master",
+    "value": " o Mestre-Molhado",
     "path": "/suffix/68",
     "op": "replace"
   },
   {
-    "value": " the Reaver",
+    "value": " o Malandro",
     "path": "/suffix/69",
     "op": "replace"
   },
   {
-    "value": " the Panty-Sniffer",
+    "value": " o Cheirador de calcinha",
     "path": "/suffix/70",
     "op": "replace"
   },
   {
-    "value": " the Bizarre Fetishist",
+    "value": " o Fetichista Bizarro",
     "path": "/suffix/71",
     "op": "replace"
   },
   {
-    "value": " the Lunch Bandit",
+    "value": " o Bandido do Almo\u00E7o",
     "path": "/suffix/72",
     "op": "replace"
   },
   {
-    "value": " the Wet Bandit",
+    "value": " o Bandido Molhado",
     "path": "/suffix/73",
     "op": "replace"
   }
