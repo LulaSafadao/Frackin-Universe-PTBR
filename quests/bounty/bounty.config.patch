@@ -12,7 +12,7 @@
  
 {"path":"/suffix/29","value":" Martelo","op":"replace"},
  
-{"path":"/suffix/27","value":" Falcão","op":"replace"},
+{"path":"/suffix/27","value":" Falc\u00E3o","op":"replace"},
  
 {"path":"/suffix/43","value":" Inc\u00f3gnito","op":"replace"},
  
@@ -217,7 +217,7 @@
     "op": "replace"
   },
   {
-    "value": "Estatico ",
+    "value": "Est\u00E1tico ",
     "path": "/prefix/57",
     "op": "replace"
   },
@@ -227,7 +227,7 @@
     "op": "replace"
   },
   {
-    "value": "Otario ",
+    "value": "Ot\u00E1rio ",
     "path": "/prefix/59",
     "op": "replace"
   },
@@ -242,7 +242,7 @@
     "op": "replace"
   },
   {
-    "value": "Roliço ",
+    "value": "Roli\u00E7o ",
     "path": "/prefix/62",
     "op": "replace"
   },
@@ -262,7 +262,7 @@
     "op": "replace"
   },
   {
-    "value": "Titanico ",
+    "value": "Tit\u00E2nico ",
     "path": "/prefix/66",
     "op": "replace"
   },
@@ -322,7 +322,7 @@
     "op": "replace"
   },
   {
-    "value": "Caçador ",
+    "value": "Ca\u00E7ador ",
     "path": "/prefix/78",
     "op": "replace"
   },
@@ -352,7 +352,7 @@
     "op": "replace"
   },
   {
-    "value": " O Sonâmbulo",
+    "value": " O Son\u00E2mbulo",
     "path": "/suffix/46",
     "op": "replace"
   },
@@ -462,7 +462,7 @@
     "op": "replace"
   },
   {
-    "value": " o Mestre-Molhado ",
+    "value": " o Mestre-Molhado",
     "path": "/suffix/68",
     "op": "replace"
   },
@@ -482,7 +482,7 @@
     "op": "replace"
   },
   {
-    "value": " o Bandido do Almoço",
+    "value": " o Bandido do Almo\u00E7o",
     "path": "/suffix/72",
     "op": "replace"
   },
