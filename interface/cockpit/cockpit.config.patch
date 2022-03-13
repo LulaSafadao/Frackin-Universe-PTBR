@@ -1536,7 +1536,7 @@
   },
   {
     "op": "replace",
-    "value": "Mundo proto",
+    "value": "Proto",
     "path": "/planetTypeNames/protoworld"
   },
   {
@@ -1756,7 +1756,7 @@
   },
   {
     "op": "replace",
-    "value": "Mundo proto sombrio",
+    "value": "Proto Sombrio",
     "path": "/planetTypeNames/protoworlddark"
   },
   {
