@@ -1025,682 +1025,682 @@
 {"path":"/bioluminescence/spire2/name","value":"torre amarela","op":"replace"},
   
   {
-    "value": "execution wagon",
+    "value": "vag\u00E3o de execu\u00E7\u00E3o",
     "path": "/fuencounters/deathcamp1/name",
     "op": "replace"
   },
   {
-    "value": "gallows",
+    "value": "forca",
     "path": "/fuencounters/deathcamp2/name",
     "op": "replace"
   },
   {
-    "value": "prisoner camp",
+    "value": "acampamento de prisioneiros",
     "path": "/fuencounters/deathcamp3/name",
     "op": "replace"
   },
   {
-    "value": "abandoned Apex facility",
+    "value": "instala\u00E7\u00E3o Apex abandonada",
     "path": "/apexencounter/abandoned/name",
     "op": "replace"
   },
   {
-    "value": "ruined Apex tunnels",
+    "value": "t\u00FAneis Apex em ru\u00EDnas",
     "path": "/apexencounter/ruins/name",
     "op": "replace"
   },
   {
-    "value": "bright metal bridge",
+    "value": "ponte de metal brilhante",
     "path": "/apexencounter/bridge/name",
     "op": "replace"
   },
   {
-    "value": "overgrown Apex facility",
+    "value": "instala\u00E7\u00E3o Apex superlotado",
     "path": "/apexencounter/infested/name",
     "op": "replace"
   },
   {
-    "value": "Avian graveyard",
+    "value": "cemit\u00E9rio Avian",
     "path": "/avianencounter/graveyard/name",
     "op": "replace"
   },
   {
-    "value": "Avian house",
+    "value": "casa Avian",
     "path": "/avianencounter/house/name",
     "op": "replace"
   },
   {
-    "value": "Avian hut",
+    "value": "cabana Avian",
     "path": "/avianencounter/hut/name",
     "op": "replace"
   },
   {
-    "value": "cave with Avian market stalls",
+    "value": "caverna com barracas mercantes Avian",
     "path": "/avianencounter/cave/name",
     "op": "replace"
   },
   {
-    "value": "dock",
+    "value": "doca",
     "path": "/avianencounter/dock/name",
     "op": "replace"
   },
   {
-    "value": "Floran hunting stand",
+    "value": "Posto de ca\u00E7a floran",
     "path": "/floranencounter/caged/name",
     "op": "replace"
   },
   {
-    "value": "Floran hut",
+    "value": "cabana Floran",
     "path": "/floranencounter/hut/name",
     "op": "replace"
   },
   {
-    "value": "wide clearing",
+    "value": "clareira ampla",
     "path": "/floranencounter/nomad/name",
     "op": "replace"
   },
   {
-    "value": "frog merchant's cave",
+    "value": "caverna do mercador sapo",
     "path": "/floranencounter/pincave/name",
     "op": "replace"
   },
   {
-    "value": "wide clearing",
+    "value": "clareira ampla",
     "path": "/floranencounter/pinfriend/name",
     "op": "replace"
   },
   {
-    "value": "secluded house",
+    "value": "casa isolada",
     "path": "/glitchencounter/house/name",
     "op": "replace"
   },
   {
-    "value": "Glitch wizard's tower",
+    "value": "Torre do feiticeiro Glitch",
     "path": "/glitchencounter/wizard/name",
     "op": "replace"
   },
   {
-    "value": "Glitch lord's tower",
+    "value": "torre do lorde Glitch",
     "path": "/glitchencounter/lord/name",
     "op": "replace"
   },
   {
-    "value": "large clearing with the cage next to it",
+    "value": "grande clareira com uma gaiola pr\u00F3xima",
     "path": "/glitchencounter/caged/name",
     "op": "replace"
   },
   {
-    "value": "cave with the abandoned campsite",
+    "value": "caverna com o acampamento abandonado",
     "path": "/humanencounter/cave/name",
     "op": "replace"
   },
   {
-    "value": "campsite next to the pond",
+    "value": "acampamento ao lado da lagoa",
     "path": "/humanencounter/camp/name",
     "op": "replace"
   },
   {
-    "value": "abandoned U.S.C.M. facility",
+    "value": "instala\u00E7\u00F5es da U.S.C.M. abandonadas",
     "path": "/humanencounter/facility/name",
     "op": "replace"
   },
   {
-    "value": "old prison tower",
+    "value": "torre da velha pres\u00EDdio",
     "path": "/humanencounter/tower/name",
     "op": "replace"
   },
   {
-    "value": "bone spires",
+    "value": "pin\u00E1culos de osso",
     "path": "/boneencounter/spires/name",
     "op": "replace"
   },
   {
-    "value": "fortified house",
+    "value": "casa fortificada",
     "path": "/boneencounter/house/name",
     "op": "replace"
   },
   {
-    "value": "old ruins",
+    "value": "ru\u00EDnas antigas",
     "path": "/boneencounter/ruins/name",
     "op": "replace"
   },
   {
-    "value": "clearing",
+    "value": "clareira",
     "path": "/boneencounter/clearing1/name",
     "op": "replace"
   },
   {
-    "value": "clearing",
+    "value": "clareira",
     "path": "/boneencounter/clearing2/name",
     "op": "replace"
   },
   {
-    "value": "strange house",
+    "value": "casa estranha",
     "path": "/colourfulencounter/house/name",
     "op": "replace"
   },
   {
-    "value": "clearing",
+    "value": "clareira",
     "path": "/colourfulencounter/clearing1/name",
     "op": "replace"
   },
   {
-    "value": "clearing",
+    "value": "clareira",
     "path": "/colourfulencounter/clearing2/name",
     "op": "replace"
   },
   {
-    "value": "hill",
+    "value": "monte",
     "path": "/colourfulencounter/hill/name",
     "op": "replace"
   },
   {
-    "value": "ruined tower",
+    "value": "torre em ru\u00EDnas",
     "path": "/eyeencounter/ruinedtower/name",
     "op": "replace"
   },
   {
-    "value": "well next to the old ruins",
+    "value": "po\u00E7o proxima da ru\u00EDna antiga",
     "path": "/eyeencounter/ruinwell/name",
     "op": "replace"
   },
   {
-    "value": "old ruins",
+    "value": "ru\u00EDna antiga",
     "path": "/eyeencounter/ruins/name",
     "op": "replace"
   },
   {
-    "value": "old broken bridge",
+    "value": "velha ponte quebrada",
     "path": "/eyeencounter/ruinedbridge/name",
     "op": "replace"
   },
   {
-    "value": "clearing",
+    "value": "clareira",
     "path": "/eyeencounter/clearing/name",
     "op": "replace"
   },
   {
-    "value": "huge plant pod",
+    "value": "grande casulo vegetal",
     "path": "/agaranencounter/giantpod/name",
     "op": "replace"
   },
   {
-    "value": "Agaran hut",
+    "value": "cabana Agaran",
     "path": "/agaranencounter/hut/name",
     "op": "replace"
   },
   {
-    "value": "plant-covered volcano",
+    "value": "vulc\u00E3o coberto por plantas",
     "path": "/agaranencounter/plantvolcano/name",
     "op": "replace"
   },
   {
-    "value": "pond",
+    "value": "lagoa",
     "path": "/agaranencounter/pond/name",
     "op": "replace"
   },
   {
-    "value": "mushroom cave",
+    "value": "caverna de cogumelos",
     "path": "/agaranencounter/cave/name",
     "op": "replace"
   },
   {
-    "value": "mushroom patch",
+    "value": "campo de cogumelos",
     "path": "/agaranencounter/shroompatch/name",
     "op": "replace"
   },
   {
-    "value": "plant-covered cauldron",
+    "value": "caldeir\u00E3o coberto de plantas",
     "path": "/agaranencounter/cauldron/name",
     "op": "replace"
   },
   {
-    "value": "plant-covered water-filled cauldron",
+    "value": "caldeir\u00E3o cheio de \u00E1gua coberto de plantas",
     "path": "/agaranencounter/cauldronwater/name",
     "op": "replace"
   },
   {
-    "value": "plant-covered lava-filled cauldron",
+    "value": "caldeir\u00E3o de lava coberto de plantas",
     "path": "/agaranencounter/cauldronlava/name",
     "op": "replace"
   },
   {
-    "value": "mushroom house",
+    "value": "casa de cogumelo",
     "path": "/agaranencounter/shroomhouse/name",
     "op": "replace"
   },
   {
-    "value": "crop field",
+    "value": "campo de colheitas",
     "path": "/agaranencounter/farm/name",
     "op": "replace"
   },
   {
-    "value": "Glitch blacksmith's house",
+    "value": "casa do ferreiro Glitch",
     "path": "/randomencounter/blacksmith/name",
     "op": "replace"
   },
   {
-    "value": "crop field",
+    "value": "campo de colheitas",
     "path": "/randomencounter/cropfield/name",
     "op": "replace"
   },
   {
-    "value": "cultist ruins",
+    "value": "ru\u00EDnas cultistas",
     "path": "/randomencounter/cultistaltar/name",
     "op": "replace"
   },
   {
-    "value": "farmstead",
+    "value": "fazendas",
     "path": "/randomencounter/farm/name",
     "op": "replace"
   },
   {
-    "value": "old sewer drain",
+    "value": "esgoto antigo",
     "path": "/randomencounter/sewerdrain/name",
     "op": "replace"
   },
   {
-    "value": "abandoned U.S.C.M. facility",
+    "value": "instala\u00E7\u00E3o da U.S.C.M. abandonada",
     "path": "/randomencounter/facility/name",
     "op": "replace"
   },
   {
-    "value": "wooden house",
+    "value": "casa de madeira",
     "path": "/randomencounter/house/name",
     "op": "replace"
   },
   {
-    "value": "stone tower",
+    "value": "torre de pedra",
     "path": "/randomencounter/tower/name",
     "op": "replace"
   },
   {
-    "value": "small underground shelter",
+    "value": "pequeno abrigo subterr\u00E2neo",
     "path": "/genericunderground/sheltersmall/name",
     "op": "replace"
   },
   {
-    "value": "underground shelter",
+    "value": "abrigo subterr\u00E2neo",
     "path": "/genericunderground/shelterlarge/name",
     "op": "replace"
   },
   {
-    "value": "small abandoned mine shaft",
+    "value": "pequeno fosso de mina abandonado",
     "path": "/genericunderground/minesmall/name",
     "op": "replace"
   },
   {
-    "value": "abandoned mine shaft",
+    "value": "fosso de mina abandonado",
     "path": "/genericunderground/minelarge/name",
     "op": "replace"
   },
   {
-    "value": "flooded abandoned mine shaft",
+    "value": "fosso inundado da mina abandonada",
     "path": "/genericunderground/mineflooded/name",
     "op": "replace"
   },
   {
-    "value": "underground Apex facility",
+    "value": "instala\u00E7\u00F5es Apex subterr\u00E2neas",
     "path": "/apexunderground/facility/name",
     "op": "replace"
   },
   {
-    "value": "underground vault",
+    "value": "abrigo subterr\u00E2neo",
     "path": "/apexunderground/treasure/name",
     "op": "replace"
   },
   {
-    "value": "underground Avian tomb",
+    "value": "t\u00FAmulo subterr\u00E2neo Avian",
     "path": "/avianunderground/tomb/name",
     "op": "replace"
   },
   {
-    "value": "underground store room",
+    "value": "armaz\u00E9m subterr\u00E2neo",
     "path": "/avianunderground/room/name",
     "op": "replace"
   },
   {
-    "value": "underground Avian ruins",
+    "value": "ru\u00EDnas subterr\u00E2neas Avian",
     "path": "/avianunderground/treasure/name",
     "op": "replace"
   },
   {
-    "value": "underground plant-covered chamber",
+    "value": "c\u00E2mara subterr\u00E2nea coberta por planta",
     "path": "/floranunderground/chamber/name",
     "op": "replace"
   },
   {
-    "value": "underground moss-covered room",
+    "value": "c\u00E2mara subterr\u00E2nea coberta de musgo",
     "path": "/floranunderground/mossy/name",
     "op": "replace"
   },
   {
-    "value": "underground stone room",
+    "value": "c\u00E2mara subterr\u00E2nea de pedra",
     "path": "/glitchunderground/room/name",
     "op": "replace"
   },
   {
-    "value": "large underground room",
+    "value": "grande c\u00E2mara subterr\u00E2nea",
     "path": "/glitchunderground/dungeon/name",
     "op": "replace"
   },
   {
-    "value": "large underground room",
+    "value": "grande c\u00E2mara subterr\u00E2nea",
     "path": "/glitchunderground/hideout/name",
     "op": "replace"
   },
   {
-    "value": "underground shelter",
+    "value": "abrigo subterr\u00E2neo",
     "path": "/glitchunderground/house/name",
     "op": "replace"
   },
   {
-    "value": "underground stone ruins",
+    "value": "ru\u00EDnas subterr\u00E2neas de pedra",
     "path": "/glitchunderground/ruins/name",
     "op": "replace"
   },
   {
-    "value": "underground sewer",
+    "value": "esgoto subterr\u00E2neo",
     "path": "/glitchunderground/sewer/name",
     "op": "replace"
   },
   {
-    "value": "spike-laden underground room",
+    "value": "c\u00E2mara subterr\u00E2nea cheia de estacas",
     "path": "/glitchunderground/traproom1/name",
     "op": "replace"
   },
   {
-    "value": "poison-filled underground room",
+    "value": "c\u00E2mara subterr\u00E2nea cheia de veneno",
     "path": "/glitchunderground/traproom2/name",
     "op": "replace"
   },
   {
-    "value": "underground chess room",
+    "value": "sal\u00E3o de xadrez subterr\u00E2neo",
     "path": "/glitchunderground/traproom3/name",
     "op": "replace"
   },
   {
-    "value": "underground treasure room",
+    "value": "sala do tesouro subterr\u00E2nea",
     "path": "/glitchunderground/treasure/name",
     "op": "replace"
   },
   {
-    "value": "underground arcade",
+    "value": "fliperama subterr\u00E2neo",
     "path": "/humanunderground/arcade/name",
     "op": "replace"
   },
   {
-    "value": "underground U.S.C.M. bunker",
+    "value": "bunker da U.S.C.M. subterr\u00E2neo ",
     "path": "/humanunderground/bunker/name",
     "op": "replace"
   },
   {
-    "value": "underground prison cell",
+    "value": "cela prisional subterr\u00E2nea",
     "path": "/humanunderground/prison/name",
     "op": "replace"
   },
   {
-    "value": "underground outpost",
+    "value": "posto avan\u00E7ado subterr\u00E2neo",
     "path": "/outpostunderground/bunker/name",
     "op": "replace"
   },
   {
-    "value": "underground greenhouse",
+    "value": "estufa subterr\u00E2nea",
     "path": "/outpostunderground/greenhouse/name",
     "op": "replace"
   },
   {
-    "value": "small underground outpost",
+    "value": "pequeno posto avan\u00E7ado subterr\u00E2neo",
     "path": "/outpostunderground/shelter/name",
     "op": "replace"
   },
   {
-    "value": "entrance to the Miniknog Laboratory",
+    "value": "entrada para o Laborat\u00F3rio Miniknog",
     "path": "/apexresearchlab/entrance/name",
     "op": "replace"
   },
   {
-    "value": "roof of the Miniknog Laboratory",
+    "value": "terra\u00E7o do Laborat\u00F3rio Miniknog",
     "path": "/apexresearchlab/roof/name",
     "op": "replace"
   },
   {
-    "value": "Miniknog Laboratory",
+    "value": "Laborat\u00F3rio Miniknog",
     "path": "/apexresearchlab/interior/name",
     "op": "replace"
   },
   {
-    "value": "entrance to the Miniknog Testing Chambers",
+    "value": "entrada para as c\u00E2maras de teste Miniknog",
     "path": "/apextestchamber/entrance/name",
     "op": "replace"
   },
   {
-    "value": "generator room of the Miniknog Testing Chambers",
+    "value": "sala do gerador das c\u00E2maras de teste Miniknog",
     "path": "/apextestchamber/generator/name",
     "op": "replace"
   },
   {
-    "value": "western side of the Miniknog Testing Chambers",
+    "value": "lado oeste das C\u00E2maras de Testes Miniknog",
     "path": "/apextestchamber/westroom/name",
     "op": "replace"
   },
   {
-    "value": "eastern side of the Miniknog Testing Chambers",
+    "value": "lado leste das C\u00E2maras de Testes Miniknog",
     "path": "/apextestchamber/eastroom/name",
     "op": "replace"
   },
   {
-    "value": "base of the Avian Tower",
+    "value": "base da Torre Avian",
     "path": "/aviantower/base/name",
     "op": "replace"
   },
   {
-    "value": "top of the Avian Tower",
+    "value": "topo da torre Avian",
     "path": "/aviantower/top/name",
     "op": "replace"
   },
   {
-    "value": "entrance to the Floran Prison",
+    "value": "entrada da pres\u00EDdio Floran",
     "path": "/floranhell/entrance/name",
     "op": "replace"
   },
   {
-    "value": "cell block of the Floran Prison",
+    "value": "bloco de celas da pres\u00EDdio Floran",
     "path": "/floranhell/cellblock/name",
     "op": "replace"
   },
   {
-    "value": "bone pile within the Floran Prison",
+    "value": "pilha de ossos dentro do pres\u00EDdio Floran",
     "path": "/floranhell/lavabonepile/name",
     "op": "replace"
   },
   {
-    "value": "depths of the Floran Prison",
+    "value": "profundezas do pres\u00EDdio Floran",
     "path": "/floranhell/depths/name",
     "op": "replace"
   },
   {
-    "value": "entrance to the U.S.C.M. Bunker",
+    "value": "entrada do Bunker da U.S.C.M.",
     "path": "/humanbunker/entrance/name",
     "op": "replace"
   },
   {
-    "value": "U.S.C.M. Bunker",
+    "value": "Bunker da U.S.C.M.",
     "path": "/humanbunker/17/name",
     "op": "replace"
   },
   {
-    "value": "U.S.C.M. Bunker",
+    "value": "Bunker da U.S.C.M.",
     "path": "/humanbunker/11/name",
     "op": "replace"
   },
   {
-    "value": "U.S.C.M. Bunker",
+    "value": "Bunker da U.S.C.M.",
     "path": "/humanbunker/5/name",
     "op": "replace"
   },
   {
-    "value": "U.S.C.M. Bunker",
+    "value": "Bunker da U.S.C.M.",
     "path": "/humanbunker/14/name",
     "op": "replace"
   },
   {
-    "value": "U.S.C.M. Bunker",
+    "value": "Bunker da U.S.C.M.",
     "path": "/humanbunker/deadend/name",
     "op": "replace"
   },
   {
-    "value": "entrance to the mysterious high-tech dungeon",
+    "value": "entrada para o misterioso calabou\u00E7o tecnol\u00F3gico",
     "path": "/scifidungeon/entrance/name",
     "op": "replace"
   },
   {
-    "value": "treasure room within the mysterious high-tech dungeon",
+    "value": "sala do tesouro dentro do misterioso calabou\u00E7o tecnol\u00F3gico",
     "path": "/scifidungeon/treasureroom/name",
     "op": "replace"
   },
   {
-    "value": "dead-end room within the mysterious high-tech dungeon",
+    "value": "sala sem sa\u00EDda dentro do calabou\u00E7o misterioso tecnol\u00F3gico",
     "path": "/scifidungeon/deadend/name",
     "op": "replace"
   },
   {
-    "value": "large chamber within the mysterious high-tech dungeon",
+    "value": "grande c\u00E2mara dentro do misterioso calabou\u00E7o tecnol\u00F3gico",
     "path": "/scifidungeon/chamber/name",
     "op": "replace"
   },
   {
-    "value": "vertical shaft within the mysterious high-tech dungeon",
+    "value": "fosso vertical dentro do misterioso calabou\u00E7o tecnol\u00F3gico",
     "path": "/scifidungeon/verticalshaft/name",
     "op": "replace"
   },
   {
-    "value": "cockpit of the wrecked spaceship",
+    "value": "cockpit da nave espacial destru\u00EDda",
     "path": "/wreck/cockpit/name",
     "op": "replace"
   },
   {
-    "value": "engine room of the wrecked spaceship",
+    "value": "sala do motor da nave espacial destru\u00EDda",
     "path": "/wreck/engineroom/name",
     "op": "replace"
   },
   {
-    "value": "interior of the wrecked spaceship",
+    "value": "interior da nave espacial destru\u00EDda",
     "path": "/wreck/interior/name",
     "op": "replace"
   },
   {
-    "value": "cockpit of the sunken spaceship",
+    "value": "cockpit da nave espacial afundada",
     "path": "/wreckunderwater/cockpit/name",
     "op": "replace"
   },
   {
-    "value": "engine room of the sunken spaceship",
+    "value": "sala de motores da nave espacial afundada",
     "path": "/wreckunderwater/engineroom/name",
     "op": "replace"
   },
   {
-    "value": "interior of the sunken spaceship",
+    "value": "interior da nave afundada",
     "path": "/wreckunderwater/interior/name",
     "op": "replace"
   },
   {
-    "value": "cockpit of the sunken spaceship",
+    "value": "cockpit da nave espacial afundada",
     "path": "/wreckunderpoison/cockpit/name",
     "op": "replace"
   },
   {
-    "value": "engine room of the sunken spaceship",
+    "value": "sala de motores da nave espacial afundada",
     "path": "/wreckunderpoison/engineroom/name",
     "op": "replace"
   },
   {
-    "value": "interior of the sunken spaceship",
+    "value": "interior da nave afundada",
     "path": "/wreckunderpoison/interior/name",
     "op": "replace"
   },
   {
-    "value": "old abandoned well",
+    "value": "antigo po\u00E7o abandonado",
     "path": "/volcanic/towerinvinciblemap1/name",
     "op": "replace"
   },
   {
-    "value": "strange foundry",
+    "value": "estranha fundi\u00E7\u00E3o",
     "path": "/volcanic/towerinvinciblemap2/name",
     "op": "replace"
   },
   {
-    "value": "thugs' outpost",
+    "value": "posto avan\u00E7ado de bandidos",
     "path": "/volcanic/towerinvinciblemap3/name",
     "op": "replace"
   },
   {
-    "value": "Miniknog outpost",
+    "value": "Posto avan\u00E7ado da Miniknog",
     "path": "/toxic/infiltrationmap1/name",
     "op": "replace"
   },
   {
-    "value": "Miniknog outpost",
+    "value": "Posto avan\u00E7ado da Miniknog",
     "path": "/toxic/infiltrationmap2/name",
     "op": "replace"
   },
   {
-    "value": "Miniknog outpost",
+    "value": "Posto avan\u00E7ado da Miniknog",
     "path": "/toxic/infiltrationmap3/name",
     "op": "replace"
   },
   {
-    "value": "grassy barrow",
+    "value": "carriola de palha",
     "path": "/alpine/magickaforestmap1/name",
     "op": "replace"
   },
   {
-    "value": "mountain lake",
+    "value": "lago da montanha",
     "path": "/alpine/magickaforestmap2/name",
     "op": "replace"
   },
   {
-    "value": "cliffside hut",
+    "value": "cabana na beira do penhasco",
     "path": "/alpine/magickaforestmap3/name",
     "op": "replace"
   },
   {
-    "value": "base of the ancient ruins",
+    "value": "base das velhas ru\u00EDnas",
     "path": "/ancientjungleruins/entrance/name",
     "op": "replace"
   },
   {
-    "value": "underwater Miniknog facility",
+    "value": "instala\u00E7\u00E3o Miniknog submarina",
     "path": "/apexunderwaterlabs/entrance/name",
     "op": "replace"
   },
   {
-    "value": "Novakid outlaw camp",
+    "value": "acampamento de criminosos Novakid",
     "path": "/novakidoutlawcamp/entrance/name",
     "op": "replace"
   },
   {
-    "value": "Peglaci research station",
+    "value": "Esta\u00E7\u00E3o de pesquisa Peglaci",
     "path": "/tundra/buildingfupeglaci/name",
     "op": "replace"
   },
   {
-    "value": "west entrance of the Peglaci Peacekeeper outpost",
+    "value": "entrada oeste do posto avan\u00E7ado Peacekeeper Peglaci",
     "path": "/fupeglacipeacekeeper/west/name",
     "op": "replace"
   },
   {
-    "value": "east entrance of the Peglaci Peacekeeper outpost",
+    "value": "entrada leste do posto avan\u00E7ado Peacekeeper Peglaci",
     "path": "/fupeglacipeacekeeper/east/name",
     "op": "replace"
   },
   {
-    "value": "Human apartment colony",
+    "value": "Col\u00F4nia de apartamentos humanos",
     "path": "/humanapartments/entrance/name",
     "op": "replace"
   },
   {
-    "value": "mech maintainence station",
+    "value": "esta\u00E7\u00E3o de manuten\u00E7\u00E3o da meca",
     "path": "/fuasteroidbelt/mechbay/name",
     "op": "replace"
   },
@@ -1710,12 +1710,12 @@
     "op": "replace"
   },
   {
-    "value": "'Stabbed Things Emporium'",
+    "value": "'Emp\u00F3rio das Coisas Esfaqueadas'",
     "path": "/fuasteroidbelt/stabbedthings/name",
     "op": "replace"
   },
   {
-    "value": "Miniknog black site",
+    "value": "Posto ilegal Miniknog",
     "path": "/fuasteroidbelt/apexmining/name",
     "op": "replace"
   }
