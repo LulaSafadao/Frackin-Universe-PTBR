@@ -1,0 +1,126 @@
+[{"path":"/0/1/10/1/name","value":"Bobfaes","op":"replace"}, 
+ {"path":"/0/1/9/1/name","value":"Fennixes","op":"replace"}, 
+ {"path":"/0/1/1/1/name","value":"Gleaps","op":"replace"}, 
+ {"path":"/0/1/5/1/name","value":"Lilodons","op":"replace"}, 
+ {"path":"/0/1/3/1/name","value":"Miasmops","op":"replace"}, 
+ {"path":"/0/1/8/1/name","value":"Oculobs","op":"replace"}, 
+ {"path":"/0/1/7/1/name","value":"Petricubs","op":"replace"}, 
+ {"path":"/0/1/6/1/name","value":"Poptops","op":"replace"}, 
+ {"path":"/0/1/4/1/name","value":"Snaunts","op":"replace"}, 
+ {"path":"/0/1/2/1/name","value":"Voltips","op":"replace"}, 
+ {"path":"/0/1/13/1/name","value":"p\u00e1ssaros","op":"replace"}, 
+ {"path":"/0/1/11/1/name","value":"monstros","op":"replace"}, 
+ {"path":"/0/1/12/1/name","value":"monstros","op":"replace"}, 
+ {"path":"/0/1/0/1/name","value":"teste peixes com pernas","op":"replace"},
+ 
+  {
+    "value": "Annoying pest",
+    "path": "/0/1/14/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Rabid Bat",
+    "path": "/0/1/15/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Wild Raptor",
+    "path": "/0/1/16/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Alien Threat",
+    "path": "/0/1/17/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Rabid Rat-Thing",
+    "path": "/0/1/18/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Wattsper",
+    "path": "/0/1/19/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Crisper",
+    "path": "/0/1/20/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Horror",
+    "path": "/0/1/21/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Malfunctioning Drone",
+    "path": "/0/1/22/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Shadow Golem",
+    "path": "/0/1/23/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Shadow Bat",
+    "path": "/0/1/24/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Tainted Poptop",
+    "path": "/0/1/25/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Ruin-Infected Comet",
+    "path": "/0/1/26/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Fungal Freak",
+    "path": "/0/1/27/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Troll",
+    "path": "/0/1/28/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Anglure-type thing",
+    "path": "/0/1/29/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Frostlit",
+    "path": "/0/1/30/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Aggravating hoppy-onion",
+    "path": "/0/1/31/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Glarp",
+    "path": "/0/1/32/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Gloop",
+    "path": "/0/1/33/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Glump",
+    "path": "/0/1/34/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Vile Snaunt",
+    "path": "/0/1/35/1/name",
+    "op": "replace"
+  }
+]

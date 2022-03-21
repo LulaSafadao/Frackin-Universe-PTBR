@@ -1,0 +1,83 @@
+[{"path":"/0/1/6/1/name","value":"Fennix","op":"replace"}, 
+ {"path":"/0/1/5/1/name","value":"Bobot","op":"replace"}, 
+ {"path":"/0/1/0/1/name","value":"Capricoat","op":"replace"}, 
+ {"path":"/0/1/7/1/name","value":"Crutter","op":"replace"}, 
+ {"path":"/0/1/3/1/name","value":"Smoglin","op":"replace"}, 
+ {"path":"/0/1/4/1/name","value":"Tintic","op":"replace"}, 
+ {"path":"/0/1/1/1/name","value":"Nutmidge","op":"replace"}, 
+ {"path":"/0/1/2/1/name","value":"Scaveran","op":"replace"}, 
+ {"path":"/0/1/10/1/name","value":"p\u00e1ssaro","op":"replace"}, 
+ {"path":"/0/1/8/1/name","value":"monstro","op":"replace"}, 
+ {"path":"/0/1/9/1/name","value":"monstro","op":"replace"},
+
+  {
+    "value": "Phantokat",
+    "path": "/0/1/11/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Snapper",
+    "path": "/0/1/12/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Wilt Crab",
+    "path": "/0/1/13/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Psilamander",
+    "path": "/0/1/14/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Deep One",
+    "path": "/0/1/15/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Bunny-thing",
+    "path": "/0/1/16/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "terrifying Fleshreaper",
+    "path": "/0/1/17/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Mother Poptop",
+    "path": "/0/1/18/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Adult Poptop",
+    "path": "/0/1/19/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Alien Soldier",
+    "path": "/0/1/20/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Scaveran Reptar",
+    "path": "/0/1/21/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Troll",
+    "path": "/0/1/22/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Huge Troll",
+    "path": "/0/1/23/1/name",
+    "op": "replace"
+  },
+  {
+    "value": "Gelatinous Eye",
+    "path": "/0/1/24/1/name",
+    "op": "replace"
+  }
+]
